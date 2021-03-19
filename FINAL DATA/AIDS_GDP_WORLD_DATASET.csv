@@ -1,0 +1,1936 @@
+year,country_name,country_code,continent,sub_region,population,deathrate,gdp_per_capita,active_HIV_cases_children,active_HIV_cases_male_adults,active_HIV_cases_female_adults,AIDS_deaths_children,AIDS_deaths_male_adults,AIDS_deaths_female_adults
+2010,Afghanistan,AFG,Asia,Southern Asia,29185507,8.25,543.303041863931,<500 ,2800 ,1200 ,<100 ,<200 ,<100 
+2010,Albania,ALB,Europe,Southern Europe,2913021,6.841,4094.36211924475,... ,... ,... ,... ,... ,... 
+2010,Algeria,DZA,Africa,Northern Africa,35977455,4.656,4480.72453900113,<200 ,4000 ,2900 ,<100 ,<100 ,<100 
+2010,American Samoa,ASM,Oceania,Polynesia,56079,..,10271.2245225485,,,,,,
+2010,Andorra,AND,Europe,Southern Europe,84449,2.8,39736.3540626699,,,,,,
+2010,Angola,AGO,Africa,Middle Africa,23356246,11.68,3587.88379824396,28 000 ,59 000 ,130 000 ,4100 ,1800 ,4200 
+2010,Antigua and Barbuda,ATG,Americas,Caribbean,88028,6.055,13049.2570545735,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2010,Argentina,ARG,Americas,South America,40788453,7.708,10385.9644319555,2700 ,71 000 ,33 000 ,<100 ,1200 ,<500 
+2010,Armenia,ARM,Asia,Western Asia,2877319,9.739,3218.37270660563,... ,2200 ,1100 ,... ,<100 ,<100 
+2010,Aruba,ABW,Americas,Caribbean,101669,7.918,23512.6025956397,,,,,,
+2010,Australia,AUS,Oceania,Australia and New Zealand,22031750,6.5,52022.1255961876,<100 ,18 000 ,2300 ,<100 ,<200 ,<100 
+2010,Austria,AUT,Europe,Western Europe,8363404,9.2,46858.0432733717,... ,... ,... ,... ,... ,... 
+2010,Azerbaijan,AZE,Asia,Western Asia,9054332,5.9,5842.80578358576,... ,... ,... ,... ,... ,... 
+2010,"Bahamas, The",BHS,Americas,Caribbean,354942,6.566,,,,,,,
+2010,Bahrain,BHR,Asia,Western Asia,1240860,2.327,20722.1372891348,... ,... ,... ,... ,... ,... 
+2010,Bangladesh,BGD,Asia,Southern Asia,147575430,5.734,781.153593557047,<500 ,4800 ,2600 ,<100 ,<200 ,<100 
+2010,Barbados,BRB,Americas,Caribbean,282131,8.368,16056.1168393406,... ,1600 ,<1000 ,... ,<100 ,<100 
+2010,Belarus,BLR,Europe,Eastern Europe,9490583,14.5,6181.39991568753,<200 ,7200 ,5200 ,<100 ,<100 ,<100 
+2010,Belgium,BEL,Europe,Western Europe,10895586,9.7,44141.8781415734,... ,... ,... ,... ,... ,... 
+2010,Belize,BLZ,Americas,Central America,322464,4.597,4270.79964683667,<200 ,1900 ,1700 ,<100 ,<100 ,<100 
+2010,Benin,BEN,Africa,Western Africa,9199259,10.094,758.435082889989,5700 ,23 000 ,33 000 ,<1000 ,<1000 ,<1000 
+2010,Bermuda,BMU,Americas,Northern America,65124,7.3,88207.3275597322,,,,,,
+2010,Bhutan,BTN,Asia,Southern Asia,685503,6.414,2258.18314084562,... ,<1000 ,<500 ,... ,<100 ,<100 
+2010,Bolivia,BOL,Americas,South America,10048590,7.448,1955.46155736098,,,,,,
+2010,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3705472,9.747,4635.51777931783,... ,<200 ,<100 ,... ,<100 ,<100 
+2010,Botswana,BWA,Africa,Southern Africa,1987105,9.146,6434.81565688465,25 000 ,140 000 ,180 000 ,1500 ,2600 ,3100 
+2010,Brazil,BRA,Americas,South America,195713635,6.045,11286.2430162457,... ,... ,... ,... ,... ,... 
+2010,British Virgin Islands,VGB,Americas,Caribbean,27794,..,..,,,,,,
+2010,Brunei Darussalam,BRN,Asia,South-Eastern Asia,388646,3.831,35269.5531076448,... ,... ,... ,... ,... ,... 
+2010,Bulgaria,BGR,Europe,Eastern Europe,7395599,14.9,6843.26694975885,... ,1400 ,<500 ,... ,<100 ,<100 
+2010,Burkina Faso,BFA,Africa,Western Africa,15605217,10.645,575.446452687734,16 000 ,41 000 ,52 000 ,1300 ,1800 ,1700 
+2010,Burundi,BDI,Africa,Eastern Africa,8675602,10.113,234.235646874999,19 000 ,30 000 ,44 000 ,1500 ,1700 ,2000 
+2010,Cabo Verde,CPV,Africa,Western Africa,492654,6.005,3378.25485950035,... ,<1000 ,1100 ,... ,<100 ,<100 
+2010,Cambodia,KHM,Asia,South-Eastern Asia,14312212,6.512,785.502282874113,4700 ,36 000 ,39 000 ,<500 ,1200 ,1100 
+2010,Cameroon,CMR,Africa,Middle Africa,20341241,11.583,1285.26172565588,55 000 ,170 000 ,300 000 ,6600 ,4700 ,11 000 
+2010,Canada,CAN,Americas,Northern America,34004889,7,47450.3184700703,... ,... ,... ,... ,... ,... 
+2010,Cayman Islands,CYM,Americas,Caribbean,56672,2.9538638881134,73350.7848219067,,,,,,
+2010,Central African Republic,CAF,Africa,Middle Africa,4386768,16.329,487.945383289614,16 000 ,50 000 ,70 000 ,1600 ,2700 ,3500 
+2010,Chad,TCD,Africa,Middle Africa,11952136,14.598,891.698817391114,18 000 ,35 000 ,46 000 ,2100 ,<1000 ,<1000 
+2010,Chile,CHL,Americas,South America,17062536,5.631,12808.034586422,<500 ,32 000 ,6600 ,... ,... ,... 
+2010,China,CHN,Asia,Eastern Asia,1337705000,7.11,4550.45359583857,... ,... ,... ,... ,... ,... 
+2010,Colombia,COL,Americas,South America,45222700,5.247,6326.54946861963,5200 ,94 000 ,26 000 ,... ,... ,... 
+2010,Comoros,COM,Africa,Eastern Africa,689692,8.244,1315.21480648394,... ,<100 ,<100 ,... ,<100 ,<100 
+2010,"Congo, Dem. Rep.",COD,Africa,Middle Africa,64563854,11.587,,,,,,,
+2010,"Congo, Rep.",COG,Africa,Middle Africa,4273731,8.582,,,,,,,
+2010,Costa Rica,CRI,Americas,Central America,4577378,4.521,8141.91312675461,... ,7200 ,2000 ,... ,<200 ,<100 
+2010,Cote d'Ivoire,CIV,Africa,Western Africa,20532950,12.58,1211.93033804477,,,,,,
+2010,Croatia,HRV,Europe,Southern Europe,4295427,11.8,13923.6370524478,... ,... ,... ,... ,... ,... 
+2010,Cuba,CUB,Americas,Caribbean,11225832,7.721,5730.35477459488,<100 ,14 000 ,2800 ,<100 ,<500 ,<100 
+2010,Curacao,CUW,Americas,Caribbean,148703,8.4,..,,,,,,
+2010,Cyprus,CYP,Asia,Western Asia,1112612,6.756,30818.4799259532,... ,... ,... ,... ,... ,... 
+2010,Czech Republic,CZE,Europe,Eastern Europe,10474410,10.2,19808.0710912518,,,,,,
+2010,Denmark,DNK,Europe,Northern Europe,5547683,9.8,58041.3984363385,... ,4000 ,1500 ,... ,<100 ,<100 
+2010,Djibouti,DJI,Africa,Eastern Africa,840198,9.156,1343.26872994437,1200 ,3500 ,4700 ,<200 ,<500 ,<500 
+2010,Dominica,DMA,Americas,Caribbean,70878,8.29594514517904,6967.24522993605,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2010,Dominican Republic,DOM,Americas,Caribbean,9695121,6.03,5555.39094900238,2600 ,35 000 ,34 000 ,<200 ,1600 ,1300 
+2010,Ecuador,ECU,Americas,South America,15011117,5.072,4633.59035839904,<1000 ,24 000 ,9000 ,<100 ,<1000 ,<500 
+2010,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,82761235,6.218,,,,,,,
+2010,El Salvador,SLV,Americas,Central America,6183875,6.848,2983.24270784904,<1000 ,16 000 ,8400 ,<100 ,<500 ,<200 
+2010,Equatorial Guinea,GNQ,Africa,Middle Africa,943639,11.273,17272.0097706819,3700 ,15 000 ,16 000 ,<500 ,<500 ,<1000 
+2010,Eritrea,ERI,Africa,Eastern Africa,3170435,8.764,667.744177753249,1800 ,6000 ,9300 ,<200 ,<200 ,<500 
+2010,Estonia,EST,Europe,Northern Europe,1331475,11.9,14784.3810806949,... ,3900 ,2100 ,... ,<100 ,<100 
+2010,Eswatini,SWZ,Africa,Southern Africa,1064837,16.233,4168.50518307998,13 000 ,54 000 ,93 000 ,1100 ,1200 ,1500 
+2010,Ethiopia,ETH,Africa,Eastern Africa,87639964,8.441,341.554114905179,58 000 ,210 000 ,360 000 ,5400 ,5900 ,8600 
+2010,Faroe Islands,FRO,Europe,Northern Europe,47814,7.2,48530.2338492813,,,,,,
+2010,Fiji,FJI,Oceania,Melanesia,859818,8.007,3652.52743714193,... ,... ,... ,... ,... ,... 
+2010,Finland,FIN,Europe,Northern Europe,5363352,9.5,46459.9732548543,... ,2000 ,<1000 ,... ,<100 ,<100 
+2010,France,FRA,Europe,Western Europe,65027507,8.5,40638.33400426,<200 ,100 000 ,33 000 ,<100 ,<500 ,<200 
+2010,French Polynesia,PYF,Oceania,Polynesia,266455,5.011,,,,,,,
+2010,Gabon,GAB,Africa,Middle Africa,1624140,9.323,8840.73066379785,3400 ,12 000 ,27 000 ,<500 ,<500 ,<1000 
+2010,"Gambia, The",GMB,Africa,Western Africa,1793196,9.014,,,,,,,
+2010,Georgia,GEO,Asia,Western Asia,3786695,13.088,3233.29594347421,... ,3800 ,1800 ,... ,<100 ,<100 
+2010,Germany,DEU,Europe,Western Europe,81776930,10.5,41531.9341978689,<100 ,56 000 ,13 000 ,<100 ,<500 ,<100 
+2010,Ghana,GHA,Africa,Western Africa,24779619,8.359,1298.43695159215,36 000 ,91 000 ,170 000 ,3900 ,4400 ,8200 
+2010,Gibraltar,GIB,Europe,Southern Europe,33585,..,..,,,,,,
+2010,Greece,GRC,Europe,Southern Europe,11121341,9.8,26917.7589787254,... ,... ,... ,... ,... ,... 
+2010,Greenland,GRL,Americas,Northern America,56905,9,43988.3324931946,,,,,,
+2010,Grenada,GRD,Americas,Caribbean,106233,8.585,7257.75662232319,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2010,Guam,GUM,Oceania,Micronesia,159444,4.864,30700.4340081784,,,,,,
+2010,Guatemala,GTM,Americas,Central America,14630417,5.15,2825.48396349692,3200 ,27 000 ,19 000 ,<500 ,<1000 ,<1000 
+2010,Guinea,GIN,Africa,Western Africa,10192176,11.002,672.424402562443,12 000 ,37 000 ,55 000 ,1400 ,1100 ,1600 
+2010,Guinea-Bissau,GNB,Africa,Western Africa,1522599,11.741,557.632132626126,5600 ,13 000 ,19 000 ,<1000 ,<1000 ,<1000 
+2010,Guyana,GUY,Americas,South America,749436,7.143,3033.24772490536,<500 ,3200 ,3300 ,<100 ,<100 ,<100 
+2010,Haiti,HTI,Americas,Caribbean,9949322,9.629,665.627419493396,12 000 ,55 000 ,72 000 ,1100 ,1900 ,1900 
+2010,Honduras,HND,Americas,Central America,8317470,4.534,1904.34646496881,1600 ,16 000 ,8900 ,<100 ,1000 ,<500 
+2010,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7024200,6,,,,,,,
+2010,Hungary,HUN,Europe,Eastern Europe,10000023,13,13113.5259617277,... ,1700 ,<500 ,... ,<100 ,<100 
+2010,Iceland,ISL,Europe,Northern Europe,318041,6.4,43024.9238377351,... ,<200 ,<100 ,... ,<100 ,<100 
+2010,India,IND,Asia,Southern Asia,1234281170,7.492,1357.56371913262,... ,... ,... ,... ,... ,... 
+2010,Indonesia,IDN,Asia,South-Eastern Asia,241834215,6.653,3122.36281521649,9300 ,350 000 ,160 000 ,2000 ,16 000 ,5900 
+2010,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,73762519,4.905,,,,,,,
+2010,Iraq,IRQ,Asia,Western Asia,29741976,5.514,4657.28042580536,,,,,,
+2010,Ireland,IRL,Europe,Northern Europe,4560155,6.1,48715.1768553933,<100 ,2900 ,1900 ,<100 ,<100 ,<100 
+2010,Isle of Man,IMN,Europe,Northern Europe,84857,..,69766.5211886388,,,,,,
+2010,Israel,ISR,Asia,Western Asia,7623600,5.2,30693.5930786871,<100 ,4500 ,1500 ,<100 ,<100 ,<100 
+2010,Italy,ITA,Europe,Southern Europe,59277417,9.9,36000.5201179254,<200 ,75 000 ,32 000 ,<100 ,<1000 ,<500 
+2010,Jamaica,JAM,Americas,Caribbean,2810460,7.31,4704.05445468166,... ,... ,... ,... ,... ,... 
+2010,Japan,JPN,Asia,Eastern Asia,128070000,9.5,44507.6763859172,... ,17 000 ,2400 ,... ,... ,... 
+2010,Jordan,JOR,Asia,Western Asia,7261539,3.832,3690.11326778672,... ,<200 ,<100 ,... ,<100 ,<100 
+2010,Kazakhstan,KAZ,Asia,Central Asia,16321872,8.95,9070.48825285747,<200 ,6900 ,3800 ,<100 ,<200 ,<100 
+2010,Kenya,KEN,Africa,Eastern Africa,42030676,7.467,951.687961116879,210 000 ,490 000 ,780 000 ,16 000 ,15 000 ,25 000 
+2010,Kiribati,KIR,Oceania,Micronesia,102927,7.031,1516.81186907787,,,,,,
+2010,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,24548836,8.781,,,,,,,
+2010,"Korea, Rep.",KOR,Asia,Eastern Asia,49554112,5.1,,,,,,,
+2010,Kuwait,KWT,Asia,Western Asia,2991884,2.404,38577.3816572031,... ,<500 ,<200 ,... ,<100 ,<100 
+2010,Kyrgyz Republic,KGZ,Asia,Central Asia,5447900,6.6,880.037775119109,,,,,,
+2010,Lao PDR,LAO,Asia,South-Eastern Asia,6249165,7.394,1140.59920478703,,,,,,
+2010,Latvia,LVA,Europe,Northern Europe,2097555,14.3,11344.6933695837,... ,2800 ,1200 ,... ,<200 ,<100 
+2010,Lebanon,LBN,Asia,Western Asia,4953061,3.9,7756.74406876812,... ,1200 ,<500 ,... ,<100 ,<100 
+2010,Lesotho,LSO,Africa,Southern Africa,1995581,19.325,1199.95176611775,15 000 ,120 000 ,170 000 ,1200 ,2900 ,3100 
+2010,Liberia,LBR,Africa,Western Africa,3891356,9.662,513.445698620224,5500 ,14 000 ,21 000 ,<1000 ,<1000 ,1200 
+2010,Libya,LBY,Africa,Northern Africa,6197663,4.8,12064.7806924218,<200 ,4200 ,1700 ,<100 ,<100 ,<100 
+2010,Liechtenstein,LIE,Europe,Western Europe,35994,6.6,141200.380010278,,,,,,
+2010,Lithuania,LTU,Europe,Northern Europe,3097282,13.6,11953.9384416891,... ,... ,... ,... ,... ,... 
+2010,Luxembourg,LUX,Europe,Western Europe,506953,7.4,104965.306078267,... ,<1000 ,<200 ,... ,<100 ,<100 
+2010,"Macao SAR, China",MAC,Asia,Eastern Asia,538219,3.668,,,,,,,
+2010,Madagascar,MDG,Africa,Eastern Africa,21151640,7.375,471.959211584451,1400 ,14 000 ,5900 ,<200 ,<1000 ,<500 
+2010,Malawi,MWI,Africa,Eastern Africa,14539612,10.789,478.668589704525,110 000 ,310 000 ,450 000 ,11 000 ,8700 ,9800 
+2010,Malaysia,MYS,Asia,South-Eastern Asia,28208035,4.649,9040.56625117172,<1000 ,57 000 ,17 000 ,<100 ,2200 ,<1000 
+2010,Maldives,MDV,Asia,Southern Asia,365734,3.529,7076.66242320238,... ,... ,... ,... ,... ,... 
+2010,Mali,MLI,Africa,Western Africa,15049353,12.481,709.581964584771,18 000 ,38 000 ,63 000 ,2000 ,1200 ,2000 
+2010,Malta,MLT,Europe,Southern Europe,414508,7.3,21107.3644349639,... ,... ,... ,... ,... ,... 
+2010,Marshall Islands,MHL,Oceania,Micronesia,56366,..,2876.994996984,,,,,,
+2010,Mauritania,MRT,Africa,Western Africa,3494195,8.33,1241.42875621618,<500 ,4500 ,2200 ,<100 ,<500 ,<100 
+2010,Mauritius,MUS,Africa,Eastern Africa,1250400,7.3,8000.37643182154,<200 ,7200 ,3200 ,<100 ,<500 ,<200 
+2010,Mexico,MEX,Americas,Central America,114092963,5.266,9271.39823324639,2600 ,150 000 ,28 000 ,... ,... ,... 
+2010,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,102911,7.15,,,,,,,
+2010,Moldova,MDA,Europe,Eastern Europe,3562045,11.788,1958.13371987623,,,,,,
+2010,Monaco,MCO,Europe,Western Europe,35612,..,150585.448911112,,,,,,
+2010,Mongolia,MNG,Asia,Eastern Asia,2719896,6.562,2643.29291416763,... ,<500 ,<100 ,... ,<100 ,<100 
+2010,Montenegro,MNE,Europe,Southern Europe,619428,10.21,6682.28115774575,... ,<200 ,<100 ,... ,<100 ,<100 
+2010,Morocco,MAR,Africa,Northern Africa,32343389,5.225,2839.92516805933,<500 ,9800 ,6500 ,<100 ,<500 ,<200 
+2010,Mozambique,MOZ,Africa,Eastern Africa,23531574,12.89,471.181692645893,130 000 ,570 000 ,880 000 ,16 000 ,21 000 ,28 000 
+2010,Myanmar,MMR,Asia,South-Eastern Asia,50600818,8.858,979.051630004942,8200 ,140 000 ,76 000 ,<1000 ,8200 ,2000 
+2010,Namibia,NAM,Africa,Southern Africa,2118874,11.342,5324.6170395396,13 000 ,63 000 ,96 000 ,<1000 ,1200 ,1500 
+2010,Nauru,NRU,Oceania,Micronesia,10005,..,4921.11911101615,,,,,,
+2010,Nepal,NPL,Asia,Southern Asia,27013212,6.815,592.401097450929,1400 ,20 000 ,9800 ,<200 ,1000 ,<500 
+2010,Netherlands,NLD,Europe,Western Europe,16615394,8.2,50950.0343435181,<100 ,16 000 ,3400 ,<100 ,<200 ,<100 
+2010,New Caledonia,NCL,Oceania,Melanesia,249750,4.8,,,,,,,
+2010,New Zealand,NZL,Oceania,Australia and New Zealand,4350700,6.53,33692.0108346543,... ,2000 ,<500 ,... ,<100 ,<100 
+2010,Nicaragua,NIC,Americas,Central America,5824065,5.063,1503.87042323136,<500 ,5200 ,2500 ,<100 ,<200 ,<100 
+2010,Niger,NER,Africa,Western Africa,16464025,11.353,347.343040654604,3800 ,18 000 ,15 000 ,<500 ,<1000 ,<500 
+2010,Nigeria,NGA,Africa,Western Africa,158503197,14.27,2292.44515619082,150 000 ,640 000 ,740 000 ,18 000 ,30 000 ,25 000 
+2010,North Macedonia,MKD,Europe,Southern Europe,2070741,9.511,4542.89971678317,... ,<200 ,<100 ,... ,<100 ,<100 
+2010,Northern Mariana Islands,MNP,Oceania,Micronesia,53971,..,14804.2467250931,,,,,,
+2010,Norway,NOR,Europe,Northern Europe,4889252,8.5,87693.7900658099,... ,3000 ,1200 ,... ,<100 ,<100 
+2010,Oman,OMN,Asia,Western Asia,3041434,2.794,19281.1656336502,... ,1500 ,<1000 ,... ,<100 ,<100 
+2010,Pakistan,PAK,Asia,Southern Asia,179424641,7.568,987.409723043923,1800 ,46 000 ,19 000 ,<500 ,<1000 ,<500 
+2010,Palau,PLW,Oceania,Micronesia,17955,8.1,10219.9275967697,,,,,,
+2010,Panama,PAN,Americas,Central America,3642687,4.925,8082.02845866252,<500 ,14 000 ,5900 ,<100 ,<500 ,<200 
+2010,Papua New Guinea,PNG,Oceania,Melanesia,7310507,8.348,1949.35251706997,3400 ,15 000 ,19 000 ,... ,... ,... 
+2010,Paraguay,PRY,Americas,South America,6248020,5.408,4355.93493867734,<500 ,14 000 ,5700 ,<100 ,<1000 ,<200 
+2010,Peru,PER,Americas,South America,29027674,5.299,5082.35475666351,1900 ,49 000 ,14 000 ,<200 ,1700 ,<500 
+2010,Philippines,PHL,Asia,South-Eastern Asia,93966780,5.623,2124.05676974627,<100 ,14 000 ,1100 ,<100 ,<500 ,<100 
+2010,Poland,POL,Europe,Eastern Europe,38042794,9.9,12599.5335818707,... ,... ,... ,... ,... ,... 
+2010,Portugal,PRT,Europe,Southern Europe,10573100,10,22498.6908586557,<100 ,29 000 ,11 000 ,<100 ,<1000 ,<500 
+2010,Puerto Rico,PRI,Americas,Caribbean,3721525,7.833,26435.74878578,,,,,,
+2010,Qatar,QAT,Asia,Western Asia,1856327,1.211,67403.1602978106,... ,... ,... ,... ,... ,... 
+2010,Romania,ROU,Europe,Eastern Europe,20246871,12.8,8209.9194562169,1100 ,8100 ,4400 ,<100 ,<100 ,<100 
+2010,Russian Federation,RUS,Europe,Eastern Europe,142849449,14.2,10674.9972024225,... ,... ,... ,... ,... ,... 
+2010,Rwanda,RWA,Africa,Eastern Africa,10039338,7.31,582.694119127261,21 000 ,78 000 ,120 000 ,1500 ,2100 ,2200 
+2010,Samoa,WSM,Oceania,Polynesia,185949,5.848,3566.36243488815,,,,,,
+2010,San Marino,SMR,Europe,Southern Europe,31229,6.53333333333333,68496.3606802049,,,,,,
+2010,Sao Tome and Principe,STP,Africa,Middle Africa,180371,5.848,1094.71063611153,<200 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2010,Saudi Arabia,SAU,Asia,Western Asia,27421461,3.464,19262.5476811757,... ,... ,... ,... ,... ,... 
+2010,Senegal,SEN,Africa,Western Africa,12678148,7.305,1278.97775413162,5700 ,14 000 ,25 000 ,<1000 ,<500 ,<500 
+2010,Serbia,SRB,Europe,Southern Europe,7291436,14.2,5735.42285659849,... ,1400 ,<500 ,... ,<100 ,<100 
+2010,Seychelles,SYC,Africa,Eastern Africa,89770,7.4,10804.6844747547,,,,,,
+2010,Sierra Leone,SLE,Africa,Western Africa,6415634,15.25,401.835001366837,7800 ,20 000 ,29 000 ,<1000 ,<1000 ,1100 
+2010,Singapore,SGP,Asia,South-Eastern Asia,5076732,4.4,47236.9602345421,... ,5800 ,<1000 ,... ,<100 ,<100 
+2010,Sint Maarten (Dutch part),SXM,Americas,Caribbean,34056,4.1,..,,,,,,
+2010,Slovak Republic,SVK,Europe,Eastern Europe,5391428,9.9,16727.2913264619,,,,,,
+2010,Slovenia,SVN,Europe,Southern Europe,2048583,9.1,23509.5433941493,... ,... ,... ,... ,<100 ,<100 
+2010,Solomon Islands,SLB,Oceania,Melanesia,527861,4.752,1290.39878585913,,,,,,
+2010,Somalia,SOM,Africa,Eastern Africa,12043883,12.869,,2000 ,7300 ,7600 ,<500 ,<1000 ,<1000 
+2010,South Africa,ZAF,Africa,Southern Africa,51216964,12.085,7328.61562893966,320 000 ,2 200 000 ,3 600 000 ,18 000 ,56 000 ,69 000 
+2010,South Sudan,SSD,Africa,Eastern Africa,9508364,11.984,1535.70818548721,15 000 ,53 000 ,73 000 ,2000 ,3300 ,4500 
+2010,Spain,ESP,Europe,Southern Europe,46576897,8.2,30502.7197080776,<100 ,110 000 ,25 000 ,<100 ,1100 ,<200 
+2010,Sri Lanka,LKA,Asia,Southern Asia,20261737,6.02,2799.64887619972,... ,2700 ,1200 ,... ,<200 ,<100 
+2010,St. Kitts and Nevis,KNA,Americas,Caribbean,49016,..,15508.616989766,,,,,,
+2010,St. Lucia,LCA,Americas,Caribbean,174085,6.577,8037.47296712228,,,,,,
+2010,St. Martin (French part),MAF,Americas,Caribbean,37582,3.8,..,,,,,,
+2010,St. Vincent and the Grenadines,VCT,Americas,Caribbean,108255,7.79,6292.78982922694,,,,,,
+2010,Sudan,SDN,Africa,Northern Africa,34545013,8.122,1489.87691083872,2900 ,21 000 ,19 000 ,<500 ,<1000 ,<1000 
+2010,Suriname,SUR,Americas,South America,529131,7.017,8255.7968587048,<200 ,2600 ,1800 ,<100 ,<100 ,<100 
+2010,Sweden,SWE,Europe,Northern Europe,9378126,9.6,52817.441365794,... ,... ,... ,... ,... ,... 
+2010,Switzerland,CHE,Europe,Western Europe,7824909,8,74605.7745091454,... ,... ,... ,... ,... ,... 
+2010,Syrian Arab Republic,SYR,Asia,Western Asia,21362529,4.495,..,... ,<500 ,<200 ,... ,<100 ,<100 
+2010,Tajikistan,TJK,Asia,Central Asia,7527394,5.746,749.552711015842,<500 ,6600 ,2300 ,<100 ,<500 ,<100 
+2010,Tanzania,TZA,Africa,Eastern Africa,44346525,9.212,743.403784726004,,,,,,
+2010,Thailand,THA,Asia,South-Eastern Asia,67195028,7.191,5076.34299245077,11 000 ,320 000 ,250 000 ,<500 ,17 000 ,9100 
+2010,Timor-Leste,TLS,Asia,South-Eastern Asia,1093523,6.505,3656.95216287175,... ,... ,... ,... ,... ,... 
+2010,Togo,TGO,Africa,Western Africa,6421679,10.175,533.508791977233,16 000 ,34 000 ,54 000 ,1800 ,1600 ,2300 
+2010,Tonga,TON,Oceania,Polynesia,103986,7.179,3553.22061448636,,,,,,
+2010,Trinidad and Tobago,TTO,Americas,Caribbean,1328147,7.77,16683.3553787376,... ,... ,... ,... ,... ,... 
+2010,Tunisia,TUN,Africa,Northern Africa,10635244,6.194,4141.97635336459,... ,<1000 ,<500 ,... ,<100 ,<100 
+2010,Turkey,TUR,Asia,Western Asia,72326988,5.697,10672.3892452162,... ,... ,... ,... ,... ,... 
+2010,Turkmenistan,TKM,Asia,Central Asia,5087213,7.214,4439.20038235805,... ,... ,... ,... ,... ,... 
+2010,Turks and Caicos Islands,TCA,Americas,Caribbean,32660,..,21028.4081445193,,,,,,
+2010,Tuvalu,TUV,Oceania,Polynesia,10530,..,3022.28882031784,,,,,,
+2010,Uganda,UGA,Africa,Eastern Africa,32428167,9.659,622.498845744984,140 000 ,430 000 ,620 000 ,16 000 ,16 000 ,24 000 
+2010,Ukraine,UKR,Europe,Eastern Europe,45870700,15.2,2965.14236549771,1100 ,160 000 ,74 000 ,<200 ,9100 ,3100 
+2010,United Arab Emirates,ARE,Asia,Western Asia,8549988,1.403,33893.303514039,... ,... ,... ,... ,... ,... 
+2010,United Kingdom,GBR,Europe,Northern Europe,62766365,8.9,39435.8399018505,... ,... ,... ,... ,... ,... 
+2010,United States,USA,Americas,Northern America,309326085,7.995,48466.8233750801,... ,... ,... ,... ,... ,... 
+2010,Uruguay,URY,Americas,South America,3359275,9.324,11992.0166266335,<200 ,6700 ,2800 ,<100 ,<500 ,<100 
+2010,Uzbekistan,UZB,Asia,Central Asia,28562400,4.9,1634.31209539718,2700 ,18 000 ,8700 ,<1000 ,<1000 ,<500 
+2010,Vanuatu,VUT,Oceania,Melanesia,236211,5.526,2966.85711598678,,,,,,
+2010,"Venezuela, RB",VEN,Americas,South America,28439940,5.56,,,,,,,
+2010,Vietnam,VNM,Asia,South-Eastern Asia,87967651,5.81,1317.89070617836,,,,,,
+2010,Virgin Islands (U.S.),VIR,Americas,Caribbean,108358,6.6,40043.1901659314,,,,,,
+2010,West Bank and Gaza,PSE,Asia,Western Asia,3786161,3.511,2354.12598671847,,,,,,
+2010,"Yemen, Rep.",YEM,Asia,Western Asia,23154855,6.189,,,,,,,
+2010,Zambia,ZMB,Africa,Eastern Africa,13605984,10.051,1489.45906989027,77 000 ,380 000 ,540 000 ,5900 ,10 000 ,10 000 
+2010,Zimbabwe,ZWE,Africa,Eastern Africa,12697723,13.679,948.33185445926,130 000 ,450 000 ,650 000 ,12 000 ,19 000 ,23 000 
+2011,Afghanistan,AFG,Asia,Southern Asia,30117413,7.936,591.16234645088,<500 ,3000 ,1200 ,<100 ,<200 ,<100 
+2011,Albania,ALB,Europe,Southern Europe,2905195,6.915,4437.17806741261,... ,... ,... ,... ,... ,... 
+2011,Algeria,DZA,Africa,Northern Africa,36661444,4.67,5455.74133764262,<200 ,4400 ,3400 ,<100 ,<100 ,<100 
+2011,American Samoa,ASM,Oceania,Polynesia,55759,..,10294.3022651052,,,,,,
+2011,Andorra,AND,Europe,Southern Europe,83747,..,41100.7299382214,,,,,,
+2011,Angola,AGO,Africa,Middle Africa,24220661,11.039,4615.46802807906,30 000 ,63 000 ,140 000 ,4300 ,1900 ,4400 
+2011,Antigua and Barbuda,ATG,Americas,Caribbean,89253,6.085,12746.2050243357,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2011,Argentina,ARG,Americas,South America,41261490,7.694,12848.8641969705,2600 ,74 000 ,34 000 ,<100 ,1200 ,<500 
+2011,Armenia,ARM,Asia,Western Asia,2876538,9.753,3525.80474671153,... ,2200 ,1100 ,... ,<100 ,<100 
+2011,Aruba,ABW,Americas,Caribbean,102046,8.061,24985.9932813737,,,,,,
+2011,Australia,AUS,Oceania,Australia and New Zealand,22340024,6.6,62517.8337471503,<100 ,19 000 ,2400 ,<100 ,<200 ,<100 
+2011,Austria,AUT,Europe,Western Europe,8391643,9.1,51374.9584066934,... ,... ,... ,... ,... ,... 
+2011,Azerbaijan,AZE,Asia,Western Asia,9173082,5.9,7189.69122920765,... ,... ,... ,... ,... ,... 
+2011,"Bahamas, The",BHS,Americas,Caribbean,359577,6.606,,,,,,,
+2011,Bahrain,BHR,Asia,Western Asia,1278151,2.324,22514.2587537979,... ,... ,... ,... ,... ,... 
+2011,Bangladesh,BGD,Asia,Southern Asia,149273778,5.673,861.758444349051,<500 ,5200 ,2900 ,<100 ,<500 ,<100 
+2011,Barbados,BRB,Americas,Caribbean,282987,8.454,16459.0580132656,... ,1700 ,<1000 ,... ,<100 ,<100 
+2011,Belarus,BLR,Europe,Eastern Europe,9473172,14.3,6519.23019498892,<200 ,8100 ,5900 ,<100 ,<100 ,<100 
+2011,Belgium,BEL,Europe,Western Europe,11038264,9.4,47348.5250202016,... ,... ,... ,... ,... ,... 
+2011,Belize,BLZ,Americas,Central America,330237,4.582,4423.49043867262,<200 ,2000 ,1700 ,<100 ,<100 ,<100 
+2011,Benin,BEN,Africa,Western Africa,9460830,9.928,827.022610795594,5700 ,24 000 ,34 000 ,<1000 ,<1000 ,<1000 
+2011,Bermuda,BMU,Americas,Northern America,64564,6.6,85973.158416455,,,,,,
+2011,Bhutan,BTN,Asia,Southern Asia,693298,6.356,2563.25752630969,... ,<1000 ,<500 ,... ,<100 ,<100 
+2011,Bolivia,BOL,Americas,South America,10212954,7.304,2346.33717022581,,,,,,
+2011,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3661175,9.87,5092.55194328895,... ,<200 ,<100 ,... ,<100 ,<100 
+2011,Botswana,BWA,Africa,Southern Africa,2015402,8.391,7617.32509421648,24 000 ,140 000 ,180 000 ,1400 ,2700 ,2900 
+2011,Brazil,BRA,Americas,South America,197514534,6.071,13245.6124995448,... ,... ,... ,... ,... ,... 
+2011,British Virgin Islands,VGB,Americas,Caribbean,28319,..,,,,,,,
+2011,Brunei Darussalam,BRN,Asia,South-Eastern Asia,393688,3.887,47055.8411171808,... ,... ,... ,... ,... ,... 
+2011,Bulgaria,BGR,Europe,Eastern Europe,7348328,14.7,7813.80669236432,... ,1500 ,<500 ,... ,<100 ,<100 
+2011,Burkina Faso,BFA,Africa,Western Africa,16081911,10.195,666.840119798738,16 000 ,41 000 ,52 000 ,1200 ,1600 ,1500 
+2011,Burundi,BDI,Africa,Eastern Africa,8958406,9.728,249.577979366801,18 000 ,30 000 ,44 000 ,1300 ,1400 ,1600 
+2011,Cabo Verde,CPV,Africa,Western Africa,498856,5.991,3740.38909850629,... ,<1000 ,1100 ,... ,<100 ,<100 
+2011,Cambodia,KHM,Asia,South-Eastern Asia,14541423,6.401,882.275492640073,4600 ,36 000 ,39 000 ,<200 ,<1000 ,<1000 
+2011,Cameroon,CMR,Africa,Middle Africa,20906388,11.277,1403.2556380893,55 000 ,170 000 ,310 000 ,6200 ,5000 ,11 000 
+2011,Canada,CAN,Americas,Northern America,34339328,7.1,52101.7960864825,... ,... ,... ,... ,... ,... 
+2011,Cayman Islands,CYM,Americas,Caribbean,57878,3.18399319783271,72328.411640906,,,,,,
+2011,Central African Republic,CAF,Africa,Middle Africa,4418636,15.817,551.028057642347,16 000 ,49 000 ,68 000 ,1500 ,2700 ,3600 
+2011,Chad,TCD,Africa,Middle Africa,12360989,14.161,983.447232667423,18 000 ,37 000 ,47 000 ,2000 ,<1000 ,<1000 
+2011,Chile,CHL,Americas,South America,17233576,5.677,14637.2402355403,<500 ,35 000 ,7100 ,... ,... ,... 
+2011,China,CHN,Asia,Eastern Asia,1344130000,7.14,5618.13249134962,... ,... ,... ,... ,... ,... 
+2011,Colombia,COL,Americas,South America,45663099,5.277,7324.3832858034,5000 ,96 000 ,26 000 ,... ,... ,... 
+2011,Comoros,COM,Africa,Eastern Africa,706569,8.065,1446.06801802192,... ,<100 ,<100 ,... ,<100 ,<100 
+2011,"Congo, Dem. Rep.",COD,Africa,Middle Africa,66755153,11.273,,,,,,,
+2011,"Congo, Rep.",COG,Africa,Middle Africa,4394844,8.241,,,,,,,
+2011,Costa Rica,CRI,Americas,Central America,4633086,4.587,9121.93251763187,... ,7700 ,2100 ,... ,<200 ,<100 
+2011,Cote d'Ivoire,CIV,Africa,Western Africa,21028655,12.176,1207.00143371363,,,,,,
+2011,Croatia,HRV,Europe,Southern Europe,4280622,11.9,14566.6297259084,... ,... ,... ,... ,... ,... 
+2011,Cuba,CUB,Americas,Caribbean,11236670,7.862,6139.71932965905,<100 ,16 000 ,3200 ,<100 ,<500 ,<100 
+2011,Curacao,CUW,Americas,Caribbean,150831,8.5,20146.3864122001,,,,,,
+2011,Cyprus,CYP,Asia,Western Asia,1124833,6.753,32233.6433858793,... ,... ,... ,... ,... ,... 
+2011,Czech Republic,CZE,Europe,Eastern Europe,10496088,10.2,21717.4579392202,,,,,,
+2011,Denmark,DNK,Europe,Northern Europe,5570572,9.4,61753.647131977,... ,4100 ,1500 ,... ,<100 ,<100 
+2011,Djibouti,DJI,Africa,Eastern Africa,853674,8.966,1451.54297984389,1200 ,3400 ,4600 ,<200 ,<500 ,<500 
+2011,Dominica,DMA,Americas,Caribbean,70916,..,7065.0529682483,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2011,Dominican Republic,DOM,Americas,Caribbean,9813210,6.039,5913.4344216753,2400 ,35 000 ,34 000 ,<200 ,1600 ,1100 
+2011,Ecuador,ECU,Americas,South America,15243883,5.082,5200.55579014874,<1000 ,25 000 ,9500 ,<100 ,<1000 ,<500 
+2011,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,84529250,6.178,,,,,,,
+2011,El Salvador,SLV,Americas,Central America,6210568,6.87,3266.04587535311,<1000 ,17 000 ,8500 ,<100 ,<500 ,<200 
+2011,Equatorial Guinea,GNQ,Africa,Middle Africa,986853,11.014,21613.5492326324,4000 ,17 000 ,17 000 ,<500 ,<500 ,<1000 
+2011,Eritrea,ERI,Africa,Eastern Africa,3213972,8.536,811.376028602108,1700 ,6100 ,9400 ,<200 ,<200 ,<500 
+2011,Estonia,EST,Europe,Northern Europe,1327439,11.5,17624.0441399335,... ,4000 ,2100 ,... ,<100 ,<100 
+2011,Eswatini,SWZ,Africa,Southern Africa,1072032,15.266,4496.60037963614,13 000 ,57 000 ,97 000 ,<1000 ,1100 ,1400 
+2011,Ethiopia,ETH,Africa,Eastern Africa,90139927,8.06,354.479575841347,54 000 ,220 000 ,370 000 ,4600 ,5200 ,7400 
+2011,Faroe Islands,FRO,Europe,Northern Europe,47823,8,52083.8891448364,,,,,,
+2011,Fiji,FJI,Oceania,Melanesia,863449,8.086,4371.45751012411,... ,... ,... ,... ,... ,... 
+2011,Finland,FIN,Europe,Northern Europe,5388272,9.4,51081.9976703127,... ,2100 ,<1000 ,... ,<100 ,<100 
+2011,France,FRA,Europe,Western Europe,65342780,8.4,43790.7320482019,<500 ,110 000 ,35 000 ,<100 ,<500 ,<200 
+2011,French Polynesia,PYF,Oceania,Polynesia,267698,5.098,..,,,,,,
+2011,Gabon,GAB,Africa,Middle Africa,1684635,8.893,10795.5005802196,3500 ,13 000 ,28 000 ,<500 ,<500 ,<1000 
+2011,"Gambia, The",GMB,Africa,Western Africa,1848147,8.863,,,,,,,
+2011,Georgia,GEO,Asia,Western Asia,3756441,13.146,4021.74330617286,... ,4200 ,2000 ,... ,<100 ,<100 
+2011,Germany,DEU,Europe,Western Europe,80274983,10.6,46644.776027968,<100 ,57 000 ,14 000 ,<100 ,<500 ,<100 
+2011,Ghana,GHA,Africa,Western Africa,25387710,8.211,1558.482133003,35 000 ,93 000 ,170 000 ,3700 ,4000 ,7500 
+2011,Gibraltar,GIB,Europe,Southern Europe,33612,..,,,,,,,
+2011,Greece,GRC,Europe,Southern Europe,11104899,10,25916.2935289351,... ,... ,... ,... ,... ,... 
+2011,Greenland,GRL,Americas,Northern America,56890,8.4,47186.9814680048,,,,,,
+2011,Grenada,GRD,Americas,Caribbean,106796,8.838,7291.05889664338,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2011,Guam,GUM,Oceania,Micronesia,159692,4.915,30859.4043533803,,,,,,
+2011,Guatemala,GTM,Americas,Central America,14948803,5.07,3187.86620251971,3000 ,27 000 ,19 000 ,<500 ,<1000 ,<1000 
+2011,Guinea,GIN,Africa,Western Africa,10420471,10.657,651.135363533047,12 000 ,38 000 ,57 000 ,1300 ,1000 ,1500 
+2011,Guinea-Bissau,GNB,Africa,Western Africa,1562989,11.404,702.742880436386,5700 ,14 000 ,19 000 ,<1000 ,<1000 ,<1000 
+2011,Guyana,GUY,Americas,South America,752028,7.123,3425.43644063562,<500 ,3300 ,3300 ,<100 ,<100 ,<100 
+2011,Haiti,HTI,Americas,Caribbean,10100320,9.48,744.217426799623,11 000 ,56 000 ,74 000 ,<1000 ,2100 ,2100 
+2011,Honduras,HND,Americas,Central America,8480671,4.497,2088.31530028695,1500 ,15 000 ,8900 ,<100 ,<1000 ,<500 
+2011,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7071600,6,,,,,,,
+2011,Hungary,HUN,Europe,Eastern Europe,9971727,12.9,14150.9667263678,... ,1900 ,<500 ,... ,<100 ,<100 
+2011,Iceland,ISL,Europe,Northern Europe,319014,6.2,47516.8757402109,... ,<200 ,<100 ,... ,<100 ,<100 
+2011,India,IND,Asia,Southern Asia,1250288729,7.393,1458.10352686177,... ,... ,... ,... ,... ,... 
+2011,Indonesia,IDN,Asia,South-Eastern Asia,245116206,6.579,3643.04393616102,11 000 ,360 000 ,170 000 ,2200 ,19 000 ,7200 
+2011,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,74634956,4.857,,,,,,,
+2011,Iraq,IRQ,Asia,Western Asia,30725300,5.401,6045.49555071698,,,,,,
+2011,Ireland,IRL,Europe,Northern Europe,4580084,6.2,51848.9097301621,<100 ,3100 ,2000 ,<100 ,<100 ,<100 
+2011,Isle of Man,IMN,Europe,Northern Europe,84886,..,77351.9588821432,,,,,,
+2011,Israel,ISR,Asia,Western Asia,7765800,5.3,33669.2464692884,<100 ,4800 ,1600 ,<100 ,<100 ,<100 
+2011,Italy,ITA,Europe,Southern Europe,59379449,10,38599.0622070322,<200 ,78 000 ,33 000 ,<100 ,<1000 ,<500 
+2011,Jamaica,JAM,Americas,Caribbean,2825929,7.368,5111.471413428,... ,... ,... ,... ,... ,... 
+2011,Japan,JPN,Asia,Eastern Asia,127833000,9.9,48167.9972684965,... ,18 000 ,2500 ,... ,... ,... 
+2011,Jordan,JOR,Asia,Western Asia,7663131,3.818,3816.27925808967,... ,<200 ,<100 ,... ,<100 ,<100 
+2011,Kazakhstan,KAZ,Asia,Central Asia,16557201,8.72,11634.0019047654,<200 ,8000 ,4300 ,<100 ,<500 ,<200 
+2011,Kenya,KEN,Africa,Eastern Africa,43178257,7.07,971.63332904823,190 000 ,490 000 ,780 000 ,14 000 ,14 000 ,22 000 
+2011,Kiribati,KIR,Oceania,Micronesia,104728,6.959,1735.01835782836,,,,,,
+2011,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,24673385,8.727,,,,,,,
+2011,"Korea, Rep.",KOR,Asia,Eastern Asia,49936638,5.1,,,,,,,
+2011,Kuwait,KWT,Asia,Western Asia,3168060,2.38,48618.8822913341,... ,<500 ,<200 ,... ,<100 ,<100 
+2011,Kyrgyz Republic,KGZ,Asia,Central Asia,5514600,6.5,1123.8831680627,,,,,,
+2011,Lao PDR,LAO,Asia,South-Eastern Asia,6347567,7.225,1378.36136494331,,,,,,
+2011,Latvia,LVA,Europe,Northern Europe,2059709,13.9,13713.8553053545,... ,2900 ,1300 ,... ,<200 ,<100 
+2011,Lebanon,LBN,Asia,Western Asia,5202343,3.92,7703.38947185733,... ,1300 ,<500 ,... ,<100 ,<100 
+2011,Lesotho,LSO,Africa,Southern Africa,2003787,18.669,1393.38636155716,15 000 ,120 000 ,170 000 ,1100 ,2800 ,2600 
+2011,Liberia,LBR,Africa,Western Africa,4017443,9.338,596.897081053795,5300 ,14 000 ,21 000 ,<1000 ,<1000 ,1100 
+2011,Libya,LBY,Africa,Northern Africa,6247439,4.901,5554.1791642315,<200 ,4600 ,1800 ,<100 ,<100 ,<100 
+2011,Liechtenstein,LIE,Europe,Western Europe,36293,6.8,158156.599825792,,,,,,
+2011,Lithuania,LTU,Europe,Northern Europe,3028115,13.6,14338.6435140155,... ,... ,... ,... ,... ,... 
+2011,Luxembourg,LUX,Europe,Western Europe,518347,7.4,115761.507705096,... ,<1000 ,<500 ,... ,<100 ,<100 
+2011,"Macao SAR, China",MAC,Asia,Eastern Asia,550832,3.657,,,,,,,
+2011,Madagascar,MDG,Africa,Eastern Africa,21743967,7.173,531.265505398676,1400 ,14 000 ,6200 ,<200 ,<1000 ,<500 
+2011,Malawi,MWI,Africa,Eastern Africa,14962112,9.903,534.951264721663,110 000 ,320 000 ,470 000 ,9600 ,7800 ,8600 
+2011,Malaysia,MYS,Asia,South-Eastern Asia,28650955,4.683,10399.372753345,<1000 ,58 000 ,17 000 ,<100 ,2300 ,<1000 
+2011,Maldives,MDV,Asia,Southern Asia,380495,3.445,7291.42764039704,... ,... ,... ,... ,... ,... 
+2011,Mali,MLI,Africa,Western Africa,15514591,12.09,836.509809417356,18 000 ,39 000 ,65 000 ,1900 ,1200 ,1900 
+2011,Malta,MLT,Europe,Southern Europe,416268,7.8,22845.9048853838,... ,... ,... ,... ,... ,... 
+2011,Marshall Islands,MHL,Oceania,Micronesia,56531,3.7,3083.83187985353,,,,,,
+2011,Mauritania,MRT,Africa,Western Africa,3598648,8.191,1435.6354154142,<500 ,4400 ,2200 ,<100 ,<500 ,<100 
+2011,Mauritius,MUS,Africa,Eastern Africa,1252404,7.3,9197.02697152061,<200 ,7400 ,3300 ,<100 ,<500 ,<200 
+2011,Mexico,MEX,Americas,Central America,115695473,5.369,10203.4208543113,2700 ,150 000 ,29 000 ,... ,... ,... 
+2011,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,103450,6.991,,,,,,,
+2011,Moldova,MDA,Europe,Eastern Europe,3559986,11.642,2363.59372511782,,,,,,
+2011,Monaco,MCO,Europe,Western Europe,36024,..,168785.940809485,,,,,,
+2011,Mongolia,MNG,Asia,Eastern Asia,2770362,6.468,3757.5586328813,... ,<500 ,<100 ,... ,<100 ,<100 
+2011,Montenegro,MNE,Europe,Southern Europe,620079,10.18,7318.74469026724,... ,<200 ,<100 ,... ,<100 ,<100 
+2011,Morocco,MAR,Africa,Northern Africa,32781850,5.199,3046.94913644957,<500 ,10 000 ,6800 ,<100 ,<500 ,<200 
+2011,Mozambique,MOZ,Africa,Eastern Africa,24187487,12.387,594.586466669704,140 000 ,600 000 ,920 000 ,14 000 ,22 000 ,28 000 
+2011,Myanmar,MMR,Asia,South-Eastern Asia,50990615,8.726,1176.24245336109,8400 ,140 000 ,78 000 ,<1000 ,8100 ,2200 
+2011,Namibia,NAM,Africa,Southern Africa,2156701,10.652,5753.9871478243,14 000 ,65 000 ,98 000 ,<1000 ,1100 ,1600 
+2011,Nauru,NRU,Oceania,Micronesia,10057,..,7226.81464935091,,,,,,
+2011,Nepal,NPL,Asia,Southern Asia,27041437,6.74,699.429337677581,1500 ,19 000 ,10 000 ,<200 ,<1000 ,<500 
+2011,Netherlands,NLD,Europe,Western Europe,16693074,8.1,54159.3466126142,<100 ,17 000 ,3500 ,<100 ,<200 ,<100 
+2011,New Caledonia,NCL,Oceania,Melanesia,254350,5.2,..,,,,,,
+2011,New Zealand,NZL,Oceania,Australia and New Zealand,4384000,6.86,38426.5508077771,... ,2100 ,<1000 ,... ,<100 ,<100 
+2011,Nicaragua,NIC,Americas,Central America,5903039,5.05,1655.81693272195,<500 ,5300 ,2600 ,<100 ,<200 ,<100 
+2011,Niger,NER,Africa,Western Africa,17114761,10.838,374.482864483226,3600 ,18 000 ,15 000 ,<500 ,<1000 ,<500 
+2011,Nigeria,NGA,Africa,Western Africa,162805071,13.942,2520.40416579378,150 000 ,650 000 ,770 000 ,18 000 ,30 000 ,25 000 
+2011,North Macedonia,MKD,Europe,Southern Europe,2072487,9.566,5063.78698606358,... ,<200 ,<100 ,... ,<100 ,<100 
+2011,Northern Mariana Islands,MNP,Oceania,Micronesia,54012,..,13571.0582833444,,,,,,
+2011,Norway,NOR,Europe,Northern Europe,4953088,8.4,100600.562407589,... ,3200 ,1300 ,... ,<100 ,<100 
+2011,Oman,OMN,Asia,Western Asia,3251108,2.745,20896.746978071,... ,1600 ,<1000 ,... ,<100 ,<100 
+2011,Pakistan,PAK,Asia,Southern Asia,183340592,7.454,1164.97612914872,2100 ,53 000 ,23 000 ,<500 ,1000 ,<500 
+2011,Palau,PLW,Oceania,Micronesia,17745,8.3,10884.4125105664,,,,,,
+2011,Panama,PAN,Americas,Central America,3706483,4.94,9358.25147451101,<500 ,14 000 ,6100 ,<100 ,<500 ,<200 
+2011,Papua New Guinea,PNG,Oceania,Melanesia,7472200,8.24,2406.90967796981,3500 ,15 000 ,20 000 ,... ,... ,... 
+2011,Paraguay,PRY,Americas,South America,6333976,5.407,5322.96375987671,<500 ,14 000 ,5800 ,<100 ,<1000 ,<200 
+2011,Peru,PER,Americas,South America,29264318,5.299,5869.32307961474,1800 ,51 000 ,14 000 ,<200 ,1200 ,<500 
+2011,Philippines,PHL,Asia,South-Eastern Asia,95570047,5.674,2345.32775427825,<200 ,18 000 ,1300 ,<100 ,<500 ,<100 
+2011,Poland,POL,Europe,Eastern Europe,38063255,9.9,13893.509259001,... ,... ,... ,... ,... ,... 
+2011,Portugal,PRT,Europe,Southern Europe,10557560,9.7,23186.9131283278,<100 ,29 000 ,11 000 ,<100 ,<1000 ,<500 
+2011,Puerto Rico,PRI,Americas,Caribbean,3678732,8,27278.8830499205,,,,,,
+2011,Qatar,QAT,Asia,Western Asia,2035871,1.173,82409.5803345471,... ,... ,... ,... ,... ,... 
+2011,Romania,ROU,Europe,Eastern Europe,20147528,12.5,9104.99562203019,<1000 ,8600 ,4700 ,<100 ,<100 ,<100 
+2011,Russian Federation,RUS,Europe,Eastern Europe,142960868,13.5,14351.2120537731,... ,... ,... ,... ,... ,... 
+2011,Rwanda,RWA,Africa,Eastern Africa,10293331,6.79,645.748320729826,20 000 ,79 000 ,120 000 ,1100 ,1900 ,2000 
+2011,Samoa,WSM,Oceania,Polynesia,187469,5.795,3933.45931369924,,,,,,
+2011,San Marino,SMR,Europe,Southern Europe,31661,6.8,64890.2388634279,,,,,,
+2011,Sao Tome and Principe,STP,Africa,Middle Africa,184524,5.669,1263.86552259429,<200 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2011,Saudi Arabia,SAU,Asia,Western Asia,28267685,3.441,23745.8016143404,... ,... ,... ,... ,... ,... 
+2011,Senegal,SEN,Africa,Western Africa,13033809,7.013,1371.72335308022,5700 ,14 000 ,25 000 ,<1000 ,<500 ,<500 
+2011,Serbia,SRB,Europe,Southern Europe,7234099,14.2,6809.15980400146,... ,1500 ,<500 ,... ,<100 ,<100 
+2011,Seychelles,SYC,Africa,Eastern Africa,87441,7.9,12189.0951601357,,,,,,
+2011,Sierra Leone,SLE,Africa,Western Africa,6563240,14.597,448.337525527861,7800 ,21 000 ,31 000 ,<1000 ,<1000 ,1100 
+2011,Singapore,SGP,Asia,South-Eastern Asia,5183688,4.5,53890.4287270504,... ,6200 ,<1000 ,... ,<100 ,<100 
+2011,Sint Maarten (Dutch part),SXM,Americas,Caribbean,33435,5.1,,,,,,,
+2011,Slovak Republic,SVK,Europe,Eastern Europe,5398384,9.6,18338.3622288437,,,,,,
+2011,Slovenia,SVN,Europe,Southern Europe,2052843,9.1,25095.1326282071,... ,... ,... ,... ,<100 ,<100 
+2011,Solomon Islands,SLB,Oceania,Melanesia,541521,4.672,1722.41812107591,,,,,,
+2011,Somalia,SOM,Africa,Eastern Africa,12376302,12.601,..,1900 ,6800 ,7300 ,<500 ,<1000 ,<1000 
+2011,South Africa,ZAF,Africa,Southern Africa,52004172,11.483,8007.41284634441,310 000 ,2 300 000 ,3 700 000 ,13 000 ,50 000 ,58 000 
+2011,South Sudan,SSD,Africa,Eastern Africa,9830698,11.669,1516.40391495385,15 000 ,55 000 ,76 000 ,2000 ,3500 ,4700 
+2011,Spain,ESP,Europe,Southern Europe,46742697,8.3,31636.4463142558,<100 ,110 000 ,25 000 ,<100 ,1000 ,<200 
+2011,Sri Lanka,LKA,Asia,Southern Asia,20398670,6.076,3200.83382914016,... ,2700 ,1200 ,... ,<200 ,<100 
+2011,St. Kitts and Nevis,KNA,Americas,Caribbean,49447,..,16538.0965328384,,,,,,
+2011,St. Lucia,LCA,Americas,Caribbean,175544,6.712,8227.39408163575,,,,,,
+2011,St. Martin (French part),MAF,Americas,Caribbean,37446,3.9,,,,,,,
+2011,St. Vincent and the Grenadines,VCT,Americas,Caribbean,108316,8.004,6242.19328083946,,,,,,
+2011,Sudan,SDN,Africa,Northern Africa,35349681,7.946,1672.1032945892,3100 ,22 000 ,20 000 ,<500 ,<1000 ,<1000 
+2011,Suriname,SUR,Americas,South America,535179,7.019,8263.17292305383,<100 ,2700 ,1900 ,<100 ,<100 ,<100 
+2011,Sweden,SWE,Europe,Northern Europe,9449213,9.5,60612.8788325926,... ,... ,... ,... ,... ,... 
+2011,Switzerland,CHE,Europe,Western Europe,7912398,7.8,88415.6108120697,... ,... ,... ,... ,... ,... 
+2011,Syrian Arab Republic,SYR,Asia,Western Asia,21082966,4.878,,... ,<500 ,<200 ,... ,<100 ,<100 
+2011,Tajikistan,TJK,Asia,Central Asia,7697510,5.643,847.382101810518,<500 ,7100 ,2400 ,<100 ,<500 ,<100 
+2011,Tanzania,TZA,Africa,Eastern Africa,45673338,8.751,781.437014324276,,,,,,
+2011,Thailand,THA,Asia,South-Eastern Asia,67518382,7.213,5492.11542712668,9900 ,310 000 ,240 000 ,<500 ,16 000 ,8800 
+2011,Timor-Leste,TLS,Asia,South-Eastern Asia,1113151,6.401,5095.48902170505,... ,... ,... ,... ,... ,... 
+2011,Togo,TGO,Africa,Western Africa,6595943,9.826,586.328841545214,16 000 ,34 000 ,54 000 ,1600 ,1400 ,2000 
+2011,Tonga,TON,Oceania,Polynesia,103562,7.205,4084.6241317437,,,,,,
+2011,Trinidad and Tobago,TTO,Americas,Caribbean,1336178,7.815,19034.1491966652,... ,... ,... ,... ,... ,... 
+2011,Tunisia,TUN,Africa,Northern Africa,10741880,6.241,4264.67494604737,... ,1100 ,<500 ,... ,<100 ,<100 
+2011,Turkey,TUR,Asia,Western Asia,73443863,5.619,11335.5105096808,... ,... ,... ,... ,... ,... 
+2011,Turkmenistan,TKM,Asia,Central Asia,5174085,7.189,5649.95227819669,... ,... ,... ,... ,... ,... 
+2011,Turks and Caicos Islands,TCA,Americas,Caribbean,33377,..,21835.0831410852,,,,,,
+2011,Tuvalu,TUV,Oceania,Polynesia,10633,..,3640.86143317968,,,,,,
+2011,Uganda,UGA,Africa,Eastern Africa,33476919,9.114,602.684651383698,140 000 ,440 000 ,640 000 ,15 000 ,15 000 ,22 000 
+2011,Ukraine,UKR,Europe,Eastern Europe,45706100,14.5,3569.75702740477,1100 ,150 000 ,75 000 ,<200 ,8900 ,2900 
+2011,United Arab Emirates,ARE,Asia,Western Asia,8946777,1.382,39194.6766208456,... ,... ,... ,... ,... ,... 
+2011,United Kingdom,GBR,Europe,Northern Europe,63258918,8.7,42038.5004790349,... ,... ,... ,... ,... ,... 
+2011,United States,USA,Americas,Northern America,311580009,8.073,49883.1139837344,... ,... ,... ,... ,... ,... 
+2011,Uruguay,URY,Americas,South America,3368934,9.349,14236.6811883717,<200 ,7100 ,2900 ,<100 ,<200 ,<100 
+2011,Uzbekistan,UZB,Asia,Central Asia,29339400,4.9,1926.29299673401,2900 ,19 000 ,9400 ,<1000 ,1000 ,<500 
+2011,Vanuatu,VUT,Oceania,Melanesia,242653,5.529,3264.5370165591,,,,,,
+2011,"Venezuela, RB",VEN,Americas,South America,28888369,5.676,,,,,,,
+2011,Vietnam,VNM,Asia,South-Eastern Asia,88871561,5.867,1525.11598800104,,,,,,
+2011,Virgin Islands (U.S.),VIR,Americas,Caribbean,108292,6.6,39144.1657740184,,,,,,
+2011,West Bank and Gaza,PSE,Asia,Western Asia,3882986,3.508,2695.19385339015,,,,,,
+2011,"Yemen, Rep.",YEM,Asia,Western Asia,23807588,6.094,,,,,,,
+2011,Zambia,ZMB,Africa,Eastern Africa,14023193,9.304,1672.94982959625,76 000 ,400 000 ,560 000 ,5600 ,9200 ,9200 
+2011,Zimbabwe,ZWE,Africa,Eastern Africa,12894316,12.384,1093.65400227511,120 000 ,450 000 ,660 000 ,10 000 ,15 000 ,16 000 
+2012,Afghanistan,AFG,Asia,Southern Asia,31161376,7.645,641.872033785411,<500 ,3300 ,1300 ,<100 ,<200 ,<100 
+2012,Albania,ALB,Europe,Southern Europe,2900401,6.996,4247.61427862374,... ,... ,... ,... ,... ,... 
+2012,Algeria,DZA,Africa,Northern Africa,37383887,4.685,5592.32609806051,<500 ,4900 ,3800 ,<100 ,<100 ,<100 
+2012,American Samoa,ASM,Oceania,Polynesia,55667,..,11568.7930012395,,,,,,
+2012,Andorra,AND,Europe,Southern Europe,82427,3.9,38392.9439012206,,,,,,
+2012,Angola,AGO,Africa,Middle Africa,25107931,10.451,5100.09580809767,32 000 ,68 000 ,150 000 ,4500 ,2000 ,4800 
+2012,Antigua and Barbuda,ATG,Americas,Caribbean,90409,6.116,13272.4413293826,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2012,Argentina,ARG,Americas,South America,41733271,7.68,13082.664325572,2500 ,77 000 ,36 000 ,<100 ,1200 ,<500 
+2012,Armenia,ARM,Asia,Western Asia,2884229,9.761,3681.8574560431,... ,2200 ,1100 ,... ,<100 ,<100 
+2012,Aruba,ABW,Americas,Caribbean,102560,8.205,24713.6980451285,,,,,,
+2012,Australia,AUS,Oceania,Australia and New Zealand,22733465,6.6,68012.1479005934,<100 ,20 000 ,2500 ,<100 ,<200 ,<100 
+2012,Austria,AUT,Europe,Western Europe,8429991,9.4,48567.69528642,... ,... ,... ,... ,... ,... 
+2012,Azerbaijan,AZE,Asia,Western Asia,9295784,5.9,7496.29464768263,... ,... ,... ,... ,... ,... 
+2012,"Bahamas, The",BHS,Americas,Caribbean,363584,6.634,,,,,,,
+2012,Bahrain,BHR,Asia,Western Asia,1299943,2.326,23654.371850445,... ,... ,... ,... ,... ,... 
+2012,Bangladesh,BGD,Asia,Southern Asia,151007807,5.625,883.105000541313,<500 ,5500 ,3200 ,<100 ,<500 ,<200 
+2012,Barbados,BRB,Americas,Caribbean,283700,8.54,16249.8977793444,... ,1700 ,<1000 ,... ,<100 ,<100 
+2012,Belarus,BLR,Europe,Eastern Europe,9464495,13.4,6940.15925359735,<200 ,9100 ,6700 ,<100 ,<200 ,<100 
+2012,Belgium,BEL,Europe,Western Europe,11106932,9.8,44673.1158755901,... ,... ,... ,... ,... ,... 
+2012,Belize,BLZ,Americas,Central America,338000,4.58,4505.62068023889,<200 ,2100 ,1800 ,<100 ,<100 ,<100 
+2012,Benin,BEN,Africa,Western Africa,9729248,9.775,837.894996838397,5700 ,24 000 ,35 000 ,<1000 ,<1000 ,<1000 
+2012,Bermuda,BMU,Americas,Northern America,64798,6.5,85458.455507886,,,,,,
+2012,Bhutan,BTN,Asia,Southern Asia,701583,6.316,2538.94589903147,... ,<1000 ,<500 ,... ,<100 ,<100 
+2012,Bolivia,BOL,Americas,South America,10377676,7.175,2609.88081915425,,,,,,
+2012,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3604972,9.981,4778.63608845506,... ,<200 ,<100 ,... ,<100 ,<100 
+2012,Botswana,BWA,Africa,Southern Africa,2039551,7.713,7877.79035044357,23 000 ,140 000 ,180 000 ,1200 ,2500 ,2600 
+2012,Brazil,BRA,Americas,South America,199287296,6.106,12370.0242007149,... ,... ,... ,... ,... ,... 
+2012,British Virgin Islands,VGB,Americas,Caribbean,28650,..,..,,,,,,
+2012,Brunei Darussalam,BRN,Asia,South-Eastern Asia,398989,3.944,47741.9064650052,... ,... ,... ,... ,... ,... 
+2012,Bulgaria,BGR,Europe,Eastern Europe,7305888,15,7378.02473005713,... ,1700 ,<500 ,... ,<100 ,<100 
+2012,Burkina Faso,BFA,Africa,Western Africa,16571246,9.789,673.821598361542,15 000 ,40 000 ,53 000 ,1200 ,1700 ,1300 
+2012,Burundi,BDI,Africa,Eastern Africa,9245988,9.373,252.358979858344,17 000 ,29 000 ,44 000 ,1200 ,1200 ,1400 
+2012,Cabo Verde,CPV,Africa,Western Africa,505235,5.961,3447.5240412173,... ,<1000 ,1100 ,... ,<100 ,<100 
+2012,Cambodia,KHM,Asia,South-Eastern Asia,14780454,6.308,950.880345993697,4500 ,35 000 ,39 000 ,<200 ,<1000 ,<1000 
+2012,Cameroon,CMR,Africa,Middle Africa,21485266,10.968,1354.62308705136,54 000 ,170 000 ,310 000 ,5700 ,5500 ,11 000 
+2012,Canada,CAN,Americas,Northern America,34714222,7.1,52542.3466648232,... ,... ,... ,... ,... ,... 
+2012,Cayman Islands,CYM,Americas,Caribbean,58958,3.27845484997506,72783.320437604,,,,,,
+2012,Central African Republic,CAF,Africa,Middle Africa,4436415,15.28,565.833058388175,15 000 ,47 000 ,66 000 ,1400 ,2900 ,3800 
+2012,Chad,TCD,Africa,Middle Africa,12784750,13.752,967.408125988873,18 000 ,38 000 ,49 000 ,1900 ,<1000 ,<1000 
+2012,Chile,CHL,Americas,South America,17400347,5.728,15351.5513257697,<500 ,38 000 ,7700 ,... ,... ,... 
+2012,China,CHN,Asia,Eastern Asia,1350695000,7.15,6316.91886335683,... ,... ,... ,... ,... ,... 
+2012,Colombia,COL,Americas,South America,46076848,5.307,8042.52976902978,4800 ,99 000 ,27 000 ,... ,... ,... 
+2012,Comoros,COM,Africa,Eastern Africa,723871,7.897,1403.42851892157,... ,<100 ,<100 ,... ,<100 ,<100 
+2012,"Congo, Dem. Rep.",COD,Africa,Middle Africa,69020747,10.978,,,,,,,
+2012,"Congo, Rep.",COG,Africa,Middle Africa,4510198,7.937,,,,,,,
+2012,Costa Rica,CRI,Americas,Central America,4688000,4.654,9913.20995852366,... ,8300 ,2300 ,... ,<200 ,<100 
+2012,Cote d'Ivoire,CIV,Africa,Western Africa,21547188,11.787,1243.34459676571,,,,,,
+2012,Croatia,HRV,Europe,Southern Europe,4267558,12.1,13238.1179547554,... ,... ,... ,... ,... ,... 
+2012,Cuba,CUB,Americas,Caribbean,11257101,8.015,6497.32111313561,<100 ,18 000 ,3600 ,<100 ,<500 ,<100 
+2012,Curacao,CUW,Americas,Caribbean,152088,8.2,20587.397358013,,,,,,
+2012,Cyprus,CYP,Asia,Western Asia,1135046,6.758,28984.9445491789,... ,... ,... ,... ,... ,... 
+2012,Czech Republic,CZE,Europe,Eastern Europe,10510785,10.3,19729.8705111763,,,,,,
+2012,Denmark,DNK,Europe,Northern Europe,5591572,9.4,58507.5080517852,... ,4200 ,1500 ,... ,<100 ,<100 
+2012,Djibouti,DJI,Africa,Eastern Africa,868136,8.735,1559.24065068226,1100 ,3300 ,4500 ,<100 ,<500 ,<500 
+2012,Dominica,DMA,Americas,Caribbean,70965,..,6848.41823434087,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2012,Dominican Republic,DOM,Americas,Caribbean,9930911,6.048,6110.36952132879,2300 ,34 000 ,33 000 ,<200 ,1500 ,1100 
+2012,Ecuador,ECU,Americas,South America,15474102,5.089,5682.04500655353,<1000 ,26 000 ,9900 ,<100 ,<1000 ,<500 
+2012,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,86422240,6.132,,,,,,,
+2012,El Salvador,SLV,Americas,Central America,6237923,6.891,3428.38473639383,<1000 ,17 000 ,8700 ,<100 ,<500 ,<200 
+2012,Equatorial Guinea,GNQ,Africa,Middle Africa,1031191,10.753,21712.3950163809,4300 ,19 000 ,19 000 ,<500 ,<1000 ,<1000 
+2012,Eritrea,ERI,Africa,Eastern Africa,..,8.311,..,1700 ,6100 ,9500 ,<200 ,<200 ,<500 
+2012,Estonia,EST,Europe,Northern Europe,1322696,11.7,17534.4215441923,... ,4100 ,2200 ,... ,<100 ,<100 
+2012,Eswatini,SWZ,Africa,Southern Africa,1079288,14.226,4527.66898199888,13 000 ,60 000 ,100 000 ,<1000 ,<1000 ,1200 
+2012,Ethiopia,ETH,Africa,Eastern Africa,92726971,7.734,467.077927241718,51 000 ,220 000 ,380 000 ,3700 ,4700 ,6700 
+2012,Faroe Islands,FRO,Europe,Northern Europe,47843,8.5,49459.7172338372,,,,,,
+2012,Fiji,FJI,Oceania,Melanesia,865069,8.137,4591.55578402956,... ,... ,... ,... ,... ,... 
+2012,Finland,FIN,Europe,Northern Europe,5413971,9.6,47710.7902169415,... ,2200 ,<1000 ,... ,<100 ,<100 
+2012,France,FRA,Europe,Western Europe,65659809,8.7,40874.7035053457,<500 ,110 000 ,36 000 ,<100 ,<500 ,<100 
+2012,French Polynesia,PYF,Oceania,Polynesia,268998,5.185,,,,,,,
+2012,Gabon,GAB,Africa,Middle Africa,1749682,8.481,9814.03899241886,3500 ,13 000 ,29 000 ,<500 ,<500 ,<1000 
+2012,"Gambia, The",GMB,Africa,Western Africa,1905011,8.723,,,,,,,
+2012,Georgia,GEO,Asia,Western Asia,3728874,13.168,4421.81824228013,... ,4600 ,2200 ,... ,<100 ,<100 
+2012,Germany,DEU,Europe,Western Europe,80425823,10.8,43858.3630551076,<100 ,59 000 ,14 000 ,<100 ,<500 ,<100 
+2012,Ghana,GHA,Africa,Western Africa,25996449,8.072,1613.28683693408,34 000 ,95 000 ,180 000 ,3500 ,3700 ,6100 
+2012,Gibraltar,GIB,Europe,Southern Europe,33646,..,..,,,,,,
+2012,Greece,GRC,Europe,Southern Europe,11045011,10.6,22242.681934771,... ,... ,... ,... ,... ,... 
+2012,Greenland,GRL,Americas,Northern America,56810,8,45936.7659516989,,,,,,
+2012,Grenada,GRD,Americas,Caribbean,107446,9.065,7444.5047675973,<100 ,<500 ,<100 ,<100 ,<100 ,<100 
+2012,Guam,GUM,Oceania,Micronesia,159996,4.963,32494.5623640591,,,,,,
+2012,Guatemala,GTM,Americas,Central America,15270778,4.996,3299.66560477367,2900 ,27 000 ,19 000 ,<500 ,1100 ,<1000 
+2012,Guinea,GIN,Africa,Western Africa,10652029,10.331,717.050737885584,12 000 ,39 000 ,58 000 ,1200 ,1000 ,1500 
+2012,Guinea-Bissau,GNB,Africa,Western Africa,1604979,11.082,616.411686249548,5800 ,14 000 ,20 000 ,<1000 ,<1000 ,<1000 
+2012,Guyana,GUY,Americas,South America,755399,7.117,3788.14674878178,<500 ,3500 ,3400 ,<100 ,<100 ,<100 
+2012,Haiti,HTI,Americas,Caribbean,10250930,9.333,769.749380959249,11 000 ,56 000 ,75 000 ,<1000 ,2100 ,2100 
+2012,Honduras,HND,Americas,Central America,8640691,4.468,2144.3426111782,1400 ,15 000 ,8800 ,<100 ,<1000 ,<500 
+2012,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7150100,6.1,,,,,,,
+2012,Hungary,HUN,Europe,Eastern Europe,9920362,13,12918.2475205388,... ,2100 ,<500 ,... ,<100 ,<100 
+2012,Iceland,ISL,Europe,Northern Europe,320716,6.1,45910.0209039774,... ,<200 ,<100 ,... ,<100 ,<100 
+2012,India,IND,Asia,Southern Asia,1265782790,7.312,1443.87952939042,... ,... ,... ,... ,... ,... 
+2012,Indonesia,IDN,Asia,South-Eastern Asia,248452413,6.518,3694.34894603237,12 000 ,370 000 ,180 000 ,2300 ,21 000 ,8400 
+2012,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,75539862,4.82,,,,,,,
+2012,Iraq,IRQ,Asia,Western Asia,31890011,5.281,6836.0273134631,,,,,,
+2012,Ireland,IRL,Europe,Northern Europe,4599533,6.3,48917.8975571766,<100 ,3300 ,2100 ,<100 ,<100 ,<100 
+2012,Isle of Man,IMN,Europe,Northern Europe,84533,..,76104.681367227,,,,,,
+2012,Israel,ISR,Asia,Western Asia,7910500,5.3,32511.2378524925,<100 ,5100 ,1700 ,<100 ,<100 ,<100 
+2012,Italy,ITA,Europe,Southern Europe,59539717,10.3,35053.5262442572,<200 ,80 000 ,34 000 ,<100 ,<1000 ,<200 
+2012,Jamaica,JAM,Americas,Caribbean,2842132,7.42,5209.85193130013,... ,... ,... ,... ,... ,... 
+2012,Japan,JPN,Asia,Eastern Asia,127629000,10,48603.4766497749,... ,20 000 ,2600 ,... ,... ,... 
+2012,Jordan,JOR,Asia,Western Asia,8090872,3.809,3877.33934463778,... ,<200 ,<100 ,... ,<100 ,<100 
+2012,Kazakhstan,KAZ,Asia,Central Asia,16792089,8.54,12386.7000029472,<200 ,9100 ,5000 ,<100 ,<500 ,<200 
+2012,Kenya,KEN,Africa,Eastern Africa,44343410,6.73,1136.87140571776,180 000 ,500 000 ,800 000 ,13 000 ,14 000 ,17 000 
+2012,Kiribati,KIR,Oceania,Micronesia,106370,6.875,1788.50542068887,,,,,,
+2012,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,24800612,8.683,,,,,,,
+2012,"Korea, Rep.",KOR,Asia,Eastern Asia,50199853,5.3,,,,,,,
+2012,Kuwait,KWT,Asia,Western Asia,3348853,2.369,51978.9984836395,... ,<500 ,<200 ,... ,<100 ,<100 
+2012,Kyrgyz Republic,KGZ,Asia,Central Asia,5607200,6.5,1177.97473487848,,,,,,
+2012,Lao PDR,LAO,Asia,South-Eastern Asia,6444530,7.07,1581.39540349425,,,,,,
+2012,Latvia,LVA,Europe,Northern Europe,2034319,14.3,13847.7851073453,... ,3000 ,1300 ,... ,<200 ,<100 
+2012,Lebanon,LBN,Asia,Western Asia,5538634,3.952,7985.85494092208,... ,1500 ,<500 ,... ,<100 ,<100 
+2012,Lesotho,LSO,Africa,Southern Africa,2014990,17.936,1328.81307401803,15 000 ,120 000 ,180 000 ,1000 ,2900 ,2600 
+2012,Liberia,LBR,Africa,Western Africa,4135659,9.046,657.936256349955,5100 ,15 000 ,21 000 ,<500 ,<1000 ,1000 
+2012,Libya,LBY,Africa,Northern Africa,6285750,4.99,13025.2813934413,<200 ,4900 ,2000 ,<100 ,<100 ,<100 
+2012,Liechtenstein,LIE,Europe,Western Europe,36615,6.1,149010.224898665,,,,,,
+2012,Lithuania,LTU,Europe,Northern Europe,2987773,13.7,14333.9493428112,... ,... ,... ,... ,... ,... 
+2012,Luxembourg,LUX,Europe,Western Europe,530946,7.3,106749.013622989,... ,<1000 ,<500 ,... ,<100 ,<100 
+2012,"Macao SAR, China",MAC,Asia,Eastern Asia,564039,3.657,,,,,,,
+2012,Madagascar,MDG,Africa,Eastern Africa,22346641,6.98,518.152812673554,1500 ,15 000 ,6600 ,<200 ,<1000 ,<500 
+2012,Malawi,MWI,Africa,Eastern Africa,15396005,9.113,391.561832360636,100 000 ,330 000 ,480 000 ,8100 ,6900 ,7200 
+2012,Malaysia,MYS,Asia,South-Eastern Asia,29068159,4.722,10817.4428742856,<1000 ,60 000 ,17 000 ,<100 ,2400 ,<1000 
+2012,Maldives,MDV,Asia,Southern Asia,397237,3.353,7265.61365556669,... ,... ,... ,... ,... ,... 
+2012,Mali,MLI,Africa,Western Africa,15979499,11.72,778.669462492053,18 000 ,40 000 ,67 000 ,1900 ,1300 ,1600 
+2012,Malta,MLT,Europe,Southern Europe,420028,8.1,21926.8083687432,... ,... ,... ,... ,... ,... 
+2012,Marshall Islands,MHL,Oceania,Micronesia,56717,..,3224.33838179029,,,,,,
+2012,Mauritania,MRT,Africa,Western Africa,3706554,8.047,1411.35283025415,<500 ,4200 ,2200 ,<100 ,<500 ,<100 
+2012,Mauritius,MUS,Africa,Eastern Africa,1255882,7.4,9291.22761861899,<200 ,7700 ,3400 ,<100 ,<500 ,<200 
+2012,Mexico,MEX,Americas,Central America,117274155,5.471,10241.7279153745,2600 ,160 000 ,30 000 ,... ,... ,... 
+2012,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,104506,6.839,,,,,,,
+2012,Moldova,MDA,Europe,Eastern Europe,3559519,11.513,2446.7253157714,,,,,,
+2012,Monaco,MCO,Europe,Western Europe,36460,..,157515.899069445,,,,,,
+2012,Mongolia,MNG,Asia,Eastern Asia,2824699,6.388,4351.8869200565,... ,<500 ,<100 ,... ,<100 ,<100 
+2012,Montenegro,MNE,Europe,Southern Europe,620601,10.177,6586.7212793222,... ,<200 ,<100 ,... ,<100 ,<100 
+2012,Morocco,MAR,Africa,Northern Africa,33241898,5.181,2912.65827494029,<500 ,10 000 ,7000 ,<100 ,<500 ,<200 
+2012,Mozambique,MOZ,Africa,Eastern Africa,24862648,11.832,657.645337819668,140 000 ,630 000 ,970 000 ,13 000 ,23 000 ,29 000 
+2012,Myanmar,MMR,Asia,South-Eastern Asia,51413698,8.598,1165.79432896131,8800 ,140 000 ,80 000 ,<1000 ,7700 ,2200 
+2012,Namibia,NAM,Africa,Southern Africa,2194784,10.012,5930.54847260768,14 000 ,67 000 ,100 000 ,<1000 ,1000 ,1300 
+2012,Nauru,NRU,Oceania,Micronesia,10279,..,10101.5047869133,,,,,,
+2012,Nepal,NPL,Asia,Southern Asia,26989862,6.672,698.466479416086,1500 ,19 000 ,11 000 ,<200 ,<1000 ,<500 
+2012,Netherlands,NLD,Europe,Western Europe,16754962,8.4,50073.0056559308,<100 ,17 000 ,3600 ,<100 ,<200 ,<100 
+2012,New Caledonia,NCL,Oceania,Melanesia,259000,5.1,,,,,,,
+2012,New Zealand,NZL,Oceania,Australia and New Zealand,4408100,6.82,39970.4400394577,... ,2300 ,<1000 ,... ,<100 ,<100 
+2012,Nicaragua,NIC,Americas,Central America,5982526,5.038,1760.46148535663,<500 ,5400 ,2700 ,<100 ,<200 ,<100 
+2012,Niger,NER,Africa,Western Africa,17795191,10.359,390.119909653729,3400 ,17 000 ,16 000 ,<500 ,<1000 ,<500 
+2012,Nigeria,NGA,Africa,Western Africa,167228767,13.623,2746.99178858383,150 000 ,670 000 ,790 000 ,17 000 ,29 000 ,24 000 
+2012,North Macedonia,MKD,Europe,Southern Europe,2074278,9.616,4698.14129350594,... ,<200 ,<100 ,... ,<100 ,<100 
+2012,Northern Mariana Islands,MNP,Oceania,Micronesia,54311,..,13827.7696967465,,,,,,
+2012,Norway,NOR,Europe,Northern Europe,5018573,8.4,101524.141851985,... ,3300 ,1400 ,... ,<100 ,<100 
+2012,Oman,OMN,Asia,Western Asia,3498029,2.695,21923.5480214797,... ,1700 ,<1000 ,... ,<100 ,<100 
+2012,Pakistan,PAK,Asia,Southern Asia,187281475,7.349,1198.10900052752,2600 ,60 000 ,26 000 ,<500 ,1500 ,<1000 
+2012,Palau,PLW,Oceania,Micronesia,17640,9.4,11967.3072562358,,,,,,
+2012,Panama,PAN,Americas,Central America,3770624,4.954,10722.2836326295,<500 ,15 000 ,6400 ,<100 ,<500 ,<200 
+2012,Papua New Guinea,PNG,Oceania,Melanesia,7631002,8.128,2790.67666988481,3500 ,15 000 ,20 000 ,... ,... ,... 
+2012,Paraguay,PRY,Americas,South America,6421512,5.406,5183.08287691315,<500 ,14 000 ,5900 ,<100 ,<1000 ,<500 
+2012,Peru,PER,Americas,South America,29506788,5.302,6528.97221785312,1800 ,52 000 ,15 000 ,<200 ,1100 ,<500 
+2012,Philippines,PHL,Asia,South-Eastern Asia,97212638,5.719,2572.62942497398,<200 ,22 000 ,1600 ,<100 ,<500 ,<100 
+2012,Poland,POL,Europe,Eastern Europe,38063164,10.1,13145.5392627865,... ,... ,... ,... ,... ,... 
+2012,Portugal,PRT,Europe,Southern Europe,10514844,10.2,20564.8898617969,<100 ,29 000 ,11 000 ,<100 ,<1000 ,<200 
+2012,Puerto Rico,PRI,Americas,Caribbean,3634488,8.1,27944.7338937424,,,,,,
+2012,Qatar,QAT,Asia,Western Asia,2196074,1.148,85076.1479273998,... ,... ,... ,... ,... ,... 
+2012,Romania,ROU,Europe,Eastern Europe,20058035,12.7,8535.0468756267,<1000 ,9100 ,5000 ,<100 ,<100 ,<100 
+2012,Russian Federation,RUS,Europe,Eastern Europe,143201676,13.3,15434.5747807082,... ,... ,... ,... ,... ,... 
+2012,Rwanda,RWA,Africa,Eastern Africa,10549678,6.384,704.177712534755,19 000 ,79 000 ,120 000 ,<1000 ,1700 ,1800 
+2012,Samoa,WSM,Oceania,Polynesia,189088,5.727,4022.19906973979,,,,,,
+2012,San Marino,SMR,Europe,Southern Europe,32105,7.1,56068.4345458956,,,,,,
+2012,Sao Tome and Principe,STP,Africa,Middle Africa,188404,5.509,1340.52650698418,<200 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2012,Saudi Arabia,SAU,Asia,Western Asia,29155187,3.422,25243.3586984024,... ,... ,... ,... ,... ,... 
+2012,Senegal,SEN,Africa,Western Africa,13401991,6.753,1330.05744813659,5700 ,13 000 ,25 000 ,<1000 ,<500 ,<500 
+2012,Serbia,SRB,Europe,Southern Europe,7199077,14.2,6015.94522756969,... ,1700 ,<500 ,... ,<100 ,<100 
+2012,Seychelles,SYC,Africa,Eastern Africa,88303,7.4,12006.68296237,,,,,,
+2012,Sierra Leone,SLE,Africa,Western Africa,6712581,14.008,566.378656937493,7700 ,22 000 ,32 000 ,<1000 ,<1000 ,<1000 
+2012,Singapore,SGP,Asia,South-Eastern Asia,5312437,4.5,55546.4885386921,... ,6400 ,<1000 ,... ,<100 ,<100 
+2012,Sint Maarten (Dutch part),SXM,Americas,Caribbean,34640,5.4,..,,,,,,
+2012,Slovak Republic,SVK,Europe,Eastern Europe,5407579,9.7,17460.0468093549,,,,,,
+2012,Slovenia,SVN,Europe,Southern Europe,2057159,9.4,22643.1002515007,... ,... ,... ,... ,<100 ,<100 
+2012,Solomon Islands,SLB,Oceania,Melanesia,556064,4.592,1913.23201256373,,,,,,
+2012,Somalia,SOM,Africa,Eastern Africa,12715510,12.331,,1900 ,6200 ,6900 ,<500 ,<1000 ,<500 
+2012,South Africa,ZAF,Africa,Southern Africa,52834005,10.918,7501.4699839525,310 000 ,2 400 000 ,3 900 000 ,11 000 ,43 000 ,47 000 
+2012,South Sudan,SSD,Africa,Eastern Africa,10113647,11.399,1179.7398280342,16 000 ,57 000 ,79 000 ,2000 ,3700 ,4700 
+2012,Spain,ESP,Europe,Southern Europe,46773055,8.6,28324.4293363918,<100 ,110 000 ,26 000 ,<100 ,<1000 ,<200 
+2012,Sri Lanka,LKA,Asia,Southern Asia,20425000,6.135,3350.52187589289,... ,2700 ,1200 ,... ,<200 ,<100 
+2012,St. Kitts and Nevis,KNA,Americas,Caribbean,49887,..,16044.5569951052,,,,,,
+2012,St. Lucia,LCA,Americas,Caribbean,176646,6.84,8151.99241336827,,,,,,
+2012,St. Martin (French part),MAF,Americas,Caribbean,37009,4,..,,,,,,
+2012,St. Vincent and the Grenadines,VCT,Americas,Caribbean,108435,8.234,6390.31438871896,,,,,,
+2012,Sudan,SDN,Africa,Northern Africa,36193783,7.788,1882.24677012331,3300 ,23 000 ,21 000 ,<500 ,1100 ,<1000 
+2012,Suriname,SUR,Americas,South America,541245,7.039,9201.00878530056,<100 ,2700 ,2000 ,<100 ,<100 ,<100 
+2012,Sweden,SWE,Europe,Northern Europe,9519374,9.7,57874.2864975611,... ,... ,... ,... ,... ,... 
+2012,Switzerland,CHE,Europe,Western Europe,7996861,8,83538.2128216758,... ,... ,... ,... ,... ,... 
+2012,Syrian Arab Republic,SYR,Asia,Western Asia,20442541,5.229,..,... ,<500 ,<200 ,... ,<100 ,<100 
+2012,Tajikistan,TJK,Asia,Central Asia,7874835,5.542,969.296473144289,<500 ,7500 ,2600 ,<100 ,<500 ,<100 
+2012,Tanzania,TZA,Africa,Eastern Africa,47052481,8.305,867.867680563228,,,,,,
+2012,Thailand,THA,Asia,South-Eastern Asia,67835957,7.241,5860.58061021939,9000 ,310 000 ,240 000 ,<500 ,15 000 ,7900 
+2012,Timor-Leste,TLS,Asia,South-Eastern Asia,1132994,6.332,5879.6998042355,... ,... ,... ,... ,... ,... 
+2012,Togo,TGO,Africa,Western Africa,6773807,9.514,571.839428880573,16 000 ,34 000 ,55 000 ,1400 ,1300 ,1900 
+2012,Tonga,TON,Oceania,Polynesia,102737,7.225,4597.74230534531,,,,,,
+2012,Trinidad and Tobago,TTO,Americas,Caribbean,1344817,7.866,19157.4170366712,... ,... ,... ,... ,... ,... 
+2012,Tunisia,TUN,Africa,Northern Africa,10847002,6.274,4152.67858707583,... ,1200 ,<1000 ,... ,<100 ,<100 
+2012,Turkey,TUR,Asia,Western Asia,74653016,5.547,11707.2597122125,... ,... ,... ,... ,... ,... 
+2012,Turkmenistan,TKM,Asia,Central Asia,5267900,7.167,6675.18565772239,... ,... ,... ,... ,... ,... 
+2012,Turks and Caicos Islands,TCA,Americas,Caribbean,34066,..,21009.8858098984,,,,,,
+2012,Tuvalu,TUV,Oceania,Polynesia,10739,..,3507.93691138349,,,,,,
+2012,Uganda,UGA,Africa,Eastern Africa,34559168,8.605,668.832461950198,130 000 ,460 000 ,660 000 ,12 000 ,14 000 ,21 000 
+2012,Ukraine,UKR,Europe,Eastern Europe,45593300,14.5,3855.4212801318,1100 ,150 000 ,76 000 ,<100 ,8700 ,2800 
+2012,United Arab Emirates,ARE,Asia,Western Asia,9141596,1.369,40976.4997112455,... ,... ,... ,... ,... ,... 
+2012,United Kingdom,GBR,Europe,Northern Europe,63700300,8.9,42462.7149069427,... ,... ,... ,... ,... ,... 
+2012,United States,USA,Americas,Northern America,313874218,8.102,51603.4972614412,... ,... ,... ,... ,... ,... 
+2012,Uruguay,URY,Americas,South America,3378974,9.376,15171.5846627498,<200 ,7400 ,3100 ,<100 ,<200 ,<100 
+2012,Uzbekistan,UZB,Asia,Central Asia,29774500,4.9,2137.025122118,3200 ,20 000 ,10 000 ,<1000 ,1100 ,<500 
+2012,Vanuatu,VUT,Oceania,Melanesia,249499,5.527,3133.09020920348,,,,,,
+2012,"Venezuela, RB",VEN,Americas,South America,29362449,5.822,,,,,,,
+2012,Vietnam,VNM,Asia,South-Eastern Asia,89802487,5.93,1735.14127643805,,,,,,
+2012,Virgin Islands (U.S.),VIR,Americas,Caribbean,108191,6.7,37849.7287205036,,,,,,
+2012,West Bank and Gaza,PSE,Asia,Western Asia,3979998,3.505,2834.02152463393,,,,,,
+2012,"Yemen, Rep.",YEM,Asia,Western Asia,24473178,6.03,,,,,,,
+2012,Zambia,ZMB,Africa,Eastern Africa,14465121,8.637,1763.09418353303,74 000 ,410 000 ,580 000 ,5300 ,8700 ,8700 
+2012,Zimbabwe,ZWE,Africa,Eastern Africa,13115131,11.167,1304.96980167411,120 000 ,460 000 ,670 000 ,7500 ,13 000 ,13 000 
+2013,Afghanistan,AFG,Asia,Southern Asia,32269589,7.38,637.16504385598,<500 ,3500 ,1400 ,<100 ,<200 ,<100 
+2013,Albania,ALB,Europe,Southern Europe,2895092,7.096,4413.0817427964,... ,... ,... ,... ,... ,... 
+2013,Algeria,DZA,Africa,Northern Africa,38140132,4.699,5499.58148704572,<500 ,5500 ,4400 ,<100 ,<100 ,<100 
+2013,American Samoa,ASM,Oceania,Polynesia,55713,..,11505.3937142139,,,,,,
+2013,Andorra,AND,Europe,Southern Europe,80774,..,40626.7516320228,,,,,,
+2013,Angola,AGO,Africa,Middle Africa,26015780,9.921,5254.88233799616,33 000 ,72 000 ,160 000 ,4600 ,2100 ,4900 
+2013,Antigua and Barbuda,ATG,Americas,Caribbean,91516,6.151,12909.7441775006,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2013,Argentina,ARG,Americas,South America,42202935,7.665,13080.2547323367,2400 ,80 000 ,37 000 ,<100 ,1100 ,<500 
+2013,Armenia,ARM,Asia,Western Asia,2897584,9.774,3838.18580148382,... ,2200 ,1100 ,... ,<100 ,<100 
+2013,Aruba,ABW,Americas,Caribbean,103159,8.347,25025.0995629083,,,,,,
+2013,Australia,AUS,Oceania,Australia and New Zealand,23128129,6.4,68150.1070413215,<100 ,21 000 ,2600 ,<100 ,<200 ,<100 
+2013,Austria,AUT,Europe,Western Europe,8479823,9.4,50716.7087062864,... ,... ,... ,... ,... ,... 
+2013,Azerbaijan,AZE,Asia,Western Asia,9416801,5.8,7875.75695254288,... ,... ,... ,... ,... ,... 
+2013,"Bahamas, The",BHS,Americas,Caribbean,367168,6.651,,,,,,,
+2013,Bahrain,BHR,Asia,Western Asia,1315029,2.331,24744.3576319157,... ,... ,... ,... ,... ,... 
+2013,Bangladesh,BGD,Asia,Southern Asia,152764676,5.589,981.839879150399,<500 ,6000 ,3400 ,<100 ,<500 ,<200 
+2013,Barbados,BRB,Americas,Caribbean,284296,8.625,16452.0369614768,... ,1800 ,<1000 ,... ,<100 ,<100 
+2013,Belarus,BLR,Europe,Eastern Europe,9465997,13.2,7978.87261471076,<200 ,10 000 ,7600 ,<100 ,<200 ,<100 
+2013,Belgium,BEL,Europe,Western Europe,11159407,9.8,46744.6625441516,... ,... ,... ,... ,... ,... 
+2013,Belize,BLZ,Americas,Central America,345715,4.588,4568.54205131289,<200 ,2200 ,1900 ,<100 ,<100 ,<100 
+2013,Benin,BEN,Africa,Western Africa,10004588,9.628,915.575816379432,5600 ,25 000 ,37 000 ,<1000 ,<1000 ,<1000 
+2013,Bermuda,BMU,Americas,Northern America,65001,6.8,85748.0654143782,,,,,,
+2013,Bhutan,BTN,Asia,Southern Asia,710238,6.288,2472.71430921323,... ,<1000 ,<500 ,... ,<100 ,<100 
+2013,Bolivia,BOL,Americas,South America,10542376,7.062,2908.20008548078,,,,,,
+2013,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3542605,10.088,5131.39450642932,... ,<200 ,<100 ,... ,<100 ,<100 
+2013,Botswana,BWA,Africa,Southern Africa,2062536,7.122,7224.96517150786,21 000 ,140 000 ,190 000 ,<1000 ,2300 ,2500 
+2013,Brazil,BRA,Americas,South America,201035903,6.147,12300.3225752233,... ,... ,... ,... ,... ,... 
+2013,British Virgin Islands,VGB,Americas,Caribbean,28847,..,,,,,,,
+2013,Brunei Darussalam,BRN,Asia,South-Eastern Asia,404421,4.009,44740.085018517,... ,... ,... ,... ,... ,... 
+2013,Bulgaria,BGR,Europe,Eastern Europe,7265115,14.4,7646.83986554542,... ,1800 ,<500 ,... ,<100 ,<100 
+2013,Burkina Faso,BFA,Africa,Western Africa,17072775,9.426,699.779405632453,14 000 ,39 000 ,53 000 ,1100 ,2000 ,1100 
+2013,Burundi,BDI,Africa,Eastern Africa,9540289,9.052,256.976002796754,16 000 ,29 000 ,44 000 ,1000 ,1200 ,1100 
+2013,Cabo Verde,CPV,Africa,Western Africa,511748,5.918,3615.97904131099,... ,<1000 ,1100 ,... ,<100 ,<100 
+2013,Cambodia,KHM,Asia,South-Eastern Asia,15026332,6.228,1013.4204006154,4400 ,35 000 ,38 000 ,<200 ,<1000 ,<1000 
+2013,Cameroon,CMR,Africa,Middle Africa,22077298,10.657,1465.2223269067,53 000 ,170 000 ,320 000 ,5200 ,7800 ,9900 
+2013,Canada,CAN,Americas,Northern America,35082954,7.2,52504.655704109,... ,... ,... ,... ,... ,... 
+2013,Cayman Islands,CYM,Americas,Caribbean,59932,3.23618841017799,73515.8953177856,,,,,,
+2013,Central African Republic,CAF,Africa,Middle Africa,4447942,14.725,380.190091651727,14 000 ,46 000 ,64 000 ,1400 ,2800 ,3700 
+2013,Chad,TCD,Africa,Middle Africa,13220424,13.38,979.533959184118,18 000 ,39 000 ,51 000 ,1800 ,<1000 ,<1000 
+2013,Chile,CHL,Americas,South America,17571507,5.785,15842.940805218,<500 ,41 000 ,8300 ,... ,... ,... 
+2013,China,CHN,Asia,Eastern Asia,1357380000,7.16,7050.64591988963,... ,... ,... ,... ,... ,... 
+2013,Colombia,COL,Americas,South America,46497267,5.339,8212.66782924683,4500 ,100 000 ,28 000 ,... ,... ,... 
+2013,Comoros,COM,Africa,Eastern Africa,741505,7.744,1504.92085930273,... ,<100 ,<100 ,... ,<100 ,<100 
+2013,"Congo, Dem. Rep.",COD,Africa,Middle Africa,71358807,10.696,,,,,,,
+2013,"Congo, Rep.",COG,Africa,Middle Africa,4622761,7.659,,,,,,,
+2013,Costa Rica,CRI,Americas,Central America,4742107,4.722,10490.0813312933,... ,8800 ,2400 ,... ,<200 ,<100 
+2013,Cote d'Ivoire,CIV,Africa,Western Africa,22087505,11.417,1415.4693846297,,,,,,
+2013,Croatia,HRV,Europe,Southern Europe,4255689,11.8,13642.19778327,... ,... ,... ,... ,... ,... 
+2013,Cuba,CUB,Americas,Caribbean,11282720,8.175,6837.71289192677,<100 ,19 000 ,4000 ,<100 ,<500 ,<100 
+2013,Curacao,CUW,Americas,Caribbean,153822,8.1,20462.7179539813,,,,,,
+2013,Cyprus,CYP,Asia,Western Asia,1143866,6.772,27942.3012696028,... ,... ,... ,... ,... ,... 
+2013,Czech Republic,CZE,Europe,Eastern Europe,10514272,10.4,19916.0193873722,,,,,,
+2013,Denmark,DNK,Europe,Northern Europe,5614932,9.3,61191.1937042028,... ,4300 ,1600 ,... ,<100 ,<100 
+2013,Djibouti,DJI,Africa,Eastern Africa,883293,8.462,2312.72880330353,1100 ,3300 ,4400 ,<100 ,<500 ,<500 
+2013,Dominica,DMA,Americas,Caribbean,71016,..,7016.67647144723,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2013,Dominican Republic,DOM,Americas,Caribbean,10048224,6.058,6238.13309701676,2200 ,34 000 ,33 000 ,<100 ,1400 ,1000 
+2013,Ecuador,ECU,Americas,South America,15707474,5.094,6056.3308269681,<1000 ,27 000 ,10 000 ,<100 ,<1000 ,<500 
+2013,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,88404640,6.081,,,,,,,
+2013,El Salvador,SLV,Americas,Central America,6266070,6.913,3509.53628031605,<1000 ,17 000 ,8800 ,<100 ,<500 ,<100 
+2013,Equatorial Guinea,GNQ,Africa,Middle Africa,1076413,10.496,20384.9245274473,4500 ,20 000 ,20 000 ,<500 ,<1000 ,<500 
+2013,Eritrea,ERI,Africa,Eastern Africa,..,8.093,,1600 ,6200 ,9600 ,<200 ,<200 ,<500 
+2013,Estonia,EST,Europe,Northern Europe,1317997,11.6,19174.100729108,... ,4200 ,2300 ,... ,<100 ,<100 
+2013,Eswatini,SWZ,Africa,Southern Africa,1086839,13.171,4230.34405091307,13 000 ,62 000 ,110 000 ,<1000 ,<1000 ,1200 
+2013,Ethiopia,ETH,Africa,Eastern Africa,95385785,7.455,499.531572059907,48 000 ,220 000 ,380 000 ,3000 ,4200 ,6600 
+2013,Faroe Islands,FRO,Europe,Northern Europe,47892,7.6,54853.6255967876,,,,,,
+2013,Fiji,FJI,Oceania,Melanesia,865608,8.165,4840.69371615802,... ,... ,... ,... ,... ,... 
+2013,Finland,FIN,Europe,Northern Europe,5438972,9.5,49878.0432444536,... ,2300 ,<1000 ,... ,<100 ,<100 
+2013,France,FRA,Europe,Western Europe,65998687,8.7,42592.9340943342,<500 ,110 000 ,38 000 ,<100 ,<500 ,<100 
+2013,French Polynesia,PYF,Oceania,Polynesia,270328,5.267,..,,,,,,
+2013,Gabon,GAB,Africa,Middle Africa,1817071,8.096,9680.82433880273,3400 ,14 000 ,30 000 ,<500 ,<500 ,<1000 
+2013,"Gambia, The",GMB,Africa,Western Africa,1963711,8.59,,,,,,,
+2013,Georgia,GEO,Asia,Western Asia,3717668,13.158,4623.72955388974,... ,5000 ,2300 ,... ,<100 ,<100 
+2013,Germany,DEU,Europe,Western Europe,80645605,11.1,46285.7640688407,<100 ,61 000 ,15 000 ,<100 ,<500 ,<100 
+2013,Ghana,GHA,Africa,Western Africa,26607642,7.935,2378.15951253814,34 000 ,97 000 ,180 000 ,3400 ,3800 ,5700 
+2013,Gibraltar,GIB,Europe,Southern Europe,33692,..,,,,,,,
+2013,Greece,GRC,Europe,Southern Europe,10965211,10.2,21874.8195041667,... ,... ,... ,... ,... ,... 
+2013,Greenland,GRL,Americas,Northern America,56483,7.9,47535.5899453685,,,,,,
+2013,Grenada,GRD,Americas,Caribbean,108170,9.252,7789.77638079977,<100 ,<500 ,<100 ,<100 ,<100 ,<100 
+2013,Guam,GUM,Oceania,Micronesia,160407,5.007,33265.3811866066,,,,,,
+2013,Guatemala,GTM,Americas,Central America,15595821,4.932,3452.92200049589,2700 ,27 000 ,19 000 ,<200 ,1100 ,<1000 
+2013,Guinea,GIN,Africa,Western Africa,10892810,10.003,769.003943268326,11 000 ,40 000 ,60 000 ,1100 ,1200 ,1200 
+2013,Guinea-Bissau,GNB,Africa,Western Africa,1648257,10.779,634.48244599306,5800 ,14 000 ,21 000 ,<1000 ,<1000 ,<1000 
+2013,Guyana,GUY,Americas,South America,759285,7.13,3934.86526171904,<500 ,3600 ,3500 ,<100 ,<100 ,<100 
+2013,Haiti,HTI,Americas,Caribbean,10400673,9.185,815.820015229786,10 000 ,57 000 ,77 000 ,<1000 ,2100 ,1800 
+2013,Honduras,HND,Americas,Central America,8798521,4.446,2102.59316626494,1300 ,14 000 ,8800 ,<100 ,<1000 ,<500 
+2013,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7178900,6,,,,,,,
+2013,Hungary,HUN,Europe,Eastern Europe,9893082,12.8,13687.246101281,... ,2300 ,<500 ,... ,<100 ,<100 
+2013,Iceland,ISL,Europe,Northern Europe,323764,6.7,49522.2369665887,... ,<200 ,<100 ,... ,<100 ,<100 
+2013,India,IND,Asia,Southern Asia,1280846129,7.251,1449.6059123387,... ,... ,... ,... ,... ,... 
+2013,Indonesia,IDN,Asia,South-Eastern Asia,251806402,6.471,3623.91158235134,13 000 ,380 000 ,190 000 ,2500 ,22 000 ,9500 
+2013,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,76481943,4.799,,,,,,,
+2013,Iraq,IRQ,Asia,Western Asia,33157050,5.164,7076.55460775667,,,,,,
+2013,Ireland,IRL,Europe,Northern Europe,4623816,6.4,51590.1884453629,<100 ,3500 ,2100 ,<100 ,<100 ,<100 
+2013,Isle of Man,IMN,Europe,Northern Europe,83976,..,80431.6727965138,,,,,,
+2013,Israel,ISR,Asia,Western Asia,8059500,5.2,36309.4688256886,<100 ,5300 ,1800 ,<100 ,<100 ,<100 
+2013,Italy,ITA,Europe,Southern Europe,60233948,10,35549.9746972954,<200 ,82 000 ,35 000 ,<100 ,<1000 ,<200 
+2013,Jamaica,JAM,Americas,Caribbean,2858709,7.463,4989.17139091154,... ,... ,... ,... ,... ,... 
+2013,Japan,JPN,Asia,Eastern Asia,127445000,10.1,40454.4474578903,... ,21 000 ,2600 ,... ,... ,... 
+2013,Jordan,JOR,Asia,Western Asia,8520420,3.805,3998.02747275799,... ,<500 ,<100 ,... ,<100 ,<100 
+2013,Kazakhstan,KAZ,Asia,Central Asia,17035550,8,13890.6317716835,<200 ,10 000 ,5600 ,<100 ,<500 ,<200 
+2013,Kenya,KEN,Africa,Eastern Africa,45519889,6.428,1210.38801408195,170 000 ,510 000 ,820 000 ,11 000 ,15 000 ,14 000 
+2013,Kiribati,KIR,Oceania,Micronesia,107890,6.781,1715.76533141614,,,,,,
+2013,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,24929452,8.671,,,,,,,
+2013,"Korea, Rep.",KOR,Asia,Eastern Asia,50428893,5.3,,,,,,,
+2013,Kuwait,KWT,Asia,Western Asia,3526378,2.376,49388.2093931705,... ,<500 ,<200 ,... ,<100 ,<100 
+2013,Kyrgyz Republic,KGZ,Asia,Central Asia,5719600,6.1,1282.43716202467,,,,,,
+2013,Lao PDR,LAO,Asia,South-Eastern Asia,6541304,6.93,1825.66511330676,,,,,,
+2013,Latvia,LVA,Europe,Northern Europe,2012647,14.3,15043.1175639591,... ,3100 ,1400 ,... ,<200 ,<100 
+2013,Lebanon,LBN,Asia,Western Asia,5914621,3.995,7923.851717266,... ,1600 ,<500 ,... ,<100 ,<100 
+2013,Lesotho,LSO,Africa,Southern Africa,2028519,17.177,1249.18349561088,14 000 ,130 000 ,180 000 ,<1000 ,3300 ,2700 
+2013,Liberia,LBR,Africa,Western Africa,4248334,8.763,721.930055405248,5000 ,15 000 ,21 000 ,<500 ,<1000 ,1000 
+2013,Libya,LBY,Africa,Northern Africa,6320359,5.056,10363.7894894551,<500 ,5200 ,2100 ,<100 ,<100 ,<100 
+2013,Liechtenstein,LIE,Europe,Western Europe,36934,6.7,173058.317372602,,,,,,
+2013,Lithuania,LTU,Europe,Northern Europe,2957689,14,15705.1639858867,... ,... ,... ,... ,... ,... 
+2013,Luxembourg,LUX,Europe,Western Europe,543360,7,113625.13289956,... ,<1000 ,<500 ,... ,<100 ,<100 
+2013,"Macao SAR, China",MAC,Asia,Eastern Asia,577372,3.671,,,,,,,
+2013,Madagascar,MDG,Africa,Eastern Africa,22961253,6.8,541.06608508644,1500 ,16 000 ,7000 ,<200 ,<1000 ,<500 
+2013,Malawi,MWI,Africa,Eastern Africa,15839269,8.43,348.430269640572,97 000 ,340 000 ,500 000 ,6300 ,6000 ,5800 
+2013,Malaysia,MYS,Asia,South-Eastern Asia,29468872,4.767,10970.1232849014,<1000 ,61 000 ,17 000 ,<100 ,2700 ,<1000 
+2013,Maldives,MDV,Asia,Southern Asia,415593,3.256,7928.45736514824,... ,... ,... ,... ,... ,... 
+2013,Mali,MLI,Africa,Western Africa,16449864,11.358,805.259668494187,18 000 ,41 000 ,70 000 ,1900 ,1600 ,1700 
+2013,Malta,MLT,Europe,Southern Europe,425967,7.6,23838.6143979371,... ,... ,... ,... ,... ,... 
+2013,Marshall Islands,MHL,Oceania,Micronesia,56938,..,3296.69816291405,,,,,,
+2013,Mauritania,MRT,Africa,Western Africa,3817494,7.9,1477.36153924563,<500 ,4100 ,2200 ,<100 ,<500 ,<100 
+2013,Mauritius,MUS,Africa,Eastern Africa,1258653,7.5,9637.00265000958,<200 ,7900 ,3400 ,<100 ,<500 ,<200 
+2013,Mexico,MEX,Americas,Central America,118827161,5.572,10725.1833166036,2600 ,170 000 ,31 000 ,... ,... ,... 
+2013,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,105926,6.709,,,,,,,
+2013,Moldova,MDA,Europe,Eastern Europe,3558566,11.424,2668.68300938775,,,,,,
+2013,Monaco,MCO,Europe,Western Europe,36901,..,177593.351895053,,,,,,
+2013,Mongolia,MNG,Asia,Eastern Asia,2881792,6.331,4366.07590145025,... ,<500 ,<100 ,... ,<100 ,<100 
+2013,Montenegro,MNE,Europe,Southern Europe,621207,10.208,7186.43192406181,... ,<200 ,<100 ,... ,<100 ,<100 
+2013,Morocco,MAR,Africa,Northern Africa,33715693,5.163,3121.68117550498,<500 ,11 000 ,7300 ,<100 ,<500 ,<200 
+2013,Mozambique,MOZ,Africa,Eastern Africa,25560725,11.24,664.078211827767,140 000 ,650 000 ,1 000 000 ,12 000 ,24 000 ,30 000 
+2013,Myanmar,MMR,Asia,South-Eastern Asia,51852451,8.48,1162.33144011893,9100 ,140 000 ,81 000 ,<1000 ,7300 ,2200 
+2013,Namibia,NAM,Africa,Southern Africa,2233510,9.458,5694.08263428425,14 000 ,69 000 ,100 000 ,<1000 ,<1000 ,1300 
+2013,Nauru,NRU,Oceania,Micronesia,10821,..,10039.272211856,,,,,,
+2013,Nepal,NPL,Asia,Southern Asia,26917906,6.611,715.923743046061,1600 ,19 000 ,11 000 ,<200 ,<1000 ,<500 
+2013,Netherlands,NLD,Europe,Western Europe,16804432,8.4,52184.0618504931,<100 ,18 000 ,3700 ,<100 ,<200 ,<100 
+2013,New Caledonia,NCL,Oceania,Melanesia,263650,5.2,..,,,,,,
+2013,New Zealand,NZL,Oceania,Australia and New Zealand,4442100,6.65,42949.1422285498,... ,2400 ,<1000 ,... ,<100 ,<100 
+2013,Nicaragua,NIC,Americas,Central America,6062454,5.031,1811.6325213683,<500 ,5500 ,2700 ,<100 ,<200 ,<100 
+2013,Niger,NER,Africa,Western Africa,18504255,9.916,414.388613126623,3200 ,17 000 ,16 000 ,<500 ,<1000 ,<500 
+2013,Nigeria,NGA,Africa,Western Africa,171765769,13.307,2998.07284264118,150 000 ,680 000 ,820 000 ,15 000 ,29 000 ,20 000 
+2013,North Macedonia,MKD,Europe,Southern Europe,2076067,9.669,5210.67583028154,... ,<500 ,<100 ,... ,<100 ,<100 
+2013,Northern Mariana Islands,MNP,Oceania,Micronesia,54784,..,14274.2406542056,,,,,,
+2013,Norway,NOR,Europe,Northern Europe,5079623,8.1,102913.450843674,... ,3500 ,1400 ,... ,<100 ,<100 
+2013,Oman,OMN,Asia,Western Asia,3764805,2.643,20926.5540495711,... ,1800 ,<1000 ,... ,<100 ,<100 
+2013,Pakistan,PAK,Asia,Southern Asia,191262919,7.257,1208.90431029644,3000 ,68 000 ,30 000 ,<1000 ,1900 ,<1000 
+2013,Palau,PLW,Oceania,Micronesia,17606,10.9,12688.1972054981,,,,,,
+2013,Panama,PAN,Americas,Central America,3835437,4.969,11889.1276274385,<500 ,15 000 ,6700 ,<100 ,<500 ,<200 
+2013,Papua New Guinea,PNG,Oceania,Melanesia,7788379,8.008,2729.89190363004,3500 ,15 000 ,20 000 ,... ,... ,... 
+2013,Paraguay,PRY,Americas,South America,6510276,5.407,5926.83286284344,<500 ,14 000 ,6000 ,<100 ,<1000 ,<200 
+2013,Peru,PER,Americas,South America,29773987,5.309,6756.75276926556,1700 ,53 000 ,15 000 ,<200 ,<1000 ,<200 
+2013,Philippines,PHL,Asia,South-Eastern Asia,98871552,5.754,2749.38663574006,<200 ,28 000 ,1900 ,<100 ,<500 ,<100 
+2013,Poland,POL,Europe,Eastern Europe,38040196,10.2,13781.0626053813,... ,... ,... ,... ,... ,... 
+2013,Portugal,PRT,Europe,Southern Europe,10457295,10.2,21647.0418118869,<100 ,29 000 ,12 000 ,<100 ,<1000 ,<200 
+2013,Puerto Rico,PRI,Americas,Caribbean,3593077,8.1,28513.1657351067,,,,,,
+2013,Qatar,QAT,Asia,Western Asia,2336574,1.132,85050.9109716822,... ,... ,... ,... ,... ,... 
+2013,Romania,ROU,Europe,Eastern Europe,19983693,12.4,9555.2442173314,<500 ,9500 ,5300 ,<100 ,<100 ,<100 
+2013,Russian Federation,RUS,Europe,Eastern Europe,143506911,13,16007.089993444,... ,... ,... ,... ,... ,... 
+2013,Rwanda,RWA,Africa,Eastern Africa,10811543,6.059,704.980302457137,18 000 ,80 000 ,130 000 ,<1000 ,1600 ,1700 
+2013,Samoa,WSM,Oceania,Polynesia,190717,5.645,4037.50920768832,,,,,,
+2013,San Marino,SMR,Europe,Southern Europe,32553,7.4,57302.6880026149,,,,,,
+2013,Sao Tome and Principe,STP,Africa,Middle Africa,192087,5.364,1577.02232910998,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2013,Saudi Arabia,SAU,Asia,Western Asia,30052518,3.41,24844.7443709487,... ,... ,... ,... ,... ,... 
+2013,Senegal,SEN,Africa,Western Africa,13782420,6.522,1375.67875391026,5500 ,13 000 ,25 000 ,<1000 ,<1000 ,<500 
+2013,Serbia,SRB,Europe,Southern Europe,7164132,14,6755.07367461629,... ,1800 ,<500 ,... ,<100 ,<100 
+2013,Seychelles,SYC,Africa,Eastern Africa,89949,8,14765.6739800428,,,,,,
+2013,Sierra Leone,SLE,Africa,Western Africa,6863980,13.483,716.835304734774,7700 ,23 000 ,33 000 ,<1000 ,<1000 ,<1000 
+2013,Singapore,SGP,Asia,South-Eastern Asia,5399162,4.6,56967.4257940383,... ,6600 ,<1000 ,... ,<100 ,<100 
+2013,Sint Maarten (Dutch part),SXM,Americas,Caribbean,36607,4.7,,,,,,,
+2013,Slovak Republic,SVK,Europe,Eastern Europe,5413393,9.6,18236.9807888867,,,,,,
+2013,Slovenia,SVN,Europe,Southern Europe,2059953,9.4,23496.6023059673,... ,... ,... ,... ,<100 ,<100 
+2013,Solomon Islands,SLB,Oceania,Melanesia,571335,4.516,1977.45140452319,,,,,,
+2013,Somalia,SOM,Africa,Eastern Africa,13063706,12.06,297.95547180533,1800 ,5700 ,6600 ,<200 ,<500 ,<500 
+2013,South Africa,ZAF,Africa,Southern Africa,53689236,10.43,6832.45689096701,300 000 ,2 500 000 ,4 000 000 ,9300 ,37 000 ,42 000 
+2013,South Sudan,SSD,Africa,Eastern Africa,10355036,11.171,1779.4693355202,16 000 ,59 000 ,82 000 ,2000 ,3700 ,4800 
+2013,Spain,ESP,Europe,Southern Europe,46620045,8.3,29059.5479522321,<100 ,120 000 ,26 000 ,<100 ,<1000 ,<200 
+2013,Sri Lanka,LKA,Asia,Southern Asia,20585000,6.204,3610.28936304898,... ,2600 ,1200 ,... ,<200 ,<100 
+2013,St. Kitts and Nevis,KNA,Americas,Caribbean,50331,..,16685.026605354,,,,,,
+2013,St. Lucia,LCA,Americas,Caribbean,177513,6.947,8358.90516938666,,,,,,
+2013,St. Martin (French part),MAF,Americas,Caribbean,36453,4,,,,,,,
+2013,St. Vincent and the Grenadines,VCT,Americas,Caribbean,108622,8.462,6639.60714595024,,,,,,
+2013,Sudan,SDN,Africa,Northern Africa,37072550,7.649,1943.91645802007,3500 ,24 000 ,22 000 ,<500 ,1100 ,1000 
+2013,Suriname,SUR,Americas,South America,547291,7.071,9402.23313695562,<100 ,2800 ,2000 ,<100 ,<200 ,<100 
+2013,Sweden,SWE,Europe,Northern Europe,9600379,9.4,60897.3656252518,... ,... ,... ,... ,... ,... 
+2013,Switzerland,CHE,Europe,Western Europe,8089346,8,85112.469599771,... ,... ,... ,... ,... ,... 
+2013,Syrian Arab Republic,SYR,Asia,Western Asia,19584274,5.51,,... ,<500 ,<200 ,... ,<100 ,<100 
+2013,Tajikistan,TJK,Asia,Central Asia,8059769,5.435,1048.22729256115,<500 ,7800 ,2700 ,<100 ,<500 ,<100 
+2013,Tanzania,TZA,Africa,Eastern Africa,48482266,7.887,970.416938425046,,,,,,
+2013,Thailand,THA,Asia,South-Eastern Asia,68144501,7.279,6168.26489540709,7900 ,300 000 ,240 000 ,<500 ,14 000 ,8000 
+2013,Timor-Leste,TLS,Asia,South-Eastern Asia,1153295,6.276,4888.31712614726,... ,... ,... ,... ,... ,... 
+2013,Togo,TGO,Africa,Western Africa,6954721,9.244,621.222259778549,15 000 ,35 000 ,56 000 ,1300 ,1400 ,1800 
+2013,Tonga,TON,Oceania,Polynesia,101768,7.239,4428.56648134984,,,,,,
+2013,Trinidad and Tobago,TTO,Americas,Caribbean,1353700,7.925,20143.6644489582,... ,... ,... ,... ,... ,... 
+2013,Tunisia,TUN,Africa,Northern Africa,10952951,6.294,4222.70324540611,... ,1400 ,<1000 ,... ,<100 ,<100 
+2013,Turkey,TUR,Asia,Western Asia,75928564,5.484,12519.3914259008,... ,... ,... ,... ,... ,... 
+2013,Turkmenistan,TKM,Asia,Central Asia,5366375,7.145,7304.28713230982,... ,... ,... ,... ,... ,... 
+2013,Turks and Caicos Islands,TCA,Americas,Caribbean,34731,..,21328.9790101062,,,,,,
+2013,Tuvalu,TUV,Oceania,Polynesia,10857,..,3454.6849532077,,,,,,
+2013,Uganda,UGA,Africa,Eastern Africa,35695246,8.138,689.154814165601,130 000 ,470 000 ,680 000 ,11 000 ,15 000 ,16 000 
+2013,Ukraine,UKR,Europe,Eastern Europe,45489600,14.6,4029.71550372131,1100 ,150 000 ,77 000 ,<100 ,7600 ,2200 
+2013,United Arab Emirates,ARE,Asia,Western Asia,9197910,1.363,42412.6302780364,... ,... ,... ,... ,... ,... 
+2013,United Kingdom,GBR,Europe,Northern Europe,64128226,9,43444.5648427389,... ,... ,... ,... ,... ,... 
+2013,United States,USA,Americas,Northern America,316057727,8.215,53106.9097703155,... ,... ,... ,... ,... ,... 
+2013,Uruguay,URY,Americas,South America,3389439,9.401,16973.6742131099,<200 ,7800 ,3200 ,<100 ,<200 ,<100 
+2013,Uzbekistan,UZB,Asia,Central Asia,30243200,4.8,2281.41097296841,3500 ,22 000 ,11 000 ,<1000 ,<1000 ,<500 
+2013,Vanuatu,VUT,Oceania,Melanesia,256635,5.514,3124.23307756588,,,,,,
+2013,"Venezuela, RB",VEN,Americas,South America,29783571,5.997,,,,,,,
+2013,Vietnam,VNM,Asia,South-Eastern Asia,90753472,5.994,1886.67189633671,,,,,,
+2013,Virgin Islands (U.S.),VIR,Americas,Caribbean,108044,6.9,34819.1477546185,,,,,,
+2013,West Bank and Gaza,PSE,Asia,Western Asia,4076708,3.501,3060.3123893102,,,,,,
+2013,"Yemen, Rep.",YEM,Asia,Western Asia,25147109,5.992,,,,,,,
+2013,Zambia,ZMB,Africa,Eastern Africa,14926504,8.055,1878.90348886702,72 000 ,420 000 ,600 000 ,4700 ,7800 ,8200 
+2013,Zimbabwe,ZWE,Africa,Eastern Africa,13350356,10.115,1430.00081795572,110 000 ,460 000 ,680 000 ,5600 ,12 000 ,11 000 
+2014,Afghanistan,AFG,Asia,Southern Asia,33370794,7.141,613.856332882312,<500 ,3800 ,1500 ,<100 ,<200 ,<100 
+2014,Albania,ALB,Europe,Southern Europe,2889104,7.219,4578.66672031333,... ,... ,... ,... ,... ,... 
+2014,Algeria,DZA,Africa,Northern Africa,38923687,4.709,5493.02558996263,<500 ,6100 ,4900 ,<100 ,<100 ,<100 
+2014,American Samoa,ASM,Oceania,Polynesia,55791,4.2,11507.2323493037,,,,,,
+2014,Andorra,AND,Europe,Southern Europe,79213,..,42300.3341276669,,,,,,
+2014,Angola,AGO,Africa,Middle Africa,26941779,9.454,5408.41049555432,34 000 ,76 000 ,170 000 ,4400 ,2200 ,3900 
+2014,Antigua and Barbuda,ATG,Americas,Caribbean,92562,6.188,13501.5809223367,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2014,Argentina,ARG,Americas,South America,42669500,7.651,12334.7982453893,2200 ,83 000 ,39 000 ,<100 ,1200 ,<500 
+2014,Armenia,ARM,Asia,Western Asia,2912403,9.796,3986.23162376713,... ,2200 ,1100 ,... ,<100 ,<100 
+2014,Aruba,ABW,Americas,Caribbean,103774,8.488,25533.5697803984,,,,,,
+2014,Australia,AUS,Oceania,Australia and New Zealand,23475686,6.6,62510.7911705641,<100 ,21 000 ,2800 ,<100 ,<200 ,<100 
+2014,Austria,AUT,Europe,Western Europe,8546356,9.2,51717.4959405515,... ,... ,... ,... ,... ,... 
+2014,Azerbaijan,AZE,Asia,Western Asia,9535079,5.8,7891.31314749986,... ,... ,... ,... ,... ,... 
+2014,"Bahamas, The",BHS,Americas,Caribbean,370633,6.661,,,,,,,
+2014,Bahrain,BHR,Asia,Western Asia,1336075,2.337,24989.3802145933,... ,... ,... ,... ,... ,... 
+2014,Bangladesh,BGD,Asia,Southern Asia,154520167,5.565,1118.8536634927,<500 ,6400 ,3700 ,<100 ,<500 ,<200 
+2014,Barbados,BRB,Americas,Caribbean,284825,8.708,16488.5257614325,... ,1800 ,<1000 ,... ,<100 ,<100 
+2014,Belarus,BLR,Europe,Eastern Europe,9474511,12.8,8318.51268992675,<200 ,11 000 ,8400 ,<100 ,<200 ,<100 
+2014,Belgium,BEL,Europe,Western Europe,11209057,9.3,47700.5403601178,... ,... ,... ,... ,... ,... 
+2014,Belize,BLZ,Americas,Central America,353366,4.603,4705.61004483148,<200 ,2200 ,2000 ,<100 ,<100 ,<100 
+2014,Benin,BEN,Africa,Western Africa,10286842,9.481,944.931653018321,5500 ,25 000 ,38 000 ,<500 ,<1000 ,<1000 
+2014,Bermuda,BMU,Americas,Northern America,65139,7.6,..,,,,,,
+2014,Bhutan,BTN,Asia,Southern Asia,719056,6.27,2652.21458816676,... ,<1000 ,<500 ,... ,<100 ,<100 
+2014,Bolivia,BOL,Americas,South America,10706517,6.966,3081.87883446506,,,,,,
+2014,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3482104,10.194,5329.63504488766,... ,<200 ,<100 ,... ,<100 ,<100 
+2014,Botswana,BWA,Africa,Southern Africa,2088614,6.634,7780.63838460394,20 000 ,150 000 ,190 000 ,<1000 ,2300 ,2200 
+2014,Brazil,BRA,Americas,South America,202763735,6.195,12112.5903019529,... ,... ,... ,... ,... ,... 
+2014,British Virgin Islands,VGB,Americas,Caribbean,28989,..,..,,,,,,
+2014,Brunei Darussalam,BRN,Asia,South-Eastern Asia,409769,4.081,41726.7839720342,... ,... ,... ,... ,... ,... 
+2014,Bulgaria,BGR,Europe,Eastern Europe,7223938,15.1,7864.76067225524,... ,2000 ,<1000 ,... ,<100 ,<100 
+2014,Burkina Faso,BFA,Africa,Western Africa,17586017,9.105,703.820055595173,13 000 ,38 000 ,53 000 ,<1000 ,2200 ,1100 
+2014,Burundi,BDI,Africa,Eastern Africa,9844297,8.767,274.857947913846,15 000 ,28 000 ,44 000 ,<1000 ,1400 ,<1000 
+2014,Cabo Verde,CPV,Africa,Western Africa,518269,5.866,3588.6740539538,... ,1000 ,1200 ,... ,<100 ,<100 
+2014,Cambodia,KHM,Asia,South-Eastern Asia,15274503,6.159,1093.49619050796,4200 ,35 000 ,38 000 ,<200 ,<1000 ,<1000 
+2014,Cameroon,CMR,Africa,Middle Africa,22681858,10.347,1540.56818173347,52 000 ,170 000 ,320 000 ,4900 ,9100 ,11 000 
+2014,Canada,CAN,Americas,Northern America,35437435,7.3,50835.5111782446,... ,... ,... ,... ,... ,... 
+2014,Cayman Islands,CYM,Americas,Caribbean,60848,2.86000035092029,74990.4332223775,,,,,,
+2014,Central African Republic,CAF,Africa,Middle Africa,4464175,14.164,423.884124575109,14 000 ,44 000 ,61 000 ,1300 ,2600 ,3700 
+2014,Chad,TCD,Africa,Middle Africa,13663559,13.053,1018.93095594774,17 000 ,41 000 ,53 000 ,1600 ,<1000 ,<1000 
+2014,Chile,CHL,Americas,South America,17758959,5.848,14670.9967606057,<500 ,44 000 ,8900 ,... ,... ,... 
+2014,China,CHN,Asia,Eastern Asia,1364270000,7.16,7651.36604428568,... ,... ,... ,... ,... ,... 
+2014,Colombia,COL,Americas,South America,46969209,5.373,8114.08426438361,4200 ,110 000 ,28 000 ,... ,... ,... 
+2014,Comoros,COM,Africa,Eastern Africa,759390,7.608,1511.81608327254,... ,<100 ,<100 ,... ,<100 ,<100 
+2014,"Congo, Dem. Rep.",COD,Africa,Middle Africa,73767447,10.424,,,,,,,
+2014,"Congo, Rep.",COG,Africa,Middle Africa,4736974,7.406,,,,,,,
+2014,Costa Rica,CRI,Americas,Central America,4795396,4.791,10547.1518593556,... ,9400 ,2500 ,... ,<200 ,<100 
+2014,Cote d'Ivoire,CIV,Africa,Western Africa,22647683,11.076,1559.38650354563,,,,,,
+2014,Croatia,HRV,Europe,Southern Europe,4238389,12,13600.1861816146,... ,... ,... ,... ,... ,... 
+2014,Cuba,CUB,Americas,Caribbean,11306902,8.338,7133.34209494342,<100 ,21 000 ,4300 ,<100 ,<500 ,<100 
+2014,Curacao,CUW,Americas,Caribbean,155909,8.8,20258.0096948833,,,,,,
+2014,Cyprus,CYP,Asia,Western Asia,1152285,6.799,27407.1528617811,... ,... ,... ,... ,... ,... 
+2014,Czech Republic,CZE,Europe,Eastern Europe,10525347,10,19744.5586092159,,,,,,
+2014,Denmark,DNK,Europe,Northern Europe,5643475,9.1,62548.9847332908,... ,4400 ,1600 ,... ,<100 ,<100 
+2014,Djibouti,DJI,Africa,Eastern Africa,898696,8.157,2466.01833154344,1000 ,3300 ,4400 ,<100 ,<500 ,<500 
+2014,Dominica,DMA,Americas,Caribbean,71085,8.2,7318.10378289945,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2014,Dominican Republic,DOM,Americas,Caribbean,10165178,6.068,6608.83225697836,2000 ,34 000 ,33 000 ,<100 ,1300 ,1000 
+2014,Ecuador,ECU,Americas,South America,15951838,5.096,6377.09153014217,<1000 ,27 000 ,11 000 ,<100 ,1100 ,<200 
+2014,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,90424654,6.027,,,,,,,
+2014,El Salvador,SLV,Americas,Central America,6295128,6.935,3588.96594318654,<1000 ,17 000 ,9000 ,<100 ,<500 ,<100 
+2014,Equatorial Guinea,GNQ,Africa,Middle Africa,1122276,10.245,19368.2309101895,4600 ,22 000 ,22 000 ,<500 ,<1000 ,<500 
+2014,Eritrea,ERI,Africa,Eastern Africa,..,7.884,..,1500 ,6300 ,9700 ,<200 ,<200 ,<500 
+2014,Estonia,EST,Europe,Northern Europe,1314545,11.8,20367.1026566799,... ,4300 ,2300 ,... ,<100 ,<100 
+2014,Eswatini,SWZ,Africa,Southern Africa,1095021,12.153,4038.55722997694,13 000 ,65 000 ,110 000 ,<1000 ,<1000 ,1200 
+2014,Ethiopia,ETH,Africa,Eastern Africa,98094253,7.218,566.926466461984,45 000 ,230 000 ,390 000 ,2800 ,3900 ,6500 
+2014,Faroe Islands,FRO,Europe,Northern Europe,47960,8.1,59440.0307606004,,,,,,
+2014,Fiji,FJI,Oceania,Melanesia,866453,8.174,5605.57033080847,... ,... ,... ,... ,... ,... 
+2014,Finland,FIN,Europe,Northern Europe,5461512,9.6,50260.2998588958,... ,2400 ,<1000 ,... ,<100 ,<100 
+2014,France,FRA,Europe,Western Europe,66316100,8.5,43008.6473817107,<500 ,120 000 ,40 000 ,<100 ,<500 ,<100 
+2014,French Polynesia,PYF,Oceania,Polynesia,271705,5.345,,,,,,,
+2014,Gabon,GAB,Africa,Middle Africa,1883800,7.749,9650.57437612745,3400 ,15 000 ,32 000 ,<500 ,<500 ,<1000 
+2014,"Gambia, The",GMB,Africa,Western Africa,2024042,8.46,,,,,,,
+2014,Georgia,GEO,Asia,Western Asia,3719414,13.121,4739.20356526134,... ,5300 ,2500 ,... ,<100 ,<100 
+2014,Germany,DEU,Europe,Western Europe,80982500,10.7,47959.9932737599,<100 ,63 000 ,15 000 ,<100 ,<500 ,<100 
+2014,Ghana,GHA,Africa,Western Africa,27224472,7.798,1968.85826340022,33 000 ,99 000 ,190 000 ,3400 ,4200 ,6000 
+2014,Gibraltar,GIB,Europe,Southern Europe,33725,..,..,,,,,,
+2014,Greece,GRC,Europe,Southern Europe,10892413,10.4,21760.9797994918,... ,... ,... ,... ,... ,... 
+2014,Greenland,GRL,Americas,Northern America,56295,8.2,50484.9275739023,,,,,,
+2014,Grenada,GRD,Americas,Caribbean,108902,9.393,8369.88675513221,<100 ,<500 ,<100 ,<100 ,<100 ,<100 
+2014,Guam,GUM,Oceania,Micronesia,161016,5.047,34394.0974809957,,,,,,
+2014,Guatemala,GTM,Americas,Central America,15923243,4.876,3687.83695118893,2500 ,27 000 ,19 000 ,<200 ,1100 ,<1000 
+2014,Guinea,GIN,Africa,Western Africa,11150977,9.67,787.238070219971,11 000 ,41 000 ,62 000 ,<1000 ,1600 ,1300 
+2014,Guinea-Bissau,GNB,Africa,Western Africa,1692439,10.499,622.481716725217,5800 ,15 000 ,22 000 ,<500 ,<1000 ,<1000 
+2014,Guyana,GUY,Americas,South America,763380,7.162,4031.60066245674,<500 ,3700 ,3600 ,<100 ,<100 ,<100 
+2014,Haiti,HTI,Americas,Caribbean,10549008,9.037,831.873948899917,10 000 ,58 000 ,79 000 ,<1000 ,1900 ,1400 
+2014,Honduras,HND,Americas,Central America,8955589,4.431,2206.05193412773,1200 ,14 000 ,8800 ,<100 ,<1000 ,<500 
+2014,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7229500,6.2,,,,,,,
+2014,Hungary,HUN,Europe,Eastern Europe,9866468,12.8,14246.109801447,... ,2400 ,<500 ,... ,<100 ,<100 
+2014,Iceland,ISL,Europe,Northern Europe,327386,6.3,54242.0546770039,... ,<200 ,<100 ,... ,<100 ,<100 
+2014,India,IND,Asia,Southern Asia,1295604184,7.212,1573.88149211052,... ,... ,... ,... ,... ,... 
+2014,Indonesia,IDN,Asia,South-Eastern Asia,255129004,6.437,3491.62479085767,14 000 ,390 000 ,200 000 ,2500 ,24 000 ,11 000 
+2014,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,77465753,4.795,,,,,,,
+2014,Iraq,IRQ,Asia,Western Asia,34411951,5.057,6818.8046210291,,,,,,
+2014,Ireland,IRL,Europe,Northern Europe,4657740,6.3,55492.982676213,<100 ,3700 ,2200 ,<100 ,<100 ,<100 
+2014,Isle of Man,IMN,Europe,Northern Europe,83488,..,88974.2286497928,,,,,,
+2014,Israel,ISR,Asia,Western Asia,8215700,5.2,37678.8897743182,<100 ,5600 ,1900 ,<100 ,<100 ,<100 
+2014,Italy,ITA,Europe,Southern Europe,60789140,9.8,35518.4152916749,<200 ,84 000 ,36 000 ,<100 ,<1000 ,<200 
+2014,Jamaica,JAM,Americas,Caribbean,2875136,7.497,4833.79031821405,... ,... ,... ,... ,... ,... 
+2014,Japan,JPN,Asia,Eastern Asia,127276000,10.1,38109.4121125573,... ,23 000 ,2700 ,... ,... ,... 
+2014,Jordan,JOR,Asia,Western Asia,8920049,3.806,4072.76547535039,... ,<500 ,<100 ,... ,<100 ,<100 
+2014,Kazakhstan,KAZ,Asia,Central Asia,17288285,7.65,12807.2606866152,<200 ,11 000 ,6300 ,<100 ,<500 ,<200 
+2014,Kenya,KEN,Africa,Eastern Africa,46699981,6.161,1315.80453537238,160 000 ,510 000 ,840 000 ,9600 ,17 000 ,14 000 
+2014,Kiribati,KIR,Oceania,Micronesia,109391,6.68,1642.76259749601,,,,,,
+2014,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,25057752,8.696,,,,,,,
+2014,"Korea, Rep.",KOR,Asia,Eastern Asia,50746659,5.3,,,,,,,
+2014,Kuwait,KWT,Asia,Western Asia,3690942,2.403,44062.4002975741,... ,<500 ,<200 ,... ,<100 ,<100 
+2014,Kyrgyz Republic,KGZ,Asia,Central Asia,5835500,6.1,1279.76978265986,,,,,,
+2014,Lao PDR,LAO,Asia,South-Eastern Asia,6639756,6.803,1998.33521471699,,,,,,
+2014,Latvia,LVA,Europe,Northern Europe,1993782,14.3,15740.3267490719,... ,3100 ,1400 ,... ,<200 ,<100 
+2014,Lebanon,LBN,Asia,Western Asia,6262410,4.048,7712.06284840621,... ,1700 ,<500 ,... ,<100 ,<100 
+2014,Lesotho,LSO,Africa,Southern Africa,2043437,16.433,1276.4130001565,14 000 ,130 000 ,180 000 ,<1000 ,3600 ,2800 
+2014,Liberia,LBR,Africa,Western Africa,4359505,8.485,721.182794835652,4800 ,14 000 ,21 000 ,<500 ,<1000 ,<1000 
+2014,Libya,LBY,Africa,Northern Africa,6362037,5.095,6466.91027014384,<500 ,5400 ,2200 ,<100 ,<100 ,<100 
+2014,Liechtenstein,LIE,Europe,Western Europe,37223,7.2,178845.631017897,,,,,,
+2014,Lithuania,LTU,Europe,Northern Europe,2932367,13.7,16534.4819837926,... ,... ,... ,... ,... ,... 
+2014,Luxembourg,LUX,Europe,Western Europe,556319,6.9,118823.648368575,... ,<1000 ,<500 ,... ,<100 ,<100 
+2014,"Macao SAR, China",MAC,Asia,Eastern Asia,590208,3.7,,,,,,,
+2014,Madagascar,MDG,Africa,Eastern Africa,23589887,6.63,530.861263904165,1600 ,17 000 ,7600 ,<500 ,<1000 ,<500 
+2014,Malawi,MWI,Africa,Eastern Africa,16289540,7.864,371.269749625713,94 000 ,350 000 ,520 000 ,4800 ,5600 ,5100 
+2014,Malaysia,MYS,Asia,South-Eastern Asia,29866559,4.818,11319.0797572756,<1000 ,63 000 ,16 000 ,<100 ,2900 ,<1000 
+2014,Maldives,MDV,Asia,Southern Asia,435015,3.157,8499.36576172668,... ,... ,... ,... ,... ,... 
+2014,Mali,MLI,Africa,Western Africa,16934220,11.001,847.150386296709,18 000 ,42 000 ,72 000 ,2000 ,1900 ,2100 
+2014,Malta,MLT,Europe,Southern Europe,434558,7.5,26012.0153054014,... ,... ,... ,... ,... ,... 
+2014,Marshall Islands,MHL,Oceania,Micronesia,57179,..,3230.02326028787,,,,,,
+2014,Mauritania,MRT,Africa,Western Africa,3930896,7.751,1371.58434966602,<500 ,3900 ,2100 ,<100 ,<500 ,<100 
+2014,Mauritius,MUS,Africa,Eastern Africa,1260934,7.7,10153.9382184867,<200 ,8000 ,3500 ,<100 ,<500 ,<200 
+2014,Mexico,MEX,Americas,Central America,120355128,5.67,10922.3760488647,2600 ,170 000 ,32 000 ,... ,... ,... 
+2014,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,107446,6.611,,,,,,,
+2014,Moldova,MDA,Europe,Eastern Europe,3556397,11.386,2674.11633164002,,,,,,
+2014,Monaco,MCO,Europe,Western Europe,37322,..,189170.895671097,,,,,,
+2014,Mongolia,MNG,Asia,Eastern Asia,2940108,6.296,4158.52571473091,... ,<500 ,<100 ,... ,<100 ,<100 
+2014,Montenegro,MNE,Europe,Southern Europe,621810,10.276,7378.34528902948,... ,<500 ,<100 ,... ,<100 ,<100 
+2014,Morocco,MAR,Africa,Northern Africa,34192347,5.142,3171.69919227376,<500 ,11 000 ,7500 ,<100 ,<500 ,<100 
+2014,Mozambique,MOZ,Africa,Eastern Africa,26286163,10.628,673.969955508106,140 000 ,680 000 ,1 100 000 ,11 000 ,25 000 ,29 000 
+2014,Myanmar,MMR,Asia,South-Eastern Asia,52280807,8.377,1251.82076450814,9400 ,140 000 ,83 000 ,<1000 ,7000 ,2200 
+2014,Namibia,NAM,Africa,Southern Africa,2273430,9.009,5624.13534097711,13 000 ,70 000 ,110 000 ,<1000 ,<1000 ,1200 
+2014,Nauru,NRU,Oceania,Micronesia,11853,..,9871.73198496974,,,,,,
+2014,Nepal,NPL,Asia,Southern Asia,26906926,6.555,743.413381296219,1600 ,18 000 ,11 000 ,<100 ,<1000 ,<500 
+2014,Netherlands,NLD,Europe,Western Europe,16865008,8.3,52830.1742328055,<100 ,18 000 ,3800 ,<100 ,<200 ,<100 
+2014,New Caledonia,NCL,Oceania,Melanesia,268050,5.2,,,,,,,
+2014,New Zealand,NZL,Oceania,Australia and New Zealand,4509700,6.88,44533.7830906379,... ,2500 ,<1000 ,... ,<100 ,<100 
+2014,Nicaragua,NIC,Americas,Central America,6142733,5.029,1934.0569659055,<500 ,5700 ,2800 ,<100 ,<200 ,<100 
+2014,Niger,NER,Africa,Western Africa,19240157,9.511,427.737226040128,3000 ,17 000 ,16 000 ,<500 ,<1000 ,<500 
+2014,Nigeria,NGA,Africa,Western Africa,176404902,12.994,3222.69353725587,140 000 ,700 000 ,850 000 ,14 000 ,26 000 ,15 000 
+2014,North Macedonia,MKD,Europe,Southern Europe,2077775,9.73,5468.48086914212,... ,<500 ,<100 ,... ,<100 ,<100 
+2014,Northern Mariana Islands,MNP,Oceania,Micronesia,55305,..,15278.9078745141,,,,,,
+2014,Norway,NOR,Europe,Northern Europe,5137232,7.9,97019.1827527462,... ,3700 ,1500 ,... ,<100 ,<100 
+2014,Oman,OMN,Asia,Western Asia,4027260,2.592,20131.9813016555,... ,1900 ,<1000 ,... ,<100 ,<100 
+2014,Pakistan,PAK,Asia,Southern Asia,195306825,7.176,1251.16410422834,3500 ,76 000 ,33 000 ,<1000 ,2500 ,1000 
+2014,Palau,PLW,Oceania,Micronesia,17626,9.5,13794.7917848633,,,,,,
+2014,Panama,PAN,Americas,Central America,3901315,4.985,12796.0700430496,<500 ,16 000 ,6900 ,<100 ,<500 ,<200 
+2014,Papua New Guinea,PNG,Oceania,Melanesia,7946731,7.882,2920.78372060611,3400 ,16 000 ,21 000 ,... ,... ,... 
+2014,Paraguay,PRY,Americas,South America,6599526,5.412,6102.94323272326,<500 ,14 000 ,6100 ,<100 ,<1000 ,<200 
+2014,Peru,PER,Americas,South America,30090359,5.324,6672.8802554854,1700 ,54 000 ,16 000 ,<200 ,1100 ,<200 
+2014,Philippines,PHL,Asia,South-Eastern Asia,100513138,5.78,2831.31666726863,<200 ,35 000 ,2300 ,<100 ,<1000 ,<100 
+2014,Poland,POL,Europe,Eastern Europe,38011735,9.9,14347.9145754456,... ,... ,... ,... ,... ,... 
+2014,Portugal,PRT,Europe,Southern Europe,10401062,10.1,22074.3007634216,<100 ,29 000 ,12 000 ,<100 ,<1000 ,<200 
+2014,Puerto Rico,PRI,Americas,Caribbean,3534874,8.5,28981.4573305866,,,,,,
+2014,Qatar,QAT,Asia,Western Asia,2459198,1.127,83858.5283798723,... ,... ,... ,... ,... ,... 
+2014,Romania,ROU,Europe,Eastern Europe,19908979,12.8,10026.9735781794,<500 ,10 000 ,5600 ,<100 ,<100 ,<100 
+2014,Russian Federation,RUS,Europe,Eastern Europe,143819666,13.1,14100.7291028658,... ,... ,... ,... ,... ,... 
+2014,Rwanda,RWA,Africa,Eastern Africa,11083635,5.801,723.281973308602,17 000 ,80 000 ,130 000 ,<1000 ,1500 ,1500 
+2014,Samoa,WSM,Oceania,Polynesia,192221,5.554,3937.75879599034,,,,,,
+2014,San Marino,SMR,Europe,Southern Europe,32948,7.7,54282.8097987205,,,,,,
+2014,Sao Tome and Principe,STP,Africa,Middle Africa,195727,5.232,1782.7977562404,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2014,Saudi Arabia,SAU,Asia,Western Asia,30916994,3.407,24463.9031638501,... ,... ,... ,... ,... ,... 
+2014,Senegal,SEN,Africa,Western Africa,14174731,6.319,1394.79474326494,5400 ,13 000 ,25 000 ,<1000 ,<1000 ,<1000 
+2014,Serbia,SRB,Europe,Southern Europe,7130576,14.2,6600.05680854589,... ,2000 ,<500 ,... ,<100 ,<100 
+2014,Seychelles,SYC,Africa,Eastern Africa,91359,7.9,14700.3343408386,,,,,,
+2014,Sierra Leone,SLE,Africa,Western Africa,7017144,13.025,714.700712388696,7700 ,23 000 ,34 000 ,<1000 ,1000 ,<1000 
+2014,Singapore,SGP,Asia,South-Eastern Asia,5469724,4.7,57562.5307937678,... ,6800 ,<1000 ,... ,<100 ,<100 
+2014,Sint Maarten (Dutch part),SXM,Americas,Caribbean,37685,4.7,..,,,,,,
+2014,Slovak Republic,SVK,Europe,Eastern Europe,5418649,9.5,18670.9301711227,,,,,,
+2014,Slovenia,SVN,Europe,Southern Europe,2061980,9.2,24214.9220717273,... ,... ,... ,... ,<100 ,<100 
+2014,Solomon Islands,SLB,Oceania,Melanesia,587079,4.444,1996.78118438995,,,,,,
+2014,Somalia,SOM,Africa,Eastern Africa,13423576,11.793,295.266500446376,1700 ,5200 ,6300 ,<200 ,<500 ,<500 
+2014,South Africa,ZAF,Africa,Southern Africa,54545991,10.044,6433.18727662894,300 000 ,2 600 000 ,4 200 000 ,8300 ,33 000 ,39 000 
+2014,South Sudan,SSD,Africa,Eastern Africa,10554883,10.983,1322.82023755896,16 000 ,61 000 ,86 000 ,2100 ,3700 ,4600 
+2014,Spain,ESP,Europe,Southern Europe,46480882,8.5,29461.5503337389,<100 ,120 000 ,26 000 ,<100 ,<1000 ,<200 
+2014,Sri Lanka,LKA,Asia,Southern Asia,20778000,6.282,3819.25352972265,... ,2500 ,1200 ,... ,<200 ,<100 
+2014,St. Kitts and Nevis,KNA,Americas,Caribbean,50774,8.1,18051.8900749728,,,,,,
+2014,St. Lucia,LCA,Americas,Caribbean,178296,7.028,8744.29122441417,,,,,,
+2014,St. Martin (French part),MAF,Americas,Caribbean,36015,4.1,..,,,,,,
+2014,St. Vincent and the Grenadines,VCT,Americas,Caribbean,108861,8.678,6684.80736732912,,,,,,
+2014,Sudan,SDN,Africa,Northern Africa,37977655,7.53,2163.15589835214,3700 ,25 000 ,23 000 ,<500 ,1200 ,1100 
+2014,Suriname,SUR,Americas,South America,553273,7.114,9472.00759951427,<100 ,2800 ,2100 ,<100 ,<200 ,<100 
+2014,Sweden,SWE,Europe,Northern Europe,9696110,9.2,59843.5191685082,... ,... ,... ,... ,... ,... 
+2014,Switzerland,CHE,Europe,Western Europe,8188649,7.8,86605.5173887467,... ,... ,... ,... ,... ,... 
+2014,Syrian Arab Republic,SYR,Asia,Western Asia,18715672,5.697,..,... ,<500 ,<200 ,... ,<100 ,<100 
+2014,Tajikistan,TJK,Asia,Central Asia,8252833,5.322,1104.17168941376,<500 ,8100 ,2900 ,<100 ,<500 ,<100 
+2014,Tanzania,TZA,Africa,Eastern Africa,49959822,7.503,1030.09291747653,,,,,,
+2014,Thailand,THA,Asia,South-Eastern Asia,68438730,7.327,5951.88370233604,6900 ,290 000 ,230 000 ,<200 ,14 000 ,8100 
+2014,Timor-Leste,TLS,Asia,South-Eastern Asia,1174331,6.225,3441.65060787802,... ,... ,... ,... ,... ,... 
+2014,Togo,TGO,Africa,Western Africa,7137997,9.02,640.113913672591,15 000 ,35 000 ,57 000 ,1300 ,1700 ,1900 
+2014,Tonga,TON,Oceania,Polynesia,101028,7.245,4393.9408110033,,,,,,
+2014,Trinidad and Tobago,TTO,Americas,Caribbean,1362342,7.993,20270.8593716518,... ,... ,... ,... ,... ,... 
+2014,Tunisia,TUN,Africa,Northern Africa,11063201,6.301,4305.47416504834,... ,1500 ,<1000 ,... ,<100 ,<100 
+2014,Turkey,TUR,Asia,Western Asia,77231907,5.436,12095.8545719465,... ,... ,... ,... ,... ,... 
+2014,Turkmenistan,TKM,Asia,Central Asia,5466328,7.122,7962.23909840679,... ,... ,... ,... ,... ,... 
+2014,Turks and Caicos Islands,TCA,Americas,Caribbean,35369,..,23296.3369051995,,,,,,
+2014,Tuvalu,TUV,Oceania,Polynesia,10972,..,3398.81894157592,,,,,,
+2014,Uganda,UGA,Africa,Eastern Africa,36912148,7.716,739.373926961991,120 000 ,480 000 ,700 000 ,9300 ,15 000 ,11 000 
+2014,Ukraine,UKR,Europe,Eastern Europe,45271947,14.7,3104.65829575449,1000 ,150 000 ,79 000 ,<100 ,6700 ,1600 
+2014,United Arab Emirates,ARE,Asia,Western Asia,9214175,1.366,43751.8388860721,... ,... ,... ,... ,... ,... 
+2014,United Kingdom,GBR,Europe,Northern Europe,64613160,8.8,47417.6350484639,... ,... ,... ,... ,... ,... 
+2014,United States,USA,Americas,Northern America,318386421,8.237,55032.9579979166,... ,... ,... ,... ,... ,... 
+2014,Uruguay,URY,Americas,South America,3400434,9.423,16831.972935703,<200 ,8200 ,3400 ,<100 ,<200 ,<100 
+2014,Uzbekistan,UZB,Asia,Central Asia,30757700,4.9,2492.33664277468,3800 ,23 000 ,12 000 ,<1000 ,<1000 ,<500 
+2014,Vanuatu,VUT,Oceania,Melanesia,263888,5.489,3088.25830265504,,,,,,
+2014,"Venezuela, RB",VEN,Americas,South America,30045134,6.197,,,,,,,
+2014,Vietnam,VNM,Asia,South-Eastern Asia,91714595,6.06,2030.26195473318,,,,,,
+2014,Virgin Islands (U.S.),VIR,Americas,Caribbean,107884,7.1,33573.0970301435,,,,,,
+2014,West Bank and Gaza,PSE,Asia,Western Asia,4173398,3.495,3046.82179844817,,,,,,
+2014,"Yemen, Rep.",YEM,Asia,Western Asia,25823485,5.974,,,,,,,
+2014,Zambia,ZMB,Africa,Eastern Africa,15399753,7.565,1763.05623909703,71 000 ,430 000 ,620 000 ,3900 ,6700 ,8500 
+2014,Zimbabwe,ZWE,Africa,Eastern Africa,13586681,9.277,1434.89934002278,100 000 ,470 000 ,690 000 ,5000 ,10 000 ,10 000 
+2015,Afghanistan,AFG,Asia,Southern Asia,34413603,6.929,578.466352941708,<500 ,4000 ,1600 ,<100 ,<200 ,<100 
+2015,Albania,ALB,Europe,Southern Europe,2880703,7.367,3952.82945832578,... ,... ,... ,... ,... ,... 
+2015,Algeria,DZA,Africa,Northern Africa,39728025,4.715,4177.86751715913,<500 ,6600 ,5400 ,<100 ,<100 ,<100 
+2015,American Samoa,ASM,Oceania,Polynesia,55812,..,11843.3311832581,,,,,,
+2015,Andorra,AND,Europe,Southern Europe,78011,..,36039.6534962289,,,,,,
+2015,Angola,AGO,Africa,Middle Africa,27884381,9.052,4166.97968386501,34 000 ,80 000 ,180 000 ,4400 ,2200 ,3500 
+2015,Antigua and Barbuda,ATG,Americas,Caribbean,93566,6.227,14286.0931598293,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2015,Argentina,ARG,Americas,South America,43131966,7.638,13789.060424772,2100 ,85 000 ,40 000 ,<100 ,1200 ,<500 
+2015,Armenia,ARM,Asia,Western Asia,2925553,9.823,3607.29669672271,... ,2200 ,1100 ,... ,<100 ,<100 
+2015,Aruba,ABW,Americas,Caribbean,104341,8.627,25796.3802506382,,,,,,
+2015,Australia,AUS,Oceania,Australia and New Zealand,23815995,6.6,56755.7217124249,<100 ,22 000 ,2900 ,<100 ,<200 ,<100 
+2015,Austria,AUT,Europe,Western Europe,8642699,9.6,44178.0473777432,... ,... ,... ,... ,... ,... 
+2015,Azerbaijan,AZE,Asia,Western Asia,9649341,5.7,5500.32049702735,... ,... ,... ,... ,... ,... 
+2015,"Bahamas, The",BHS,Americas,Caribbean,374206,6.671,,,,,,,
+2015,Bahrain,BHR,Asia,Western Asia,1371851,2.346,22688.9637865734,... ,... ,... ,... ,... ,... 
+2015,Bangladesh,BGD,Asia,Southern Asia,156256276,5.549,1248.45339778371,<500 ,7000 ,4000 ,<100 ,<500 ,<200 
+2015,Barbados,BRB,Americas,Caribbean,285324,8.789,16561.8735192273,... ,1900 ,<1000 ,... ,<100 ,<100 
+2015,Belarus,BLR,Europe,Eastern Europe,9489616,12.6,5949.10630699748,<500 ,12 000 ,9200 ,<100 ,<200 ,<100 
+2015,Belgium,BEL,Europe,Western Europe,11274196,9.8,40991.8081381432,... ,... ,... ,... ,... ,... 
+2015,Belize,BLZ,Americas,Central America,360933,4.624,4775.91507722419,<200 ,2300 ,2000 ,<100 ,<100 ,<100 
+2015,Benin,BEN,Africa,Western Africa,10575952,9.332,784.27840718279,5200 ,26 000 ,39 000 ,<500 ,<1000 ,<1000 
+2015,Bermuda,BMU,Americas,Northern America,65239,7.4,,,,,,,
+2015,Bhutan,BTN,Asia,Southern Asia,727876,6.257,2752.66420795769,... ,<1000 ,<500 ,... ,<100 ,<100 
+2015,Bolivia,BOL,Americas,South America,10869730,6.89,3035.97221489277,,,,,,
+2015,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3429361,10.305,4727.27738086936,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,Botswana,BWA,Africa,Southern Africa,2120716,6.259,6799.87523352768,19 000 ,150 000 ,190 000 ,<1000 ,2200 ,2100 
+2015,Brazil,BRA,Americas,South America,204471769,6.25,8814.00098681261,... ,... ,... ,... ,... ,... 
+2015,British Virgin Islands,VGB,Americas,Caribbean,29152,..,,,,,,,
+2015,Brunei Darussalam,BRN,Asia,South-Eastern Asia,414907,4.162,31164.5620291141,... ,... ,... ,... ,... ,... 
+2015,Bulgaria,BGR,Europe,Eastern Europe,7177991,15.3,6993.78348267387,... ,2100 ,<1000 ,... ,<100 ,<100 
+2015,Burkina Faso,BFA,Africa,Western Africa,18110624,8.823,575.314454176311,12 000 ,37 000 ,53 000 ,<1000 ,2100 ,1100 
+2015,Burundi,BDI,Africa,Eastern Africa,10160030,8.517,305.549772797441,14 000 ,28 000 ,44 000 ,<1000 ,1200 ,<1000 
+2015,Cabo Verde,CPV,Africa,Western Africa,524743,5.807,3043.01398430098,... ,1000 ,1200 ,... ,<100 ,<100 
+2015,Cambodia,KHM,Asia,South-Eastern Asia,15521436,6.099,1162.90491997151,4000 ,34 000 ,38 000 ,<100 ,<1000 ,<1000 
+2015,Cameroon,CMR,Africa,Middle Africa,23298368,10.046,1326.96927718029,49 000 ,170 000 ,320 000 ,4300 ,9500 ,12 000 
+2015,Canada,CAN,Americas,Northern America,35702908,7.4,43495.0543869902,... ,... ,... ,... ,... ,... 
+2015,Cayman Islands,CYM,Americas,Caribbean,61724,2.87872117045416,76280.4862528245,,,,,,
+2015,Central African Republic,CAF,Africa,Middle Africa,4493170,13.621,377.271253829801,13 000 ,43 000 ,60 000 ,1200 ,2200 ,3000 
+2015,Chad,TCD,Africa,Middle Africa,14110975,12.77,775.707523514754,17 000 ,42 000 ,55 000 ,1600 ,<1000 ,<1000 
+2015,Chile,CHL,Americas,South America,17969353,5.917,13574.1718307156,<500 ,47 000 ,9700 ,... ,... ,... 
+2015,China,CHN,Asia,Eastern Asia,1371220000,7.11,8033.38804310679,... ,... ,... ,... ,... ,... 
+2015,Colombia,COL,Americas,South America,47520667,5.41,6175.87602970259,4000 ,110 000 ,29 000 ,... ,... ,... 
+2015,Comoros,COM,Africa,Eastern Africa,777424,7.491,1242.10288470331,... ,<100 ,<100 ,... ,<100 ,<100 
+2015,"Congo, Dem. Rep.",COD,Africa,Middle Africa,76244544,10.164,,,,,,,
+2015,"Congo, Rep.",COG,Africa,Middle Africa,4856095,7.18,,,,,,,
+2015,Costa Rica,CRI,Americas,Central America,4847804,4.862,11299.1355423011,... ,10 000 ,2600 ,... ,<200 ,<100 
+2015,Cote d'Ivoire,CIV,Africa,Western Africa,23226143,10.769,1426.45786352384,,,,,,
+2015,Croatia,HRV,Europe,Southern Europe,4203604,12.9,11782.9025486428,... ,... ,... ,... ,... ,... 
+2015,Cuba,CUB,Americas,Caribbean,11324781,8.502,7694.0119195241,<100 ,22 000 ,4700 ,<100 ,<500 ,<100 
+2015,Curacao,CUW,Americas,Caribbean,157980,8.8,19951.3279030441,,,,,,
+2015,Cyprus,CYP,Asia,Western Asia,1160985,6.838,23217.4841507892,... ,... ,... ,... ,... ,... 
+2015,Czech Republic,CZE,Europe,Eastern Europe,10546059,10.5,17715.6168523009,,,,,,
+2015,Denmark,DNK,Europe,Northern Europe,5683483,9.2,53254.8560039631,... ,4400 ,1600 ,... ,<100 ,<100 
+2015,Djibouti,DJI,Africa,Eastern Africa,913993,7.842,2675.60537449629,<1000 ,3300 ,4400 ,<100 ,<500 ,<500 
+2015,Dominica,DMA,Americas,Caribbean,71183,..,7596.43506226258,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2015,Dominican Republic,DOM,Americas,Caribbean,10281680,6.081,6921.51737075206,1800 ,34 000 ,33 000 ,<100 ,1100 ,<1000 
+2015,Ecuador,ECU,Americas,South America,16212020,5.096,6124.49164262072,<1000 ,28 000 ,11 000 ,<100 ,<1000 ,<200 
+2015,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,92442547,5.971,,,,,,,
+2015,El Salvador,SLV,Americas,Central America,6325124,6.959,3705.54000206162,<1000 ,16 000 ,9100 ,<100 ,<500 ,<200 
+2015,Equatorial Guinea,GNQ,Africa,Middle Africa,1168568,10.002,11278.9289413309,4900 ,23 000 ,24 000 ,<500 ,<1000 ,<500 
+2015,Eritrea,ERI,Africa,Eastern Africa,..,7.686,,1500 ,6300 ,9800 ,<200 ,<200 ,<500 
+2015,Estonia,EST,Europe,Northern Europe,1315407,11.6,17522.230186252,... ,4400 ,2400 ,... ,<100 ,<100 
+2015,Eswatini,SWZ,Africa,Southern Africa,1104044,11.235,3689.51870428109,12 000 ,67 000 ,110 000 ,<500 ,<1000 ,1300 
+2015,Ethiopia,ETH,Africa,Eastern Africa,100835458,7.017,640.541891313682,42 000 ,230 000 ,390 000 ,2400 ,3900 ,6400 
+2015,Faroe Islands,FRO,Europe,Northern Europe,48051,7.7,52404.6593331379,,,,,,
+2015,Fiji,FJI,Oceania,Melanesia,868627,8.172,5390.74523711745,... ,... ,... ,... ,... ,... 
+2015,Finland,FIN,Europe,Northern Europe,5479531,9.6,42811.2129936435,... ,2500 ,<1000 ,... ,<100 ,<100 
+2015,France,FRA,Europe,Western Europe,66593366,8.9,36613.3752159613,<500 ,120 000 ,41 000 ,<100 ,<500 ,<100 
+2015,French Polynesia,PYF,Oceania,Polynesia,273124,5.418,..,,,,,,
+2015,Gabon,GAB,Africa,Middle Africa,1947686,7.449,7381.74674851952,3400 ,15 000 ,33 000 ,<500 ,<500 ,<1000 
+2015,"Gambia, The",GMB,Africa,Western Africa,2085860,8.329,,,,,,,
+2015,Georgia,GEO,Asia,Western Asia,3725276,13.062,4014.18594419329,... ,5600 ,2600 ,... ,<100 ,<100 
+2015,Germany,DEU,Europe,Western Europe,81686611,11.3,41139.5445685533,<100 ,65 000 ,16 000 ,<100 ,<500 ,<100 
+2015,Ghana,GHA,Africa,Western Africa,27849205,7.663,1766.00570099776,33 000 ,100 000 ,190 000 ,3200 ,4400 ,6100 
+2015,Gibraltar,GIB,Europe,Southern Europe,33736,..,,,,,,,
+2015,Greece,GRC,Europe,Southern Europe,10820883,11.2,18167.7737169162,... ,... ,... ,... ,... ,... 
+2015,Greenland,GRL,Americas,Northern America,56114,8.4,44536.4013080999,,,,,,
+2015,Grenada,GRD,Americas,Caribbean,109599,9.487,9096.87064595412,<100 ,<500 ,<200 ,<100 ,<100 ,<100 
+2015,Guam,GUM,Oceania,Micronesia,161853,5.085,35278.9259389693,,,,,,
+2015,Guatemala,GTM,Americas,Central America,16252429,4.829,3923.57334364713,2400 ,26 000 ,19 000 ,<200 ,1300 ,<1000 
+2015,Guinea,GIN,Africa,Western Africa,11432088,9.337,769.256013746016,11 000 ,41 000 ,63 000 ,<1000 ,1800 ,1400 
+2015,Guinea-Bissau,GNB,Africa,Western Africa,1737202,10.244,603.158512942404,5900 ,15 000 ,22 000 ,<500 ,<1000 ,<1000 
+2015,Guyana,GUY,Americas,South America,767432,7.213,4166.12851559884,<500 ,3800 ,3600 ,<100 ,<100 ,<100 
+2015,Haiti,HTI,Americas,Caribbean,10695542,8.893,815.728284410317,9700 ,59 000 ,81 000 ,<1000 ,1800 ,1400 
+2015,Honduras,HND,Americas,Central America,9112916,4.424,2302.20137936204,1100 ,14 000 ,8800 ,<100 ,<1000 ,<500 
+2015,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7291300,6.3,,,,,,,
+2015,Hungary,HUN,Europe,Eastern Europe,9843028,13.4,12651.5683423004,... ,2600 ,<500 ,... ,<100 ,<100 
+2015,Iceland,ISL,Europe,Northern Europe,330815,6.6,52428.5957626253,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,India,IND,Asia,Southern Asia,1310152403,7.194,1605.60543109026,... ,... ,... ,... ,... ,... 
+2015,Indonesia,IDN,Asia,South-Eastern Asia,258383256,6.419,3331.69512758628,15 000 ,390 000 ,210 000 ,2600 ,24 000 ,11 000 
+2015,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,78492215,4.805,,,,,,,
+2015,Iraq,IRQ,Asia,Western Asia,35572261,4.965,4989.80307473071,,,,,,
+2015,Ireland,IRL,Europe,Northern Europe,4701957,6.4,61995.4227789928,<100 ,4000 ,2200 ,<100 ,<100 ,<100 
+2015,Isle of Man,IMN,Europe,Northern Europe,83234,..,81606.2800333934,,,,,,
+2015,Israel,ISR,Asia,Western Asia,8380100,5.3,35776.7951710172,<100 ,5900 ,2000 ,<100 ,<100 ,<100 
+2015,Italy,ITA,Europe,Southern Europe,60730582,10.7,30230.2263021296,<500 ,86 000 ,37 000 ,<100 ,<500 ,<200 
+2015,Jamaica,JAM,Americas,Caribbean,2891021,7.523,4907.50371974316,... ,... ,... ,... ,... ,... 
+2015,Japan,JPN,Asia,Eastern Asia,127141000,10.3,34524.4698609337,... ,24 000 ,2700 ,... ,... ,... 
+2015,Jordan,JOR,Asia,Western Asia,9266575,3.813,4105.44896083238,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,Kazakhstan,KAZ,Asia,Central Asia,17542806,7.46,10510.7718884148,<200 ,13 000 ,7000 ,<100 ,<500 ,<200 
+2015,Kenya,KEN,Africa,Eastern Africa,47878336,5.928,1336.8833490475,150 000 ,520 000 ,860 000 ,8300 ,16 000 ,13 000 
+2015,Kiribati,KIR,Oceania,Micronesia,110930,6.578,1542.5752495838,,,,,,
+2015,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,25183833,8.76,,,,,,,
+2015,"Korea, Rep.",KOR,Asia,Eastern Asia,51014947,5.4,,,,,,,
+2015,Kuwait,KWT,Asia,Western Asia,3835591,2.451,29869.5293908248,... ,<500 ,<200 ,... ,<100 ,<100 
+2015,Kyrgyz Republic,KGZ,Asia,Central Asia,5956900,5.8,1121.08283510739,,,,,,
+2015,Lao PDR,LAO,Asia,South-Eastern Asia,6741164,6.691,2134.71179567796,,,,,,
+2015,Latvia,LVA,Europe,Northern Europe,1977527,14.4,13698.9379476476,... ,3200 ,1400 ,... ,<200 ,<100 
+2015,Lebanon,LBN,Asia,Western Asia,6532678,4.109,7649.8326108624,... ,1800 ,<500 ,... ,<100 ,<100 
+2015,Lesotho,LSO,Africa,Southern Africa,2059021,15.75,1112.08144054711,13 000 ,130 000 ,190 000 ,<1000 ,4000 ,3300 
+2015,Liberia,LBR,Africa,Western Africa,4472230,8.213,710.383857717515,4600 ,14 000 ,21 000 ,<500 ,<1000 ,<1000 
+2015,Libya,LBY,Africa,Northern Africa,6418315,5.111,4337.91913919348,<500 ,5600 ,2300 ,<100 ,<100 ,<100 
+2015,Liechtenstein,LIE,Europe,Western Europe,37470,6.7,167290.939983907,,,,,,
+2015,Lithuania,LTU,Europe,Northern Europe,2904910,14.4,14249.1149666026,... ,... ,... ,... ,... ,... 
+2015,Luxembourg,LUX,Europe,Western Europe,569604,7,101376.496574339,... ,<1000 ,<500 ,... ,<100 ,<100 
+2015,"Macao SAR, China",MAC,Asia,Eastern Asia,602085,3.743,,,,,,,
+2015,Madagascar,MDG,Africa,Eastern Africa,24234088,6.472,467.235277373582,1700 ,18 000 ,8300 ,<500 ,<1000 ,<500 
+2015,Malawi,MWI,Africa,Eastern Africa,16745303,7.415,380.597033140938,90 000 ,360 000 ,540 000 ,4300 ,5500 ,4700 
+2015,Malaysia,MYS,Asia,South-Eastern Asia,30270962,4.877,9955.24212653611,<1000 ,64 000 ,16 000 ,<100 ,2800 ,<1000 
+2015,Maldives,MDV,Asia,Southern Asia,454915,3.058,9033.3904129872,... ,... ,... ,... ,... ,... 
+2015,Mali,MLI,Africa,Western Africa,17438778,10.649,751.170593517089,18 000 ,43 000 ,75 000 ,2100 ,2100 ,2300 
+2015,Malta,MLT,Europe,Southern Europe,445053,7.7,24077.0108248549,... ,... ,... ,... ,... ,... 
+2015,Marshall Islands,MHL,Oceania,Micronesia,57439,..,3213.83728825363,,,,,,
+2015,Mauritania,MRT,Africa,Western Africa,4046301,7.606,1193.40059592486,<500 ,3700 ,2100 ,<100 ,<500 ,<100 
+2015,Mauritius,MUS,Africa,Eastern Africa,1262605,7.7,9260.44730250635,<200 ,8200 ,3600 ,<100 ,<500 ,<200 
+2015,Mexico,MEX,Americas,Central America,121858258,5.763,9605.95235103139,2500 ,180 000 ,33 000 ,... ,... ,... 
+2015,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,108895,6.549,,,,,,,
+2015,Moldova,MDA,Europe,Eastern Europe,3554108,11.398,2179.23362495857,,,,,,
+2015,Monaco,MCO,Europe,Western Europe,37718,7.6,165937.865343145,,,,,,
+2015,Mongolia,MNG,Asia,Eastern Asia,2998439,6.283,3918.57917389554,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,Montenegro,MNE,Europe,Southern Europe,622159,10.372,6514.27269528653,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,Morocco,MAR,Africa,Northern Africa,34663603,5.118,2875.25798516781,<1000 ,11 000 ,7800 ,<100 ,<500 ,<100 
+2015,Mozambique,MOZ,Africa,Eastern Africa,27042002,10.025,589.859028149831,140 000 ,710 000 ,1 100 000 ,9800 ,24 000 ,25 000 
+2015,Myanmar,MMR,Asia,South-Eastern Asia,52680726,8.295,1133.00281580351,9600 ,140 000 ,84 000 ,<1000 ,6700 ,2200 
+2015,Namibia,NAM,Africa,Southern Africa,2314904,8.669,5032.88976228194,13 000 ,72 000 ,110 000 ,<1000 ,<1000 ,1100 
+2015,Nauru,NRU,Oceania,Micronesia,12475,..,8013.35760796908,,,,,,
+2015,Nepal,NPL,Asia,Southern Asia,27015031,6.502,792.552890593381,1500 ,18 000 ,11 000 ,<100 ,<1000 ,<500 
+2015,Netherlands,NLD,Europe,Western Europe,16939923,8.7,45175.2318933798,<100 ,19 000 ,3900 ,<100 ,<200 ,<100 
+2015,New Caledonia,NCL,Oceania,Melanesia,272400,5.4,..,,,,,,
+2015,New Zealand,NZL,Oceania,Australia and New Zealand,4595700,6.87,38559.5470380365,... ,2700 ,<1000 ,... ,<100 ,<100 
+2015,Nicaragua,NIC,Americas,Central America,6223240,5.032,2049.84968976149,<500 ,5800 ,2900 ,<100 ,<200 ,<100 
+2015,Niger,NER,Africa,Western Africa,20001663,9.145,360.853384070947,2900 ,17 000 ,17 000 ,<500 ,<1000 ,<500 
+2015,Nigeria,NGA,Africa,Western Africa,181137448,12.686,2730.4303237015,140 000 ,710 000 ,890 000 ,13 000 ,24 000 ,14 000 
+2015,North Macedonia,MKD,Europe,Southern Europe,2079328,9.801,4840.27312286783,... ,<500 ,<100 ,... ,<100 ,<100 
+2015,Northern Mariana Islands,MNP,Oceania,Micronesia,55780,..,16690.5700968089,,,,,,
+2015,Norway,NOR,Europe,Northern Europe,5188607,7.8,74355.5158575643,... ,3800 ,1500 ,... ,<100 ,<100 
+2015,Oman,OMN,Asia,Western Asia,4267348,2.542,16150.8872575968,... ,2000 ,<1000 ,... ,<100 ,<100 
+2015,Pakistan,PAK,Asia,Southern Asia,199426964,7.107,1356.66775582649,4000 ,84 000 ,37 000 ,<1000 ,2800 ,1200 
+2015,Palau,PLW,Oceania,Micronesia,17665,7.7,15871.8426266629,,,,,,
+2015,Panama,PAN,Americas,Central America,3968487,5.003,13630.3079737945,<500 ,17 000 ,7200 ,<100 ,<500 ,<200 
+2015,Papua New Guinea,PNG,Oceania,Melanesia,8107775,7.755,2679.34558891149,3400 ,16 000 ,22 000 ,... ,... ,... 
+2015,Paraguay,PRY,Americas,South America,6688746,5.422,5406.70385708338,<500 ,14 000 ,6200 ,<100 ,<1000 ,<200 
+2015,Peru,PER,Americas,South America,30470734,5.348,6229.10169612596,1600 ,56 000 ,17 000 ,<100 ,1100 ,<200 
+2015,Philippines,PHL,Asia,South-Eastern Asia,102113212,5.798,2867.15199022128,<500 ,43 000 ,2800 ,<100 ,<1000 ,<100 
+2015,Poland,POL,Europe,Eastern Europe,37986412,10.4,12572.3078809992,... ,... ,... ,... ,... ,... 
+2015,Portugal,PRT,Europe,Southern Europe,10358076,10.5,19242.3664710981,<100 ,29 000 ,12 000 ,<100 ,<500 ,<200 
+2015,Puerto Rico,PRI,Americas,Caribbean,3473166,8.084,29764.0538920397,,,,,,
+2015,Qatar,QAT,Asia,Western Asia,2565710,1.131,63039.0165548075,... ,... ,... ,... ,... ,... 
+2015,Romania,ROU,Europe,Eastern Europe,19815481,13.2,8977.49854425137,<200 ,10 000 ,5900 ,<100 ,<100 ,<100 
+2015,Russian Federation,RUS,Europe,Eastern Europe,144096870,13,9313.78754166624,... ,... ,... ,... ,... ,... 
+2015,Rwanda,RWA,Africa,Eastern Africa,11369071,5.597,728.081879388981,15 000 ,81 000 ,130 000 ,<1000 ,1400 ,1500 
+2015,Samoa,WSM,Oceania,Polynesia,193513,5.461,4073.66592865004,,,,,,
+2015,San Marino,SMR,Europe,Southern Europe,33272,7.1,45774.5878900486,,,,,,
+2015,Sao Tome and Principe,STP,Africa,Middle Africa,199432,5.111,1595.86142275725,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2015,Saudi Arabia,SAU,Asia,Western Asia,31717667,3.412,20627.9327820675,... ,... ,... ,... ,... ,... 
+2015,Senegal,SEN,Africa,Western Africa,14578459,6.141,1218.76424640812,5100 ,13 000 ,25 000 ,<1000 ,<1000 ,<1000 
+2015,Serbia,SRB,Europe,Southern Europe,7095383,14.6,5585.11793778445,... ,2100 ,<500 ,... ,<100 ,<100 
+2015,Seychelles,SYC,Africa,Eastern Africa,93419,7.5,14745.3414620288,,,,,,
+2015,Sierra Leone,SLE,Africa,Western Africa,7171914,12.63,588.228452702849,7400 ,23 000 ,35 000 ,<1000 ,1200 ,<1000 
+2015,Singapore,SGP,Asia,South-Eastern Asia,5535002,4.8,55646.6187469505,... ,6900 ,<1000 ,... ,<100 ,<100 
+2015,Sint Maarten (Dutch part),SXM,Americas,Caribbean,38825,4.6,,,,,,,
+2015,Slovak Republic,SVK,Europe,Eastern Europe,5423801,9.9,16309.073235592,,,,,,
+2015,Slovenia,SVN,Europe,Southern Europe,2063531,9.6,20881.7667686947,... ,... ,... ,... ,<100 ,<100 
+2015,Solomon Islands,SLB,Oceania,Melanesia,603118,4.38,1914.46792975705,,,,,,
+2015,Somalia,SOM,Africa,Eastern Africa,13797201,11.534,293.455235696952,1600 ,4800 ,6100 ,<200 ,<500 ,<500 
+2015,South Africa,ZAF,Africa,Southern Africa,55386367,9.769,5734.63362915331,290 000 ,2 600 000 ,4 300 000 ,7100 ,31 000 ,37 000 
+2015,South Sudan,SSD,Africa,Eastern Africa,10715658,10.826,1119.65133182314,16 000 ,64 000 ,90 000 ,2000 ,3700 ,4200 
+2015,Spain,ESP,Europe,Southern Europe,46444832,9.1,25732.0183647454,<100 ,120 000 ,27 000 ,<100 ,<1000 ,<200 
+2015,Sri Lanka,LKA,Asia,Southern Asia,20970000,6.368,3843.78067184442,... ,2500 ,1100 ,... ,<200 ,<100 
+2015,St. Kitts and Nevis,KNA,Americas,Caribbean,51203,..,18029.3255386512,,,,,,
+2015,St. Lucia,LCA,Americas,Caribbean,179126,7.084,9262.25611518645,,,,,,
+2015,St. Martin (French part),MAF,Americas,Caribbean,35858,4.2,,,,,,,
+2015,St. Vincent and the Grenadines,VCT,Americas,Caribbean,109148,8.87,6920.87807380804,,,,,,
+2015,Sudan,SDN,Africa,Northern Africa,38902950,7.428,2486.74565866274,3800 ,26 000 ,23 000 ,<500 ,1300 ,1200 
+2015,Suriname,SUR,Americas,South America,559143,7.164,8561.97417855142,<100 ,2900 ,2200 ,<100 ,<100 ,<100 
+2015,Sweden,SWE,Europe,Northern Europe,9799186,9.3,51397.1917561446,... ,... ,... ,... ,... ,... 
+2015,Switzerland,CHE,Europe,Western Europe,8282396,8.2,82081.6092055418,... ,... ,... ,... ,... ,... 
+2015,Syrian Arab Republic,SYR,Asia,Western Asia,17997408,5.771,,... ,<500 ,<200 ,... ,<100 ,<100 
+2015,Tajikistan,TJK,Asia,Central Asia,8454028,5.201,929.095857223746,<500 ,8300 ,3000 ,<100 ,<500 ,<100 
+2015,Tanzania,TZA,Africa,Eastern Africa,51482633,7.161,947.933446487903,,,,,,
+2015,Thailand,THA,Asia,South-Eastern Asia,68714511,7.389,5840.04694787593,5900 ,290 000 ,230 000 ,<200 ,13 000 ,7900 
+2015,Timor-Leste,TLS,Asia,South-Eastern Asia,1196302,6.169,2585.15391598443,... ,... ,... ,... ,... ,... 
+2015,Togo,TGO,Africa,Western Africa,7323158,8.841,570.680737075619,14 000 ,35 000 ,58 000 ,1200 ,1800 ,1900 
+2015,Tonga,TON,Oceania,Polynesia,100781,7.24,4320.63799011384,,,,,,
+2015,Trinidad and Tobago,TTO,Americas,Caribbean,1370328,8.07,18289.704340369,... ,... ,... ,... ,... ,... 
+2015,Tunisia,TUN,Africa,Northern Africa,11179949,6.298,3861.68853113497,... ,1600 ,<1000 ,... ,<100 ,<100 
+2015,Turkey,TUR,Asia,Western Asia,78529409,5.404,10948.7246068236,... ,... ,... ,... ,... ,... 
+2015,Turkmenistan,TKM,Asia,Central Asia,5565287,7.098,6432.68070195019,... ,... ,... ,... ,... ,... 
+2015,Turks and Caicos Islands,TCA,Americas,Caribbean,35981,..,24832.5963703066,,,,,,
+2015,Tuvalu,TUV,Oceania,Polynesia,11099,..,3197.79564502867,,,,,,
+2015,Uganda,UGA,Africa,Eastern Africa,38225453,7.345,709.021038589161,120 000 ,490 000 ,720 000 ,8300 ,13 000 ,8600 
+2015,Ukraine,UKR,Europe,Eastern Europe,45154029,14.9,2124.66266591114,<1000 ,150 000 ,81 000 ,<100 ,6300 ,1400 
+2015,United Arab Emirates,ARE,Asia,Western Asia,9262900,1.377,38663.3838066363,... ,... ,... ,... ,... ,... 
+2015,United Kingdom,GBR,Europe,Northern Europe,65128861,9.2,44966.1019252665,... ,... ,... ,... ,... ,... 
+2015,United States,USA,Americas,Northern America,320742673,8.44,56803.4724334919,... ,... ,... ,... ,... ,... 
+2015,Uruguay,URY,Americas,South America,3412009,9.44,15613.7642726566,<200 ,8600 ,3600 ,<100 ,<200 ,<100 
+2015,Uzbekistan,UZB,Asia,Central Asia,31298900,4.9,2615.025134487,4300 ,25 000 ,13 000 ,<500 ,1000 ,<500 
+2015,Vanuatu,VUT,Oceania,Melanesia,271130,5.45,2801.93984778858,,,,,,
+2015,"Venezuela, RB",VEN,Americas,South America,30081829,6.408,,,,,,,
+2015,Vietnam,VNM,Asia,South-Eastern Asia,92677076,6.126,2085.10148409879,,,,,,
+2015,Virgin Islands (U.S.),VIR,Americas,Caribbean,107710,7.3,34797.14046978,,,,,,
+2015,West Bank and Gaza,PSE,Asia,Western Asia,4270092,3.488,2967.85174651975,,,,,,
+2015,"Yemen, Rep.",YEM,Asia,Western Asia,26497889,5.969,,,,,,,
+2015,Zambia,ZMB,Africa,Eastern Africa,15879361,7.169,1337.79631513515,69 000 ,440 000 ,640 000 ,3800 ,6400 ,8100 
+2015,Zimbabwe,ZWE,Africa,Eastern Africa,13814629,8.673,1445.07106198798,99 000 ,480 000 ,700 000 ,4900 ,8900 ,10 000 
+2016,Afghanistan,AFG,Asia,Southern Asia,35383128,6.742,547.228110150363,<500 ,4300 ,1800 ,<100 ,<500 ,<100 
+2016,Albania,ALB,Europe,Southern Europe,2876101,7.534,4124.10890718622,... ,... ,... ,... ,... ,... 
+2016,Algeria,DZA,Africa,Northern Africa,40551404,4.717,3946.4214445883,<500 ,7200 ,6000 ,<100 ,<100 ,<100 
+2016,American Samoa,ASM,Oceania,Polynesia,55741,..,11696.9555623329,,,,,,
+2016,Andorra,AND,Europe,Southern Europe,77297,4.3,37224.1089162924,,,,,,
+2016,Angola,AGO,Africa,Middle Africa,28842484,8.716,3506.07288506966,36 000 ,84 000 ,190 000 ,4500 ,2200 ,3700 
+2016,Antigua and Barbuda,ATG,Americas,Caribbean,94527,6.27,15197.6174551735,<100 ,<500 ,<500 ,<100 ,<100 ,<100 
+2016,Argentina,ARG,Americas,South America,43590368,7.626,12790.2424732447,2000 ,88 000 ,42 000 ,<100 ,1300 ,<500 
+2016,Armenia,ARM,Asia,Western Asia,2936146,9.849,3591.82927553023,... ,2200 ,1200 ,... ,<100 ,<100 
+2016,Aruba,ABW,Americas,Caribbean,104872,8.765,25239.6004109932,,,,,,
+2016,Australia,AUS,Oceania,Australia and New Zealand,24190907,6.6,49971.131456129,<100 ,23 000 ,3000 ,<100 ,<200 ,<100 
+2016,Austria,AUT,Europe,Western Europe,8736668,9.2,45237.8050921543,... ,... ,... ,... ,... ,... 
+2016,Azerbaijan,AZE,Asia,Western Asia,9757812,5.8,3880.73873089556,... ,... ,... ,... ,... ,... 
+2016,"Bahamas, The",BHS,Americas,Caribbean,377931,6.689,,,,,,,
+2016,Bahrain,BHR,Asia,Western Asia,1425791,2.355,22619.1166718849,... ,... ,... ,... ,... ,... 
+2016,Bangladesh,BGD,Asia,Southern Asia,157970840,5.539,1401.62062821515,<500 ,7500 ,4200 ,<100 ,<500 ,<200 
+2016,Barbados,BRB,Americas,Caribbean,285796,8.865,16936.9060448712,... ,1900 ,<1000 ,... ,<100 ,<100 
+2016,Belarus,BLR,Europe,Eastern Europe,9501534,12.6,5022.62664330491,<500 ,13 000 ,10 000 ,<100 ,<200 ,<100 
+2016,Belgium,BEL,Europe,Western Europe,11331422,9.5,42012.0999001128,... ,... ,... ,... ,... ,... 
+2016,Belize,BLZ,Americas,Central America,368400,4.65,4818.40439383538,<200 ,2400 ,2100 ,<100 ,<100 ,<100 
+2016,Benin,BEN,Africa,Western Africa,10872067,9.18,789.084915159164,5000 ,26 000 ,40 000 ,<500 ,<1000 ,<1000 
+2016,Bermuda,BMU,Americas,Northern America,64555,8,..,,,,,,
+2016,Bhutan,BTN,Asia,Southern Asia,736709,6.248,2930.56298819354,... ,<1000 ,<500 ,... ,<100 ,<100 
+2016,Bolivia,BOL,Americas,South America,11031813,6.834,3076.6589493424,,,,,,
+2016,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3386267,10.427,4994.68314045091,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,Botswana,BWA,Africa,Southern Africa,2159944,6,7243.85299726842,18 000 ,150 000 ,200 000 ,<1000 ,2300 ,2200 
+2016,Brazil,BRA,Americas,South America,206163058,6.311,8712.88704442864,... ,... ,... ,... ,... ,... 
+2016,British Virgin Islands,VGB,Americas,Caribbean,29355,..,..,,,,,,
+2016,Brunei Darussalam,BRN,Asia,South-Eastern Asia,419800,4.251,27157.8234104784,... ,... ,... ,... ,... ,... 
+2016,Bulgaria,BGR,Europe,Eastern Europe,7127822,15.1,7469.45563823624,... ,2300 ,<1000 ,... ,<100 ,<100 
+2016,Burkina Faso,BFA,Africa,Western Africa,18646378,8.571,582.795444327329,11 000 ,36 000 ,53 000 ,<1000 ,2100 ,1100 
+2016,Burundi,BDI,Africa,Eastern Africa,10487998,8.3,282.193130404814,13 000 ,27 000 ,44 000 ,<1000 ,1000 ,<1000 
+2016,Cabo Verde,CPV,Africa,Western Africa,531146,5.744,3130.9822291706,... ,1100 ,1200 ,... ,<100 ,<100 
+2016,Cambodia,KHM,Asia,South-Eastern Asia,15766293,6.051,1278.63106216298,3700 ,34 000 ,38 000 ,<100 ,<1000 ,<1000 
+2016,Cameroon,CMR,Africa,Middle Africa,23926539,9.762,1363.40385121739,47 000 ,170 000 ,320 000 ,4100 ,8800 ,11 000 
+2016,Canada,CAN,Americas,Northern America,36109487,7.4,42279.9008231637,... ,... ,... ,... ,... ,... 
+2016,Cayman Islands,CYM,Americas,Caribbean,62569,3.14685884789095,78296.0999272332,,,,,,
+2016,Central African Republic,CAF,Africa,Middle Africa,4537687,13.119,401.918238362335,12 000 ,42 000 ,59 000 ,<1000 ,2000 ,2600 
+2016,Chad,TCD,Africa,Middle Africa,14561666,12.527,692.978595813865,17 000 ,43 000 ,56 000 ,1600 ,<1000 ,<1000 
+2016,Chile,CHL,Americas,South America,18209068,5.993,13748.0876632921,<500 ,51 000 ,10 000 ,... ,... ,... 
+2016,China,CHN,Asia,Eastern Asia,1378665000,7.09,8078.79047437238,... ,... ,... ,... ,... ,... 
+2016,Colombia,COL,Americas,South America,48171392,5.453,5871.22352385952,3900 ,110 000 ,30 000 ,... ,... ,... 
+2016,Comoros,COM,Africa,Eastern Africa,795592,7.389,1272.19394336975,... ,<100 ,<100 ,... ,<100 ,<100 
+2016,"Congo, Dem. Rep.",COD,Africa,Middle Africa,78789127,9.919,,,,,,,
+2016,"Congo, Rep.",COG,Africa,Middle Africa,4980999,6.987,,,,,,,
+2016,Costa Rica,CRI,Americas,Central America,4899345,4.933,11666.4559107759,... ,11 000 ,2700 ,... ,<200 ,<100 
+2016,Cote d'Ivoire,CIV,Africa,Western Africa,23822714,10.5,1481.65223087732,,,,,,
+2016,Croatia,HRV,Europe,Southern Europe,4174349,12.3,12360.47325706,... ,... ,... ,... ,... ,... 
+2016,Cuba,CUB,Americas,Caribbean,11335109,8.665,8060.79588647979,<100 ,23 000 ,5000 ,<100 ,<500 ,<100 
+2016,Curacao,CUW,Americas,Caribbean,159664,9.3,19555.3658492891,,,,,,
+2016,Cyprus,CYP,Asia,Western Asia,1170187,6.89,24019.1378679236,... ,... ,... ,... ,... ,... 
+2016,Czech Republic,CZE,Europe,Eastern Europe,10566332,10.2,18463.3865756564,,,,,,
+2016,Denmark,DNK,Europe,Northern Europe,5728010,9.2,54663.9983719195,... ,4500 ,1600 ,... ,<100 ,<100 
+2016,Djibouti,DJI,Africa,Eastern Africa,929112,7.545,2818.37685569239,<1000 ,3300 ,4500 ,<100 ,<200 ,<500 
+2016,Dominica,DMA,Americas,Caribbean,71307,..,8080.96862341186,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2016,Dominican Republic,DOM,Americas,Caribbean,10397743,6.097,7280.87316423465,1700 ,34 000 ,33 000 ,<100 ,<1000 ,<1000 
+2016,Ecuador,ECU,Americas,South America,16491115,5.098,6060.09332904415,<1000 ,28 000 ,12 000 ,<100 ,<1000 ,<200 
+2016,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,94447072,5.915,,,,,,,
+2016,El Salvador,SLV,Americas,Central America,6356143,6.984,3800.10330164063,<1000 ,16 000 ,9100 ,<100 ,<500 ,<200 
+2016,Equatorial Guinea,GNQ,Africa,Middle Africa,1215179,9.768,9244.05179769096,5000 ,25 000 ,26 000 ,<500 ,1000 ,<500 
+2016,Eritrea,ERI,Africa,Eastern Africa,..,7.5,..,1400 ,6400 ,9800 ,<200 ,<200 ,<500 
+2016,Estonia,EST,Europe,Northern Europe,1315790,11.7,18237.2958432683,... ,4500 ,2500 ,... ,<100 ,<100 
+2016,Eswatini,SWZ,Africa,Southern Africa,1113984,10.462,3447.6956981236,12 000 ,69 000 ,120 000 ,<1000 ,<1000 ,1300 
+2016,Ethiopia,ETH,Africa,Eastern Africa,103603501,6.844,717.124592933285,40 000 ,230 000 ,400 000 ,2200 ,3800 ,6000 
+2016,Faroe Islands,FRO,Europe,Northern Europe,48173,7.7,55822.9147203438,,,,,,
+2016,Fiji,FJI,Oceania,Melanesia,872399,8.17,5651.31805482702,... ,... ,... ,... ,... ,... 
+2016,Finland,FIN,Europe,Northern Europe,5495303,9.8,43777.4400888075,... ,2600 ,<1000 ,... ,<100 ,<100 
+2016,France,FRA,Europe,Western Europe,66859768,8.9,36962.222290118,<500 ,130 000 ,43 000 ,<100 ,<500 ,<100 
+2016,French Polynesia,PYF,Oceania,Polynesia,274575,5.49,,,,,,,
+2016,Gabon,GAB,Africa,Middle Africa,2007873,7.201,6979.70919563581,3300 ,15 000 ,33 000 ,<500 ,<500 ,<1000 
+2016,"Gambia, The",GMB,Africa,Western Africa,2149139,8.191,,,,,,,
+2016,Georgia,GEO,Asia,Western Asia,3727505,12.992,4062.16988757379,... ,5800 ,2700 ,... ,<200 ,<100 
+2016,Germany,DEU,Europe,Western Europe,82348669,11.1,42098.9204453545,<100 ,67 000 ,16 000 ,<100 ,<500 ,<100 
+2016,Ghana,GHA,Africa,Western Africa,28481946,7.533,1931.38947036943,32 000 ,100 000 ,190 000 ,3100 ,4800 ,5900 
+2016,Gibraltar,GIB,Europe,Southern Europe,33737,..,..,,,,,,
+2016,Greece,GRC,Europe,Southern Europe,10775971,11,18116.4596223336,... ,... ,... ,... ,... ,... 
+2016,Greenland,GRL,Americas,Northern America,56186,8.7,48181.874188064,,,,,,
+2016,Grenada,GRD,Americas,Caribbean,110261,9.538,9628.34748662013,<100 ,<500 ,<200 ,<100 ,<100 ,<100 
+2016,Guam,GUM,Oceania,Micronesia,162951,5.123,35562.8379083283,,,,,,
+2016,Guatemala,GTM,Americas,Central America,16583060,4.791,4140.58982610593,2300 ,26 000 ,19 000 ,<200 ,1300 ,<1000 
+2016,Guinea,GIN,Africa,Western Africa,11738441,9.013,732.962172595344,11 000 ,41 000 ,65 000 ,<1000 ,1900 ,1500 
+2016,Guinea-Bissau,GNB,Africa,Western Africa,1782437,10.014,661.007654906181,5800 ,15 000 ,23 000 ,<500 ,<1000 ,<1000 
+2016,Guyana,GUY,Americas,South America,771366,7.283,4542.62206666493,<500 ,3900 ,3700 ,<100 ,<100 ,<100 
+2016,Haiti,HTI,Americas,Caribbean,10839970,8.759,735.301770321704,9300 ,60 000 ,83 000 ,<1000 ,1700 ,1300 
+2016,Honduras,HND,Americas,Central America,9270795,4.423,2342.58465119568,1100 ,13 000 ,8900 ,<100 ,<1000 ,<500 
+2016,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7336600,6.4,,,,,,,
+2016,Hungary,HUN,Europe,Eastern Europe,9814023,13,12992.375667515,... ,2800 ,<1000 ,... ,<100 ,<100 
+2016,Iceland,ISL,Europe,Northern Europe,335439,6.9,61757.9493064483,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,India,IND,Asia,Southern Asia,1324509589,7.195,1729.26802051544,... ,... ,... ,... ,... ,... 
+2016,Indonesia,IDN,Asia,South-Eastern Asia,261554226,6.418,3562.84575641971,16 000 ,390 000 ,220 000 ,2500 ,24 000 ,11 000 
+2016,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,79564016,4.821,,,,,,,
+2016,Iraq,IRQ,Asia,Western Asia,36610632,4.889,4776.72649939342,,,,,,
+2016,Ireland,IRL,Europe,Northern Europe,4755335,6.4,63197.0823744196,<100 ,4200 ,2300 ,<100 ,<100 ,<100 
+2016,Isle of Man,IMN,Europe,Northern Europe,83287,..,79155.541672096,,,,,,
+2016,Israel,ISR,Asia,Western Asia,8546000,5.2,37321.6240366845,<100 ,6200 ,2100 ,<100 ,<100 ,<100 
+2016,Italy,ITA,Europe,Southern Europe,60627498,10.1,30936.125444977,<500 ,87 000 ,37 000 ,<100 ,<500 ,<200 
+2016,Jamaica,JAM,Americas,Caribbean,2906238,7.542,4843.33847410864,... ,... ,... ,... ,... ,... 
+2016,Japan,JPN,Asia,Eastern Asia,126994511,10.5,38794.3309405515,... ,25 000 ,2800 ,... ,... ,... 
+2016,Jordan,JOR,Asia,Western Asia,9551467,3.826,4103.73359991068,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,Kazakhstan,KAZ,Asia,Central Asia,17794055,7.37,7714.84184376024,<500 ,14 000 ,7700 ,<100 ,<500 ,<200 
+2016,Kenya,KEN,Africa,Eastern Africa,49051686,5.734,1410.5275710827,140 000 ,520 000 ,870 000 ,7200 ,13 000 ,12 000 
+2016,Kiribati,KIR,Oceania,Micronesia,112524,6.481,1584.80744578963,,,,,,
+2016,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,25307744,8.856,,,,,,,
+2016,"Korea, Rep.",KOR,Asia,Eastern Asia,51245707,5.5,,,,,,,
+2016,Kuwait,KWT,Asia,Western Asia,3956873,2.518,27653.1644010105,... ,<500 ,<200 ,... ,<100 ,<100 
+2016,Kyrgyz Republic,KGZ,Asia,Central Asia,6079500,5.5,1120.66651300848,,,,,,
+2016,Lao PDR,LAO,Asia,South-Eastern Asia,6845846,6.593,2308.80048220079,,,,,,
+2016,Latvia,LVA,Europe,Northern Europe,1959537,14.6,14153.4149226916,... ,3300 ,1500 ,... ,<200 ,<100 
+2016,Lebanon,LBN,Asia,Western Asia,6711121,4.181,7634.94654364282,... ,1900 ,<500 ,... ,<100 ,<100 
+2016,Lesotho,LSO,Africa,Southern Africa,2075001,15.157,1115.33607520903,13 000 ,130 000 ,190 000 ,<1000 ,3700 ,3300 
+2016,Liberia,LBR,Africa,Western Africa,4586788,7.957,714.623392230031,4300 ,14 000 ,21 000 ,<500 ,<1000 ,1000 
+2016,Libya,LBY,Africa,Northern Africa,6492164,5.108,4035.1943155047,<500 ,5900 ,2500 ,<100 ,<100 ,<100 
+2016,Liechtenstein,LIE,Europe,Western Europe,37658,7.2,165028.245029187,,,,,,
+2016,Lithuania,LTU,Europe,Northern Europe,2868231,14.3,14999.4796391329,... ,... ,... ,... ,... ,... 
+2016,Luxembourg,LUX,Europe,Western Europe,582014,6.8,104278.390971905,... ,<1000 ,<500 ,... ,<100 ,<100 
+2016,"Macao SAR, China",MAC,Asia,Eastern Asia,612836,3.8,,,,,,,
+2016,Madagascar,MDG,Africa,Eastern Africa,24894380,6.324,475.955365636474,1700 ,20 000 ,9200 ,<500 ,<1000 ,<500 
+2016,Malawi,MWI,Africa,Eastern Africa,17205289,7.074,315.777326372575,85 000 ,370 000 ,550 000 ,3800 ,5500 ,4600 
+2016,Malaysia,MYS,Asia,South-Eastern Asia,30684804,4.942,9817.74086096214,<1000 ,67 000 ,15 000 ,<100 ,2500 ,<1000 
+2016,Maldives,MDV,Asia,Southern Asia,475513,2.965,9209.28862477108,... ,... ,... ,... ,... ,... 
+2016,Mali,MLI,Africa,Western Africa,17965429,10.307,779.874933008414,19 000 ,44 000 ,78 000 ,2100 ,2000 ,2400 
+2016,Malta,MLT,Europe,Southern Europe,455356,7.3,25151.5196168932,... ,... ,... ,... ,... ,... 
+2016,Marshall Islands,MHL,Oceania,Micronesia,57735,..,3473.77500649519,,,,,,
+2016,Mauritania,MRT,Africa,Western Africa,4163534,7.468,1123.88816589683,<500 ,3500 ,2100 ,<100 ,<500 ,<100 
+2016,Mauritius,MUS,Africa,Eastern Africa,1263473,8.1,9681.61856689674,<200 ,8400 ,3600 ,<100 ,<500 ,<200 
+2016,Mexico,MEX,Americas,Central America,123333376,5.851,8739.75604280929,2500 ,180 000 ,35 000 ,... ,... ,... 
+2016,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,110215,6.526,,,,,,,
+2016,Moldova,MDA,Europe,Eastern Europe,3551954,11.452,2272.40570707297,,,,,,
+2016,Monaco,MCO,Europe,Western Europe,38070,7.9,169915.804840176,,,,,,
+2016,Mongolia,MNG,Asia,Eastern Asia,3056359,6.286,3660.15074616061,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,Montenegro,MNE,Europe,Southern Europe,622303,10.484,7028.93657685094,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,Morocco,MAR,Africa,Northern Africa,35126296,5.093,2897.66343955565,<1000 ,12 000 ,8000 ,<100 ,<500 ,<100 
+2016,Mozambique,MOZ,Africa,Eastern Africa,27829942,9.463,428.926487995524,140 000 ,740 000 ,1 100 000 ,8900 ,24 000 ,23 000 
+2016,Myanmar,MMR,Asia,South-Eastern Asia,53045226,8.238,1192.49533785043,9800 ,140 000 ,85 000 ,<500 ,6300 ,2200 
+2016,Namibia,NAM,Africa,Southern Africa,2358041,8.423,4786.23530295128,13 000 ,73 000 ,110 000 ,<500 ,<1000 ,1200 
+2016,Nauru,NRU,Oceania,Micronesia,13049,..,7820.7295990997,,,,,,
+2016,Nepal,NPL,Asia,Southern Asia,27261131,6.451,777.147595512165,1500 ,18 000 ,11 000 ,<100 ,<1000 ,<500 
+2016,Netherlands,NLD,Europe,Western Europe,17030314,8.7,46007.8529206547,<100 ,19 000 ,4000 ,<100 ,<200 ,<100 
+2016,New Caledonia,NCL,Oceania,Melanesia,276550,5.7,,,,,,,
+2016,New Zealand,NZL,Oceania,Australia and New Zealand,4693200,6.64,40026.8521964671,... ,2800 ,<1000 ,... ,<100 ,<100 
+2016,Nicaragua,NIC,Americas,Central America,6303974,5.039,2107.56717992428,<500 ,5900 ,2900 ,<100 ,<200 ,<100 
+2016,Niger,NER,Africa,Western Africa,20788838,8.82,362.131132274334,2600 ,17 000 ,17 000 ,<500 ,1000 ,<500 
+2016,Nigeria,NGA,Africa,Western Africa,185960289,12.39,2175.99967021858,140 000 ,730 000 ,920 000 ,13 000 ,24 000 ,13 000 
+2016,North Macedonia,MKD,Europe,Southern Europe,2080745,9.88,5129.15896023703,... ,<500 ,<100 ,... ,<100 ,<100 
+2016,Northern Mariana Islands,MNP,Oceania,Micronesia,56188,..,22246.7430768136,,,,,,
+2016,Norway,NOR,Europe,Northern Europe,5234519,7.8,70460.5605323322,... ,4000 ,1600 ,... ,<100 ,<100 
+2016,Oman,OMN,Asia,Western Asia,4479219,2.498,14721.6473328796,... ,2000 ,<1000 ,... ,<100 ,<100 
+2016,Pakistan,PAK,Asia,Southern Asia,203627284,7.048,1368.45432627629,4500 ,92 000 ,40 000 ,<1000 ,3300 ,1500 
+2016,Palau,PLW,Oceania,Micronesia,17725,9.9,16932.3328631876,,,,,,
+2016,Panama,PAN,Americas,Central America,4037078,5.024,14356.3240541798,<500 ,17 000 ,7400 ,<100 ,<500 ,<200 
+2016,Papua New Guinea,PNG,Oceania,Melanesia,8271760,7.632,2509.63145745887,3300 ,17 000 ,23 000 ,... ,... ,... 
+2016,Paraguay,PRY,Americas,South America,6777872,5.44,5319.41021789703,<500 ,14 000 ,6300 ,<100 ,<1000 ,<500 
+2016,Peru,PER,Americas,South America,30926032,5.386,6204.99726003927,1600 ,57 000 ,17 000 ,<100 ,1300 ,<200 
+2016,Philippines,PHL,Asia,South-Eastern Asia,103663927,5.815,2941.21203999356,<500 ,51 000 ,3400 ,<100 ,<1000 ,<100 
+2016,Poland,POL,Europe,Eastern Europe,37970087,10.2,12431.5754242492,... ,... ,... ,... ,... ,... 
+2016,Portugal,PRT,Europe,Southern Europe,10325452,10.7,19978.401214968,<100 ,29 000 ,12 000 ,<100 ,<500 ,<200 
+2016,Puerto Rico,PRI,Americas,Caribbean,3406495,8.86,30628.7547758033,,,,,,
+2016,Qatar,QAT,Asia,Western Asia,2654374,1.146,57163.0609918357,... ,... ,... ,... ,... ,... 
+2016,Romania,ROU,Europe,Eastern Europe,19702332,13.1,9567.0977819133,<200 ,11 000 ,6100 ,<100 ,<100 ,<100 
+2016,Russian Federation,RUS,Europe,Eastern Europe,144342396,12.9,8745.37511648808,... ,... ,... ,... ,... ,... 
+2016,Rwanda,RWA,Africa,Eastern Africa,11668818,5.435,726.347974491846,14 000 ,81 000 ,130 000 ,<500 ,1400 ,1400 
+2016,Samoa,WSM,Oceania,Polynesia,194535,5.372,4109.16513737514,,,,,,
+2016,San Marino,SMR,Europe,Southern Europe,33504,7.6,46692.3510916145,,,,,,
+2016,Sao Tome and Principe,STP,Africa,Middle Africa,203227,5.002,1710.13394767919,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2016,Saudi Arabia,SAU,Asia,Western Asia,32442572,3.426,19879.2975304177,... ,... ,... ,... ,... ,... 
+2016,Senegal,SEN,Africa,Western Africa,14993528,5.985,1269.04040702421,4900 ,13 000 ,25 000 ,<500 ,<500 ,<1000 
+2016,Serbia,SRB,Europe,Southern Europe,7058322,14.3,5756.38119351044,... ,2300 ,<500 ,... ,<100 ,<100 
+2016,Seychelles,SYC,Africa,Eastern Africa,94677,7.9,15077.8390242853,,,,,,
+2016,Sierra Leone,SLE,Africa,Western Africa,7328838,12.294,501.415712857832,7200 ,24 000 ,36 000 ,<1000 ,1200 ,<1000 
+2016,Singapore,SGP,Asia,South-Eastern Asia,5607283,4.8,56724.1703858863,... ,7000 ,<1000 ,... ,<100 ,<100 
+2016,Sint Maarten (Dutch part),SXM,Americas,Caribbean,39969,..,..,,,,,,
+2016,Slovak Republic,SVK,Europe,Eastern Europe,5430798,9.6,16505.9980625369,,,,,,
+2016,Slovenia,SVN,Europe,Southern Europe,2065042,9.5,21622.580683576,... ,... ,... ,... ,<100 ,<100 
+2016,Solomon Islands,SLB,Oceania,Melanesia,619437,4.326,1986.41622920675,,,,,,
+2016,Somalia,SOM,Africa,Eastern Africa,14185613,11.289,295.967851645127,1500 ,4500 ,5900 ,<200 ,<500 ,<500 
+2016,South Africa,ZAF,Africa,Southern Africa,56203654,9.599,5272.91842475419,280 000 ,2 700 000 ,4 400 000 ,6800 ,31 000 ,36 000 
+2016,South Sudan,SSD,Africa,Eastern Africa,10832512,10.694,..,16 000 ,66 000 ,95 000 ,2000 ,3600 ,3700 
+2016,Spain,ESP,Europe,Southern Europe,46483569,8.8,26505.6243284919,<100 ,120 000 ,27 000 ,<100 ,1000 ,<200 
+2016,Sri Lanka,LKA,Asia,Southern Asia,21203000,6.459,3886.29150165239,... ,2500 ,1100 ,... ,<200 ,<100 
+2016,St. Kitts and Nevis,KNA,Americas,Caribbean,51625,..,18811.9451170299,,,,,,
+2016,St. Lucia,LCA,Americas,Caribbean,180024,7.123,9452.05536381157,,,,,,
+2016,St. Martin (French part),MAF,Americas,Caribbean,36065,4.2,..,,,,,,
+2016,St. Vincent and the Grenadines,VCT,Americas,Caribbean,109459,9.032,7075.06582034944,,,,,,
+2016,Sudan,SDN,Africa,Northern Africa,39847440,7.34,2398.10187999332,4000 ,27 000 ,24 000 ,<500 ,1300 ,1200 
+2016,Suriname,SUR,Americas,South America,564888,7.219,5604.72256934099,<100 ,3000 ,2200 ,<100 ,<100 ,<100 
+2016,Sweden,SWE,Europe,Northern Europe,9923085,9.2,51974.196555344,... ,... ,... ,... ,... ,... 
+2016,Switzerland,CHE,Europe,Western Europe,8373338,7.8,80172.1933039266,... ,... ,... ,... ,... ,... 
+2016,Syrian Arab Republic,SYR,Asia,Western Asia,17453933,5.726,..,... ,<500 ,<200 ,... ,<100 ,<100 
+2016,Tajikistan,TJK,Asia,Central Asia,8663579,5.078,802.518004052824,<1000 ,8600 ,3200 ,<100 ,<500 ,<100 
+2016,Tanzania,TZA,Africa,Eastern Africa,53050790,6.868,966.474622354379,,,,,,
+2016,Thailand,THA,Asia,South-Eastern Asia,68971331,7.467,5978.61145407809,4900 ,280 000 ,220 000 ,<200 ,12 000 ,8000 
+2016,Timor-Leste,TLS,Asia,South-Eastern Asia,1219288,6.109,2053.27379585463,... ,... ,... ,... ,... ,... 
+2016,Togo,TGO,Africa,Western Africa,7509952,8.695,597.065458898228,14 000 ,35 000 ,58 000 ,1100 ,1700 ,1800 
+2016,Tonga,TON,Oceania,Polynesia,101133,7.223,3966.15652021899,,,,,,
+2016,Trinidad and Tobago,TTO,Americas,Caribbean,1377564,8.159,16176.9473700573,... ,... ,... ,... ,... ,... 
+2016,Tunisia,TUN,Africa,Northern Africa,11303946,6.287,3698.05850375479,... ,1700 ,<1000 ,... ,<100 ,<100 
+2016,Turkey,TUR,Asia,Western Asia,79821724,5.39,10820.633842346,... ,... ,... ,... ,... ,... 
+2016,Turkmenistan,TKM,Asia,Central Asia,5662372,7.076,6389.54840833488,... ,... ,... ,... ,... ,... 
+2016,Turks and Caicos Islands,TCA,Americas,Caribbean,36559,..,25995.1724609535,,,,,,
+2016,Tuvalu,TUV,Oceania,Polynesia,11225,..,3255.89486619818,,,,,,
+2016,Uganda,UGA,Africa,Eastern Africa,39647506,7.031,608.705735097409,110 000 ,500 000 ,740 000 ,6500 ,13 000 ,7300 
+2016,Ukraine,UKR,Europe,Eastern Europe,45004645,14.7,2187.73199668415,<1000 ,150 000 ,82 000 ,<100 ,6500 ,1800 
+2016,United Arab Emirates,ARE,Asia,Western Asia,9360980,1.398,38141.8467585492,... ,... ,... ,... ,... ,... 
+2016,United Kingdom,GBR,Europe,Northern Europe,65595565,9.1,41074.1672796521,... ,... ,... ,... ,... ,... 
+2016,United States,USA,Americas,Northern America,323071342,8.493,57904.2019610641,... ,... ,... ,... ,... ,... 
+2016,Uruguay,URY,Americas,South America,3424132,9.452,15387.14403013,<200 ,9000 ,3700 ,<100 ,<200 ,<100 
+2016,Uzbekistan,UZB,Asia,Central Asia,31847900,4.9,2567.79920656883,4900 ,27 000 ,13 000 ,<500 ,1100 ,<500 
+2016,Vanuatu,VUT,Oceania,Melanesia,278330,5.396,2889.85303623403,,,,,,
+2016,"Venezuela, RB",VEN,Americas,South America,29846179,6.619,,,,,,,
+2016,Vietnam,VNM,Asia,South-Eastern Asia,93638724,6.19,2192.21453866566,,,,,,
+2016,Virgin Islands (U.S.),VIR,Americas,Caribbean,107510,7.6,35931.5412519766,,,,,,
+2016,West Bank and Gaza,PSE,Asia,Western Asia,4367088,3.478,3074.29115236515,,,,,,
+2016,"Yemen, Rep.",YEM,Asia,Western Asia,27168210,5.972,,,,,,,
+2016,Zambia,ZMB,Africa,Eastern Africa,16363507,6.864,1280.57844679257,67 000 ,450 000 ,660 000 ,3400 ,6600 ,7400 
+2016,Zimbabwe,ZWE,Africa,Eastern Africa,14030390,8.286,1464.58352903946,94 000 ,480 000 ,710 000 ,4000 ,9000 ,9600 
+2017,Afghanistan,AFG,Asia,Southern Asia,36296400,6.575,556.302138508508,<500 ,4600 ,1900 ,<100 ,<500 ,<100 
+2017,Albania,ALB,Europe,Southern Europe,2873457,7.714,4532.89016212124,... ,... ,... ,... ,... ,... 
+2017,Algeria,DZA,Africa,Northern Africa,41389198,4.717,4044.29837226523,<500 ,7700 ,6500 ,<100 ,<100 ,<100 
+2017,American Samoa,ASM,Oceania,Polynesia,55620,..,10823.4448040273,,,,,,
+2017,Andorra,AND,Europe,Southern Europe,77001,..,39134.3933706717,,,,,,
+2017,Angola,AGO,Africa,Middle Africa,29816748,8.432,4095.81294155857,37 000 ,88 000 ,200 000 ,4700 ,2400 ,4800 
+2017,Antigua and Barbuda,ATG,Americas,Caribbean,95426,6.316,15383.4151884998,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2017,Argentina,ARG,Americas,South America,44044811,7.616,14591.8633810541,1900 ,91 000 ,43 000 ,<100 ,1300 ,<500 
+2017,Armenia,ARM,Asia,Western Asia,2944809,9.862,3914.5012684128,... ,2300 ,1200 ,... ,<100 ,<100 
+2017,Aruba,ABW,Americas,Caribbean,105366,8.907,25630.2664922069,,,,,,
+2017,Australia,AUS,Oceania,Australia and New Zealand,24601860,6.5,54066.4712686117,<100 ,24 000 ,3200 ,<100 ,<200 ,<100 
+2017,Austria,AUT,Europe,Western Europe,8797566,9.5,47431.630607607,... ,... ,... ,... ,... ,... 
+2017,Azerbaijan,AZE,Asia,Western Asia,9854033,5.8,4147.08971569171,... ,... ,... ,... ,... ,... 
+2017,"Bahamas, The",BHS,Americas,Caribbean,381761,6.72,,,,,,,
+2017,Bahrain,BHR,Asia,Western Asia,1494074,2.368,23715.4827473156,... ,... ,... ,... ,... ,... 
+2017,Bangladesh,BGD,Asia,Southern Asia,159670593,5.533,1563.99408178663,<500 ,8100 ,4500 ,<100 ,<500 ,<200 
+2017,Barbados,BRB,Americas,Caribbean,286233,8.936,17431.6029248899,... ,1900 ,<1000 ,... ,<100 ,<100 
+2017,Belarus,BLR,Europe,Eastern Europe,9498264,12.6,5761.74712023007,<500 ,14 000 ,11 000 ,<100 ,<200 ,<100 
+2017,Belgium,BEL,Europe,Western Europe,11375158,9.6,44219.5619960117,... ,... ,... ,... ,... ,... 
+2017,Belize,BLZ,Americas,Central America,375769,4.681,4887.55982047899,<200 ,2400 ,2200 ,<100 ,<100 ,<100 
+2017,Benin,BEN,Africa,Western Africa,11175204,9.025,829.478802783315,4800 ,26 000 ,41 000 ,<500 ,<1000 ,<1000 
+2017,Bermuda,BMU,Americas,Northern America,63874,7.8,,,,,,,
+2017,Bhutan,BTN,Asia,Southern Asia,745568,6.243,3286.57470378318,... ,<1000 ,<500 ,... ,<100 ,<100 
+2017,Bolivia,BOL,Americas,South America,11192854,6.795,3351.12405268555,,,,,,
+2017,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3351527,10.563,5394.59122017677,... ,<500 ,<100 ,... ,<100 ,<100 
+2017,Botswana,BWA,Africa,Southern Africa,2205128,5.834,7893.21010771116,16 000 ,150 000 ,200 000 ,<1000 ,2200 ,2200 
+2017,Brazil,BRA,Americas,South America,207833831,6.378,9880.94654326324,... ,... ,... ,... ,... ,... 
+2017,British Virgin Islands,VGB,Americas,Caribbean,29577,..,,,,,,,
+2017,Brunei Darussalam,BRN,Asia,South-Eastern Asia,424473,4.345,28572.1467776509,... ,... ,... ,... ,... ,... 
+2017,Bulgaria,BGR,Europe,Eastern Europe,7075947,15.5,8228.0115697265,... ,2500 ,<1000 ,... ,<100 ,<100 
+2017,Burkina Faso,BFA,Africa,Western Africa,19193284,8.341,642.429838650148,9700 ,35 000 ,53 000 ,<1000 ,1900 ,1100 
+2017,Burundi,BDI,Africa,Eastern Africa,10827024,8.106,292.997630684415,12 000 ,27 000 ,44 000 ,<1000 ,<1000 ,<1000 
+2017,Cabo Verde,CPV,Africa,Western Africa,537497,5.682,3292.6457550859,... ,1100 ,1200 ,... ,<100 ,<100 
+2017,Cambodia,KHM,Asia,South-Eastern Asia,16009414,6.017,1385.45836254396,3500 ,33 000 ,37 000 ,<100 ,<1000 ,<1000 
+2017,Cameroon,CMR,Africa,Middle Africa,24566045,9.501,1421.58749243688,45 000 ,170 000 ,320 000 ,3800 ,7700 ,9900 
+2017,Canada,CAN,Americas,Northern America,36540268,7.5,45069.9272544324,... ,... ,... ,... ,... ,... 
+2017,Cayman Islands,CYM,Americas,Caribbean,63382,3.42232432860651,81124.5134794821,,,,,,
+2017,Central African Republic,CAF,Africa,Middle Africa,4596028,12.671,449.786423510424,11 000 ,41 000 ,59 000 ,<1000 ,2100 ,1900 
+2017,Chad,TCD,Africa,Middle Africa,15016773,12.309,664.303315726258,16 000 ,44 000 ,58 000 ,1600 ,<1000 ,<1000 
+2017,Chile,CHL,Americas,South America,18470439,6.076,15037.3502805385,<500 ,54 000 ,11 000 ,... ,... ,... 
+2017,China,CHN,Asia,Eastern Asia,1386395000,7.11,8759.04157775098,... ,... ,... ,... ,... ,... 
+2017,Colombia,COL,Americas,South America,48901066,5.503,6375.93206285311,3700 ,120 000 ,30 000 ,... ,... ,... 
+2017,Comoros,COM,Africa,Eastern Africa,813892,7.298,1320.54186667961,... ,<100 ,<100 ,... ,<100 ,<100 
+2017,"Congo, Dem. Rep.",COD,Africa,Middle Africa,81398764,9.691,,,,,,,
+2017,"Congo, Rep.",COG,Africa,Middle Africa,5110702,6.828,,,,,,,
+2017,Costa Rica,CRI,Americas,Central America,4949954,5.005,11752.5434010771,... ,11 000 ,2800 ,... ,<200 ,<100 
+2017,Cote d'Ivoire,CIV,Africa,Western Africa,24437469,10.262,1557.18281424798,,,,,,
+2017,Croatia,HRV,Europe,Southern Europe,4124531,13,13412.3419505426,... ,... ,... ,... ,... ,... 
+2017,Cuba,CUB,Americas,Caribbean,11339259,8.827,8541.2106734664,<100 ,24 000 ,5300 ,<100 ,<500 ,<100 
+2017,Curacao,CUW,Americas,Caribbean,160175,8.9,19457.5315232205,,,,,,
+2017,Cyprus,CYP,Asia,Western Asia,1179680,6.952,25760.7627043417,... ,... ,... ,... ,... ,... 
+2017,Czech Republic,CZE,Europe,Eastern Europe,10594438,10.5,20379.8960396417,,,,,,
+2017,Denmark,DNK,Europe,Northern Europe,5764980,8.2,57141.0598350413,... ,4600 ,1600 ,... ,<100 ,<100 
+2017,Djibouti,DJI,Africa,Eastern Africa,944097,7.293,2930.70317165342,<1000 ,3300 ,4500 ,<100 ,<200 ,<500 
+2017,Dominica,DMA,Americas,Caribbean,71458,..,7274.72133332918,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2017,Dominican Republic,DOM,Americas,Caribbean,10513131,6.12,7609.34549150864,1600 ,34 000 ,33 000 ,<100 ,<1000 ,<1000 
+2017,Ecuador,ECU,Americas,South America,16785361,5.101,6213.50127649921,<1000 ,29 000 ,12 000 ,<100 ,<1000 ,<200 
+2017,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,96442593,5.863,,,,,,,
+2017,El Salvador,SLV,Americas,Central America,6388122,7.011,3902.24231785179,<1000 ,16 000 ,9100 ,<100 ,<500 ,<200 
+2017,Equatorial Guinea,GNQ,Africa,Middle Africa,1262001,9.542,9738.43422416926,5100 ,26 000 ,28 000 ,<1000 ,1200 ,<500 
+2017,Eritrea,ERI,Africa,Eastern Africa,..,7.326,,1400 ,6400 ,9800 ,<200 ,<200 ,<500 
+2017,Estonia,EST,Europe,Northern Europe,1317384,11.8,20337.8497289442,... ,4600 ,2500 ,... ,<100 ,<100 
+2017,Eswatini,SWZ,Africa,Southern Africa,1124753,9.843,3953.08896990829,12 000 ,71 000 ,120 000 ,<500 ,<1000 ,1300 
+2017,Ethiopia,ETH,Africa,Eastern Africa,106400024,6.691,768.425025531532,38 000 ,240 000 ,410 000 ,2200 ,3800 ,5500 
+2017,Faroe Islands,FRO,Europe,Northern Europe,48331,8.9,..,,,,,,
+2017,Fiji,FJI,Oceania,Melanesia,877459,8.18,6101.03083866498,... ,... ,... ,... ,... ,... 
+2017,Finland,FIN,Europe,Northern Europe,5508214,9.8,46191.9311557681,... ,2700 ,1000 ,... ,<100 ,<100 
+2017,France,FRA,Europe,Western Europe,66865144,9,38679.1271482419,<500 ,130 000 ,45 000 ,<100 ,<500 ,<100 
+2017,French Polynesia,PYF,Oceania,Polynesia,276103,5.566,..,,,,,,
+2017,Gabon,GAB,Africa,Middle Africa,2064823,6.998,7212.53574430676,3300 ,15 000 ,34 000 ,<500 ,<500 ,<1000 
+2017,"Gambia, The",GMB,Africa,Western Africa,2213894,8.044,,,,,,,
+2017,Georgia,GEO,Asia,Western Asia,3728004,12.918,4357.01162453036,... ,6100 ,2900 ,... ,<200 ,<100 
+2017,Germany,DEU,Europe,Western Europe,82657002,11.3,44240.0441099604,<100 ,68 000 ,17 000 ,<100 ,<500 ,<100 
+2017,Ghana,GHA,Africa,Western Africa,29121471,7.414,2025.88585713133,31 000 ,100 000 ,200 000 ,3000 ,5400 ,5700 
+2017,Gibraltar,GIB,Europe,Southern Europe,33728,..,,,,,,,
+2017,Greece,GRC,Europe,Southern Europe,10754679,11.6,18883.4600669282,... ,... ,... ,... ,... ,... 
+2017,Greenland,GRL,Americas,Northern America,56171,8.9,..,,,,,,
+2017,Grenada,GRD,Americas,Caribbean,110874,9.563,10163.6298527725,<100 ,<500 ,<200 ,<100 ,<100 ,<100 
+2017,Guam,GUM,Oceania,Micronesia,164281,5.166,35615.8046274371,,,,,,
+2017,Guatemala,GTM,Americas,Central America,16914936,4.762,4470.60999392312,2100 ,26 000 ,19 000 ,<200 ,1200 ,<1000 
+2017,Guinea,GIN,Africa,Western Africa,12067539,8.715,855.573639877367,11 000 ,41 000 ,66 000 ,<1000 ,1900 ,1600 
+2017,Guinea-Bissau,GNB,Africa,Western Africa,1828146,9.805,736.725566231783,5700 ,15 000 ,23 000 ,<500 ,<1000 ,<1000 
+2017,Guyana,GUY,Americas,South America,775221,7.365,4586.05457171312,<500 ,4000 ,3800 ,<100 ,<100 ,<100 
+2017,Haiti,HTI,Americas,Caribbean,10982366,8.638,765.727294324274,9000 ,61 000 ,85 000 ,<1000 ,1400 ,1100 
+2017,Honduras,HND,Americas,Central America,9429013,4.428,2449.96469108151,<1000 ,13 000 ,8900 ,<100 ,<1000 ,<500 
+2017,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7391700,6.3,,,,,,,
+2017,Hungary,HUN,Europe,Eastern Europe,9787966,13.5,14457.608763614,... ,2900 ,<1000 ,... ,<100 ,<100 
+2017,Iceland,ISL,Europe,Northern Europe,343400,6.5,71314.774196294,... ,<500 ,<100 ,... ,<100 ,<100 
+2017,India,IND,Asia,Southern Asia,1338658835,7.21,1981.26870609561,... ,... ,... ,... ,... ,... 
+2017,Indonesia,IDN,Asia,South-Eastern Asia,264645886,6.433,3836.91381389271,17 000 ,400 000 ,220 000 ,2500 ,24 000 ,12 000 
+2017,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,80673951,4.835,,,,,,,
+2017,Iraq,IRQ,Asia,Western Asia,37552781,4.826,5205.28825481948,,,,,,
+2017,Ireland,IRL,Europe,Northern Europe,4807388,6.3,69649.8827399743,<100 ,4500 ,2400 ,<100 ,<100 ,<100 
+2017,Isle of Man,IMN,Europe,Northern Europe,83598,..,80989.1722114502,,,,,,
+2017,Israel,ISR,Asia,Western Asia,8713300,5.1,40541.8620907084,<100 ,6500 ,2100 ,<100 ,<100 ,<100 
+2017,Italy,ITA,Europe,Southern Europe,60536709,10.7,32326.8417463954,<500 ,89 000 ,38 000 ,<100 ,<500 ,<200 
+2017,Jamaica,JAM,Americas,Caribbean,2920853,7.558,5069.18383810726,... ,... ,... ,... ,... ,... 
+2017,Japan,JPN,Asia,Eastern Asia,126785797,10.8,38331.9793978104,... ,26 000 ,2800 ,... ,... ,... 
+2017,Jordan,JOR,Asia,Western Asia,9779173,3.843,4162.82068657256,... ,<500 ,<100 ,... ,<100 ,<100 
+2017,Kazakhstan,KAZ,Asia,Central Asia,18037776,7.15,9247.58133129626,<500 ,15 000 ,8500 ,<100 ,<500 ,<200 
+2017,Kenya,KEN,Africa,Eastern Africa,50221473,5.582,1568.20154066413,130 000 ,530 000 ,890 000 ,6500 ,12 000 ,10 000 
+2017,Kiribati,KIR,Oceania,Micronesia,114158,6.396,1625.575969558,,,,,,
+2017,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,25429985,8.97,,,,,,,
+2017,"Korea, Rep.",KOR,Asia,Eastern Asia,51466201,5.6,,,,,,,
+2017,Kuwait,KWT,Asia,Western Asia,4056097,2.601,29759.5324471408,... ,<500 ,<200 ,... ,<100 ,<100 
+2017,Kyrgyz Republic,KGZ,Asia,Central Asia,6198200,5.4,1242.76964282023,,,,,,
+2017,Lao PDR,LAO,Asia,South-Eastern Asia,6953035,6.508,2423.8462031921,,,,,,
+2017,Latvia,LVA,Europe,Northern Europe,1942248,14.8,15548.0823130571,... ,3500 ,1600 ,... ,<100 ,<100 
+2017,Lebanon,LBN,Asia,Western Asia,6811873,4.263,7838.34338489943,... ,2000 ,<500 ,... ,<100 ,<100 
+2017,Lesotho,LSO,Africa,Southern Africa,2091412,14.656,1226.6126297762,12 000 ,130 000 ,190 000 ,<1000 ,3200 ,3000 
+2017,Liberia,LBR,Africa,Western Africa,4702228,7.729,698.70176435511,4000 ,14 000 ,22 000 ,<500 ,<1000 ,<1000 
+2017,Libya,LBY,Africa,Northern Africa,6580724,5.099,5756.42314018283,<500 ,6100 ,2600 ,<100 ,<100 ,<100 
+2017,Liechtenstein,LIE,Europe,Western Europe,37800,6.6,..,,,,,,
+2017,Lithuania,LTU,Europe,Northern Europe,2828403,14.2,16840.938567953,... ,... ,... ,... ,... ,... 
+2017,Luxembourg,LUX,Europe,Western Europe,596336,7.1,107361.306947271,... ,<1000 ,<500 ,... ,<100 ,<100 
+2017,"Macao SAR, China",MAC,Asia,Eastern Asia,622585,3.866,,,,,,,
+2017,Madagascar,MDG,Africa,Eastern Africa,25570540,6.185,515.292738970352,1800 ,23 000 ,10 000 ,<500 ,1000 ,<500 
+2017,Malawi,MWI,Africa,Eastern Africa,17670260,6.811,356.717573153369,79 000 ,380 000 ,570 000 ,3300 ,5500 ,4800 
+2017,Malaysia,MYS,Asia,South-Eastern Asia,31105028,5.014,10254.2340242588,<500 ,69 000 ,15 000 ,<100 ,2100 ,<1000 
+2017,Maldives,MDV,Asia,Southern Asia,496402,2.883,9540.63434888323,... ,... ,... ,... ,... ,... 
+2017,Mali,MLI,Africa,Western Africa,18512394,9.984,828.511976401524,19 000 ,46 000 ,81 000 ,2100 ,1900 ,2500 
+2017,Malta,MLT,Europe,Southern Europe,467999,7.6,27283.5447293274,... ,... ,... ,... ,... ,... 
+2017,Marshall Islands,MHL,Oceania,Micronesia,58058,..,3666.69537359193,,,,,,
+2017,Mauritania,MRT,Africa,Western Africa,4282574,7.339,1145.54794727391,<500 ,3400 ,2100 ,<100 ,<500 ,<100 
+2017,Mauritius,MUS,Africa,Eastern Africa,1264613,8,10484.9083620411,<200 ,8500 ,3700 ,<100 ,<500 ,<200 
+2017,Mexico,MEX,Americas,Central America,124777324,5.933,9278.41816833763,2400 ,190 000 ,36 000 ,... ,... ,... 
+2017,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,111459,6.534,,,,,,,
+2017,Moldova,MDA,Europe,Eastern Europe,3549196,11.528,2724.49309280928,,,,,,
+2017,Monaco,MCO,Europe,Western Europe,38392,..,167101.759376942,,,,,,
+2017,Mongolia,MNG,Asia,Eastern Asia,3113779,6.299,3669.4175404033,... ,<500 ,<200 ,... ,<100 ,<100 
+2017,Montenegro,MNE,Europe,Southern Europe,622373,10.592,7784.06528996557,... ,<500 ,<100 ,... ,<100 ,<100 
+2017,Morocco,MAR,Africa,Northern Africa,35581294,5.072,3036.17106160684,<1000 ,12 000 ,8300 ,<100 ,<500 ,<100 
+2017,Mozambique,MOZ,Africa,Eastern Africa,28649007,8.964,461.415094120589,140 000 ,770 000 ,1 200 000 ,8800 ,24 000 ,22 000 
+2017,Myanmar,MMR,Asia,South-Eastern Asia,53382581,8.206,1249.82874570041,9900 ,140 000 ,86 000 ,<500 ,5800 ,2200 
+2017,Namibia,NAM,Africa,Southern Africa,2402603,8.23,5646.45600811344,12 000 ,75 000 ,110 000 ,<500 ,<1000 ,1200 
+2017,Nauru,NRU,Oceania,Micronesia,12876,..,8844.74280553977,,,,,,
+2017,Nepal,NPL,Asia,Southern Asia,27627124,6.404,911.444266508683,1400 ,17 000 ,11 000 ,<100 ,<1000 ,<500 
+2017,Netherlands,NLD,Europe,Western Europe,17131296,8.8,48554.9922761756,<100 ,19 000 ,4000 ,<100 ,<200 ,<100 
+2017,New Caledonia,NCL,Oceania,Melanesia,280350,5.5,..,,,,,,
+2017,New Zealand,NZL,Oceania,Australia and New Zealand,4793900,6.95,42260.1251767853,... ,2900 ,<1000 ,... ,<100 ,<100 
+2017,Nicaragua,NIC,Americas,Central America,6384855,5.049,2168.19520646356,<500 ,6000 ,3000 ,<100 ,<200 ,<100 
+2017,Niger,NER,Africa,Western Africa,21602472,8.529,375.869489673522,2600 ,16 000 ,17 000 ,<500 ,<1000 ,<500 
+2017,Nigeria,NGA,Africa,Western Africa,190873311,12.114,1968.55958830575,140 000 ,750 000 ,960 000 ,13 000 ,25 000 ,13 000 
+2017,North Macedonia,MKD,Europe,Southern Europe,2081996,9.965,5417.64201944282,... ,<500 ,<100 ,... ,<100 ,<100 
+2017,Northern Mariana Islands,MNP,Oceania,Micronesia,56562,..,28305.222587603,,,,,,
+2017,Norway,NOR,Europe,Northern Europe,5276968,7.7,75496.7540581998,... ,4100 ,1600 ,... ,<100 ,<100 
+2017,Oman,OMN,Asia,Western Asia,4665935,2.462,15130.4978264405,... ,2100 ,<1000 ,... ,<100 ,<100 
+2017,Pakistan,PAK,Asia,Southern Asia,207896686,6.994,1464.99330546855,5000 ,100 000 ,44 000 ,<1000 ,3600 ,1700 
+2017,Palau,PLW,Oceania,Micronesia,17808,10.3,16078.2681940701,,,,,,
+2017,Panama,PAN,Americas,Central America,4106771,5.048,15166.124432066,<500 ,18 000 ,7700 ,<100 ,<500 ,<200 
+2017,Papua New Guinea,PNG,Oceania,Melanesia,8438029,7.521,2695.25188280292,3100 ,17 000 ,24 000 ,... ,... ,... 
+2017,Paraguay,PRY,Americas,South America,6867062,5.465,5680.58076826353,<500 ,14 000 ,6400 ,<100 ,<1000 ,<500 
+2017,Peru,PER,Americas,South America,31444297,5.438,6710.50802896038,1600 ,58 000 ,18 000 ,<100 ,<1000 ,<200 
+2017,Philippines,PHL,Asia,South-Eastern Asia,105173264,5.839,2981.93415144162,<500 ,61 000 ,4000 ,<100 ,<1000 ,<200 
+2017,Poland,POL,Europe,Eastern Europe,37974826,10.6,13856.9823892845,... ,... ,... ,... ,... ,... 
+2017,Portugal,PRT,Europe,Southern Europe,10300300,10.6,21437.3475036794,<100 ,29 000 ,12 000 ,<100 ,<500 ,<200 
+2017,Puerto Rico,PRI,Americas,Caribbean,3325001,8.9,31353.4341794183,,,,,,
+2017,Qatar,QAT,Asia,Western Asia,2724724,1.169,61264.3964777979,... ,... ,... ,... ,... ,... 
+2017,Romania,ROU,Europe,Eastern Europe,19587491,13.3,10807.6844848917,<100 ,11 000 ,6300 ,<100 ,<200 ,<100 
+2017,Russian Federation,RUS,Europe,Eastern Europe,144496740,12.9,10750.5871197198,... ,... ,... ,... ,... ,... 
+2017,Rwanda,RWA,Africa,Eastern Africa,11980937,5.308,762.914374550788,13 000 ,81 000 ,130 000 ,<500 ,1300 ,1400 
+2017,Samoa,WSM,Oceania,Polynesia,195352,5.296,4258.48629189424,,,,,,
+2017,San Marino,SMR,Europe,Southern Europe,33671,..,48494.5514112427,,,,,,
+2017,Sao Tome and Principe,STP,Africa,Middle Africa,207089,4.908,1811.00963265499,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2017,Saudi Arabia,SAU,Asia,Western Asia,33099147,3.446,20803.7425657324,... ,... ,... ,... ,... ,... 
+2017,Senegal,SEN,Africa,Western Africa,15419381,5.845,1367.21894802284,4700 ,13 000 ,25 000 ,<500 ,<500 ,<1000 
+2017,Serbia,SRB,Europe,Southern Europe,7020858,14.8,6284.192671588,... ,2400 ,<500 ,... ,<100 ,<100 
+2017,Seychelles,SYC,Africa,Eastern Africa,95843,7.8,15683.6564988559,,,,,,
+2017,Sierra Leone,SLE,Africa,Western Africa,7488431,12.003,499.38070781976,6900 ,24 000 ,37 000 ,<1000 ,1100 ,<1000 
+2017,Singapore,SGP,Asia,South-Eastern Asia,5612253,5,60297.7937806208,... ,7100 ,<1000 ,... ,<100 ,<100 
+2017,Sint Maarten (Dutch part),SXM,Americas,Caribbean,40574,..,,,,,,,
+2017,Slovak Republic,SVK,Europe,Eastern Europe,5439232,9.9,17510.0889889901,,,,,,
+2017,Slovenia,SVN,Europe,Southern Europe,2066388,9.9,23442.704281871,... ,... ,... ,... ,<100 ,<100 
+2017,Solomon Islands,SLB,Oceania,Melanesia,636038,4.284,2059.04542688849,,,,,,
+2017,Somalia,SOM,Africa,Eastern Africa,14589119,11.062,309.055354770056,1400 ,4200 ,5700 ,<200 ,<500 ,<500 
+2017,South Africa,ZAF,Africa,Southern Africa,57000451,9.498,6132.4798409721,270 000 ,2 800 000 ,4 600 000 ,5600 ,31 000 ,34 000 
+2017,South Sudan,SSD,Africa,Eastern Africa,10910759,10.574,,16 000 ,70 000 ,100 000 ,1900 ,3700 ,4300 
+2017,Spain,ESP,Europe,Southern Europe,46593236,9,28100.8522848303,<100 ,120 000 ,27 000 ,<100 ,<1000 ,<200 
+2017,Sri Lanka,LKA,Asia,Southern Asia,21444000,6.554,4104.63098320435,... ,2400 ,1100 ,... ,<200 ,<100 
+2017,St. Kitts and Nevis,KNA,Americas,Caribbean,52045,..,19155.4317310874,,,,,,
+2017,St. Lucia,LCA,Americas,Caribbean,180955,7.16,10039.6714141126,,,,,,
+2017,St. Martin (French part),MAF,Americas,Caribbean,36560,4.3,,,,,,,
+2017,St. Vincent and the Grenadines,VCT,Americas,Caribbean,109827,9.162,7212.96018080962,,,,,,
+2017,Sudan,SDN,Africa,Northern Africa,40813396,7.261,3015.02442975186,4100 ,28 000 ,25 000 ,<500 ,1200 ,1100 
+2017,Suriname,SUR,Americas,South America,570496,7.277,5379.11941495353,<100 ,3100 ,2300 ,<100 ,<100 ,<100 
+2017,Sweden,SWE,Europe,Northern Europe,10057698,9.1,53744.4290321437,... ,... ,... ,... ,... ,... 
+2017,Switzerland,CHE,Europe,Western Europe,8451840,7.9,80450.0458197413,... ,... ,... ,... ,... ,... 
+2017,Syrian Arab Republic,SYR,Asia,Western Asia,17068002,5.584,,... ,<500 ,<200 ,... ,<100 ,<100 
+2017,Tajikistan,TJK,Asia,Central Asia,8880268,4.961,806.041573098044,<1000 ,8800 ,3300 ,<100 ,<500 ,<100 
+2017,Tanzania,TZA,Africa,Eastern Africa,54663906,6.622,1004.84112066441,,,,,,
+2017,Thailand,THA,Asia,South-Eastern Asia,69209858,7.559,6578.18886493522,4000 ,270 000 ,220 000 ,<200 ,12 000 ,7900 
+2017,Timor-Leste,TLS,Asia,South-Eastern Asia,1243261,6.05,2000.60116097907,... ,... ,... ,... ,... ,... 
+2017,Togo,TGO,Africa,Western Africa,7698475,8.568,624.544945930112,13 000 ,35 000 ,59 000 ,1000 ,1600 ,1400 
+2017,Tonga,TON,Oceania,Polynesia,101998,7.194,4217.47650679527,,,,,,
+2017,Trinidad and Tobago,TTO,Americas,Caribbean,1384072,8.261,16238.1931916674,... ,... ,... ,... ,... ,... 
+2017,Tunisia,TUN,Africa,Northern Africa,11433443,6.274,3482.18672918633,... ,1800 ,<1000 ,... ,<100 ,<100 
+2017,Turkey,TUR,Asia,Western Asia,81101892,5.394,10513.6484152661,... ,... ,... ,... ,... ,... 
+2017,Turkmenistan,TKM,Asia,Central Asia,5757669,7.057,6587.09031628698,... ,... ,... ,... ,... ,... 
+2017,Turks and Caicos Islands,TCA,Americas,Caribbean,37115,..,25933.6074363465,,,,,,
+2017,Tuvalu,TUV,Oceania,Polynesia,11370,..,3572.60836706326,,,,,,
+2017,Uganda,UGA,Africa,Eastern Africa,41162465,6.769,631.522719792278,110 000 ,500 000 ,760 000 ,5900 ,12 000 ,7200 
+2017,Ukraine,UKR,Europe,Eastern Europe,44831135,14.5,2640.67567655839,<1000 ,150 000 ,84 000 ,<100 ,5500 ,1300 
+2017,United Arab Emirates,ARE,Asia,Western Asia,9487203,1.429,39811.634701763,... ,... ,... ,... ,... ,... 
+2017,United Kingdom,GBR,Europe,Northern Europe,66058859,9.2,40361.4173832159,... ,72 000 ,30 000 ,... ,<200 ,<100 
+2017,United States,USA,Americas,Northern America,325147121,8.5,59927.9298339535,... ,... ,... ,... ,... ,... 
+2017,Uruguay,URY,Americas,South America,3436646,9.461,16437.2448692778,<200 ,9500 ,3900 ,<100 ,<200 ,<100 
+2017,Uzbekistan,UZB,Asia,Central Asia,32388600,5,1826.56691924216,5400 ,28 000 ,15 000 ,<500 ,1000 ,<200 
+2017,Vanuatu,VUT,Oceania,Melanesia,285510,5.334,3082.35632289041,,,,,,
+2017,"Venezuela, RB",VEN,Americas,South America,29390409,6.814,,,,,,,
+2017,Vietnam,VNM,Asia,South-Eastern Asia,94596642,6.253,2365.62166567374,,,,,,
+2017,Virgin Islands (U.S.),VIR,Americas,Caribbean,107268,7.8,35938.0243875154,,,,,,
+2017,West Bank and Gaza,PSE,Asia,Western Asia,4454805,3.469,3254.48588658763,,,,,,
+2017,"Yemen, Rep.",YEM,Asia,Western Asia,27834821,5.978,,,,,,,
+2017,Zambia,ZMB,Africa,Eastern Africa,16853688,6.633,1534.86537052245,65 000 ,470 000 ,680 000 ,2800 ,6500 ,6700 
+2017,Zimbabwe,ZWE,Africa,Eastern Africa,14236745,8.044,1602.40350699048,89 000 ,490 000 ,720 000 ,4200 ,8900 ,9700 
+2018,Afghanistan,AFG,Asia,Southern Asia,37172386,..,520.896602719135,<500 ,4900 ,2000 ,<100 ,<500 ,<100 
+2018,Albania,ALB,Europe,Southern Europe,2866376,..,5268.84850355919,... ,... ,... ,... ,... ,... 
+2018,Algeria,DZA,Africa,Northern Africa,42228429,..,4114.71506136896,<500 ,8300 ,7000 ,<100 ,<100 ,<100 
+2018,American Samoa,ASM,Oceania,Polynesia,55465,..,11466.6907058505,,,,,,
+2018,Andorra,AND,Europe,Southern Europe,77006,..,42029.7627372989,,,,,,
+2018,Angola,AGO,Africa,Middle Africa,30809762,..,3432.38573600893,38 000 ,92 000 ,200 000 ,4900 ,2500 ,6100 
+2018,Antigua and Barbuda,ATG,Americas,Caribbean,96286,..,16726.9808079479,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2018,Argentina,ARG,Americas,South America,44494502,..,11683.9496216363,1800 ,93 000 ,45 000 ,<100 ,1300 ,<500 
+2018,Armenia,ARM,Asia,Western Asia,2951776,..,4212.07094272937,... ,2300 ,1200 ,... ,<100 ,<100 
+2018,Aruba,ABW,Americas,Caribbean,105845,..,..,,,,,,
+2018,Australia,AUS,Oceania,Australia and New Zealand,24992369,..,57373.6866841281,<100 ,24 000 ,3300 ,<100 ,<200 ,<100 
+2018,Austria,AUT,Europe,Western Europe,8847037,..,51461.9547804677,... ,... ,... ,... ,... ,... 
+2018,Azerbaijan,AZE,Asia,Western Asia,9942334,..,4721.17808673142,... ,... ,... ,... ,... ,... 
+2018,"Bahamas, The",BHS,Americas,Caribbean,385640,..,,,,,,,
+2018,Bahrain,BHR,Asia,Western Asia,1569439,..,24050.7575053956,... ,... ,... ,... ,... ,... 
+2018,Bangladesh,BGD,Asia,Southern Asia,161356039,..,1698.26280233547,<500 ,8700 ,4800 ,<100 ,<500 ,<500 
+2018,Barbados,BRB,Americas,Caribbean,286641,..,17949.2815054371,... ,2000 ,1000 ,... ,<100 ,<100 
+2018,Belarus,BLR,Europe,Eastern Europe,9485386,..,6289.93855308212,<500 ,15 000 ,11 000 ,<100 ,<200 ,<100 
+2018,Belgium,BEL,Europe,Western Europe,11422068,..,47518.6360388914,... ,... ,... ,... ,... ,... 
+2018,Belize,BLZ,Americas,Central America,383071,..,4884.74242133376,<200 ,2500 ,2200 ,<100 ,<200 ,<100 
+2018,Benin,BEN,Africa,Western Africa,11485048,..,901.543871206357,4600 ,27 000 ,42 000 ,<500 ,<1000 ,<1000 
+2018,Bermuda,BMU,Americas,Northern America,63968,..,..,,,,,,
+2018,Bhutan,BTN,Asia,Southern Asia,754394,..,3243.23112508014,... ,<1000 ,<500 ,... ,<100 ,<100 
+2018,Bolivia,BOL,Americas,South America,11353142,..,3548.59013979338,,,,,,
+2018,Bosnia and Herzegovina,BIH,Europe,Southern Europe,3323929,..,6065.67270824158,... ,<500 ,<100 ,... ,<100 ,<100 
+2018,Botswana,BWA,Africa,Southern Africa,2254126,..,8258.64166574691,14 000 ,150 000 ,200 000 ,<1000 ,2200 ,2100 
+2018,Brazil,BRA,Americas,South America,209469333,..,8920.76210462979,... ,... ,... ,... ,... ,... 
+2018,British Virgin Islands,VGB,Americas,Caribbean,29802,..,..,,,,,,
+2018,Brunei Darussalam,BRN,Asia,South-Eastern Asia,428962,..,31628.3287914349,... ,... ,... ,... ,... ,... 
+2018,Bulgaria,BGR,Europe,Eastern Europe,7024216,..,9272.62930360848,... ,2800 ,<1000 ,... ,<100 ,<100 
+2018,Burkina Faso,BFA,Africa,Western Africa,19751535,..,715.12290404614,9100 ,34 000 ,53 000 ,<500 ,1700 ,1100 
+2018,Burundi,BDI,Africa,Eastern Africa,11175378,..,271.752044376648,11 000 ,27 000 ,44 000 ,<1000 ,<1000 ,<1000 
+2018,Cabo Verde,CPV,Africa,Western Africa,543767,..,3635.40684982339,... ,1100 ,1300 ,... ,<100 ,<100 
+2018,Cambodia,KHM,Asia,South-Eastern Asia,16249798,..,1510.3248705764,3300 ,33 000 ,37 000 ,<100 ,<1000 ,<1000 
+2018,Cameroon,CMR,Africa,Middle Africa,25216237,..,1533.74213975885,43 000 ,170 000 ,330 000 ,3600 ,6300 ,8000 
+2018,Canada,CAN,Americas,Northern America,37058856,..,46232.9896226967,... ,... ,... ,... ,... ,... 
+2018,Cayman Islands,CYM,Americas,Caribbean,64174,..,..,,,,,,
+2018,Central African Republic,CAF,Africa,Middle Africa,4666377,..,475.721250544318,11 000 ,40 000 ,59 000 ,<1000 ,2300 ,1600 
+2018,Chad,TCD,Africa,Middle Africa,15477751,..,728.343235359289,16 000 ,45 000 ,60 000 ,1500 ,<1000 ,<1000 
+2018,Chile,CHL,Americas,South America,18729160,..,15923.3587375381,<500 ,59 000 ,12 000 ,<100 ,<500 ,<200 
+2018,China,CHN,Asia,Eastern Asia,1392730000,..,9770.84708783314,... ,... ,... ,... ,... ,... 
+2018,Colombia,COL,Americas,South America,49648685,..,6667.7906995498,3600 ,120 000 ,31 000 ,... ,... ,... 
+2018,Comoros,COM,Africa,Eastern Africa,832322,..,1415.26362231562,... ,<100 ,<100 ,... ,<100 ,<100 
+2018,"Congo, Dem. Rep.",COD,Africa,Middle Africa,84068091,..,,,,,,,
+2018,"Congo, Rep.",COG,Africa,Middle Africa,5244363,..,,,,,,,
+2018,Costa Rica,CRI,Americas,Central America,4999441,..,12027.3658826316,... ,12 000 ,2900 ,... ,<200 ,<100 
+2018,Cote d'Ivoire,CIV,Africa,Western Africa,25069229,..,1715.53133212649,,,,,,
+2018,Croatia,HRV,Europe,Southern Europe,4089400,..,14909.6931860854,... ,... ,... ,... ,... ,... 
+2018,Cuba,CUB,Americas,Caribbean,11338138,..,8821.81889125004,<100 ,25 000 ,5600 ,<100 ,<500 ,<100 
+2018,Curacao,CUW,Americas,Caribbean,159849,..,19567.8924351055,,,,,,
+2018,Cyprus,CYP,Asia,Western Asia,1189265,..,28159.3016999455,... ,... ,... ,... ,... ,... 
+2018,Czech Republic,CZE,Europe,Eastern Europe,10625695,..,23078.5734865691,,,,,,
+2018,Denmark,DNK,Europe,Northern Europe,5797446,..,61350.3479093986,... ,4600 ,1600 ,... ,<100 ,<100 
+2018,Djibouti,DJI,Africa,Eastern Africa,958920,..,3082.54309871957,<1000 ,3400 ,4600 ,<100 ,<200 ,<200 
+2018,Dominica,DMA,Americas,Caribbean,71625,..,7691.34509727878,<100 ,<200 ,<100 ,<100 ,<100 ,<100 
+2018,Dominican Republic,DOM,Americas,Caribbean,10627165,..,8050.63160184635,1400 ,35 000 ,34 000 ,<100 ,<1000 ,<1000 
+2018,Ecuador,ECU,Americas,South America,17084357,..,6344.87197850057,<1000 ,30 000 ,13 000 ,<100 ,<500 ,<200 
+2018,"Egypt, Arab Rep.",EGY,Africa,Northern Africa,98423595,..,,,,,,,
+2018,El Salvador,SLV,Americas,Central America,6420744,..,4058.25243928118,<1000 ,16 000 ,9100 ,<100 ,<500 ,<200 
+2018,Equatorial Guinea,GNQ,Africa,Middle Africa,1308974,..,10261.7600116887,5300 ,28 000 ,30 000 ,<1000 ,1000 ,<500 
+2018,Eritrea,ERI,Africa,Eastern Africa,..,..,..,1300 ,6400 ,9800 ,<200 ,<200 ,<500 
+2018,Estonia,EST,Europe,Northern Europe,1320884,..,23266.3462718751,... ,4800 ,2600 ,... ,<100 ,<100 
+2018,Eswatini,SWZ,Africa,Southern Africa,1136191,..,4145.97411168691,11 000 ,72 000 ,120 000 ,<500 ,<1000 ,1300 
+2018,Ethiopia,ETH,Africa,Eastern Africa,109224559,..,772.313530261357,36 000 ,240 000 ,410 000 ,1800 ,3700 ,5500 
+2018,Faroe Islands,FRO,Europe,Northern Europe,48497,..,,,,,,,
+2018,Fiji,FJI,Oceania,Melanesia,883483,..,6266.96796528074,... ,... ,... ,... ,... ,... 
+2018,Finland,FIN,Europe,Northern Europe,5518050,..,50152.3401411303,... ,2900 ,1100 ,... ,<100 ,<100 
+2018,France,FRA,Europe,Western Europe,66987244,..,41463.6440227034,<500 ,130 000 ,46 000 ,<100 ,<500 ,<100 
+2018,French Polynesia,PYF,Oceania,Polynesia,277679,..,,,,,,,
+2018,Gabon,GAB,Africa,Middle Africa,2119275,..,7952.52589277651,3200 ,16 000 ,35 000 ,<500 ,<500 ,<1000 
+2018,"Gambia, The",GMB,Africa,Western Africa,2280102,..,,,,,,,
+2018,Georgia,GEO,Asia,Western Asia,3731000,..,4717.14302573577,... ,6300 ,3000 ,... ,<200 ,<100 
+2018,Germany,DEU,Europe,Western Europe,82927922,..,47603.0276328757,<200 ,70 000 ,17 000 ,<100 ,<500 ,<100 
+2018,Ghana,GHA,Africa,Western Africa,29767108,..,2202.31216442504,30 000 ,100 000 ,200 000 ,2800 ,5800 ,5600 
+2018,Gibraltar,GIB,Europe,Southern Europe,33718,..,..,,,,,,
+2018,Greece,GRC,Europe,Southern Europe,10727668,..,20324.2535641478,... ,... ,... ,... ,... ,... 
+2018,Greenland,GRL,Americas,Northern America,56025,..,,,,,,,
+2018,Grenada,GRD,Americas,Caribbean,111454,..,10640.496760331,<100 ,<500 ,<200 ,<100 ,<100 ,<100 
+2018,Guam,GUM,Oceania,Micronesia,165768,..,35712.5621350321,,,,,,
+2018,Guatemala,GTM,Americas,Central America,17247807,..,4549.01008110721,2000 ,26 000 ,19 000 ,<200 ,1100 ,<1000 
+2018,Guinea,GIN,Africa,Western Africa,12414318,..,878.599613250501,10 000 ,42 000 ,67 000 ,<1000 ,1500 ,1800 
+2018,Guinea-Bissau,GNB,Africa,Western Africa,1874309,..,777.969921802522,5700 ,15 000 ,24 000 ,<500 ,<1000 ,<1000 
+2018,Guyana,GUY,Americas,South America,779004,..,4979.00218839886,<500 ,4100 ,3800 ,<100 ,<100 ,<100 
+2018,Haiti,HTI,Americas,Caribbean,11123176,..,868.34202469407,8700 ,62 000 ,87 000 ,<1000 ,1200 ,<1000 
+2018,Honduras,HND,Americas,Central America,9587522,..,2500.11321286023,<1000 ,13 000 ,8900 ,<100 ,<1000 ,<500 
+2018,"Hong Kong SAR, China",HKG,Asia,Eastern Asia,7451000,..,,,,,,,
+2018,Hungary,HUN,Europe,Eastern Europe,9768785,..,16161.9805101918,... ,3100 ,<1000 ,... ,<100 ,<100 
+2018,Iceland,ISL,Europe,Northern Europe,353574,..,73191.1163154337,... ,<500 ,<100 ,... ,<100 ,<100 
+2018,India,IND,Asia,Southern Asia,1352617328,..,2009.97885727039,... ,... ,... ,... ,... ,... 
+2018,Indonesia,IDN,Asia,South-Eastern Asia,267663435,..,3893.59607757239,18 000 ,400 000 ,220 000 ,2500 ,23 000 ,12 000 
+2018,"Iran, Islamic Rep.",IRN,Asia,Southern Asia,81800269,..,,,,,,,
+2018,Iraq,IRQ,Asia,Western Asia,38433600,..,5834.16621076061,,,,,,
+2018,Ireland,IRL,Europe,Northern Europe,4853506,..,78806.431996268,<100 ,4700 ,2500 ,<100 ,<100 ,<100 
+2018,Isle of Man,IMN,Europe,Northern Europe,84077,..,..,,,,,,
+2018,Israel,ISR,Asia,Western Asia,8883800,..,41715.0292840432,<100 ,6700 ,2200 ,<100 ,<100 ,<100 
+2018,Italy,ITA,Europe,Southern Europe,60431283,..,34483.2039992043,<500 ,90 000 ,39 000 ,<100 ,<1000 ,<200 
+2018,Jamaica,JAM,Americas,Caribbean,2934855,..,5354.2368587703,... ,... ,... ,... ,... ,... 
+2018,Japan,JPN,Asia,Eastern Asia,126529100,..,39289.9584346358,... ,27 000 ,2800 ,... ,... ,... 
+2018,Jordan,JOR,Asia,Western Asia,9956011,..,4241.78878213854,... ,<500 ,<100 ,... ,<100 ,<100 
+2018,Kazakhstan,KAZ,Asia,Central Asia,18276499,..,9812.60113654067,<500 ,16 000 ,9200 ,<100 ,<500 ,<100 
+2018,Kenya,KEN,Africa,Eastern Africa,51393010,..,1710.51009699405,120 000 ,530 000 ,910 000 ,5200 ,11 000 ,9100 
+2018,Kiribati,KIR,Oceania,Micronesia,115847,..,1625.28610001512,,,,,,
+2018,"Korea, Dem. People’s Rep.",PRK,Asia,Eastern Asia,25549819,..,,,,,,,
+2018,"Korea, Rep.",KOR,Asia,Eastern Asia,51635256,..,,,,,,,
+2018,Kuwait,KWT,Asia,Western Asia,4137309,..,33994.4065667831,... ,<500 ,<200 ,... ,<100 ,<100 
+2018,Kyrgyz Republic,KGZ,Asia,Central Asia,6315800,..,1281.36366078545,,,,,,
+2018,Lao PDR,LAO,Asia,South-Eastern Asia,7061507,..,2542.4865281792,,,,,,
+2018,Latvia,LVA,Europe,Northern Europe,1926542,..,17860.6171980214,... ,3700 ,1700 ,... ,<100 ,<100 
+2018,Lebanon,LBN,Asia,Western Asia,6848925,..,8269.78767551923,... ,2100 ,<500 ,... ,<100 ,<100 
+2018,Lesotho,LSO,Africa,Southern Africa,2108132,..,1299.15312598733,12 000 ,130 000 ,190 000 ,<1000 ,2800 ,2600 
+2018,Liberia,LBR,Africa,Western Africa,4818977,..,677.322178545364,3700 ,14 000 ,22 000 ,<500 ,<1000 ,<1000 
+2018,Libya,LBY,Africa,Northern Africa,6678567,..,7241.70448113024,<500 ,6300 ,2700 ,<100 ,<100 ,<100 
+2018,Liechtenstein,LIE,Europe,Western Europe,37910,..,,,,,,,
+2018,Lithuania,LTU,Europe,Northern Europe,2789533,..,19153.4089860651,... ,... ,... ,... ,... ,... 
+2018,Luxembourg,LUX,Europe,Western Europe,607728,..,116639.88804711,... ,<1000 ,<500 ,... ,<100 ,<100 
+2018,"Macao SAR, China",MAC,Asia,Eastern Asia,631636,..,,,,,,,
+2018,Madagascar,MDG,Africa,Eastern Africa,26262368,..,527.501285041282,1900 ,25 000 ,12 000 ,<500 ,1000 ,<500 
+2018,Malawi,MWI,Africa,Eastern Africa,18143315,..,389.398033178836,74 000 ,390 000 ,580 000 ,2600 ,5500 ,5000 
+2018,Malaysia,MYS,Asia,South-Eastern Asia,31528585,..,11373.2330025676,<500 ,72 000 ,15 000 ,<100 ,2100 ,<1000 
+2018,Maldives,MDV,Asia,Southern Asia,515696,..,10330.615614094,... ,... ,... ,... ,... ,... 
+2018,Mali,MLI,Africa,Western Africa,19077690,..,899.659908096615,19 000 ,48 000 ,85 000 ,2200 ,1900 ,2400 
+2018,Malta,MLT,Europe,Southern Europe,483530,..,30098.2833099975,... ,... ,... ,... ,... ,... 
+2018,Marshall Islands,MHL,Oceania,Micronesia,58413,..,3788.16359372058,,,,,,
+2018,Mauritania,MRT,Africa,Western Africa,4403319,..,1188.83458753973,<500 ,3200 ,2000 ,<100 ,<200 ,<100 
+2018,Mauritius,MUS,Africa,Eastern Africa,1265303,..,11238.6903948961,<100 ,8600 ,3800 ,<100 ,<500 ,<200 
+2018,Mexico,MEX,Americas,Central America,126190788,..,9673.44367360619,2300 ,190 000 ,37 000 ,... ,... ,... 
+2018,"Micronesia, Fed. Sts.",FSM,Oceania,Micronesia,112640,..,,,,,,,
+2018,Moldova,MDA,Europe,Eastern Europe,3545883,..,3227.3121916043,,,,,,
+2018,Monaco,MCO,Europe,Western Europe,38682,..,185741.279991587,,,,,,
+2018,Mongolia,MNG,Asia,Eastern Asia,3170208,..,4121.73243469391,... ,<500 ,<200 ,... ,<100 ,<100 
+2018,Montenegro,MNE,Europe,Southern Europe,622345,..,8844.23698538056,... ,<500 ,<100 ,... ,<100 ,<100 
+2018,Morocco,MAR,Africa,Northern Africa,36029138,..,3237.88336815666,<1000 ,12 000 ,8500 ,<100 ,<500 ,<100 
+2018,Mozambique,MOZ,Africa,Eastern Africa,29495962,..,498.957220208652,140 000 ,800 000 ,1 200 000 ,8700 ,24 000 ,21 000 
+2018,Myanmar,MMR,Asia,South-Eastern Asia,53708395,..,1325.9529237064,9800 ,140 000 ,87 000 ,<500 ,5300 ,2100 
+2018,Namibia,NAM,Africa,Southern Africa,2448255,..,5931.45388611617,11 000 ,76 000 ,110 000 ,<500 ,<1000 ,1400 
+2018,Nauru,NRU,Oceania,Micronesia,12704,..,9888.89359652993,,,,,,
+2018,Nepal,NPL,Asia,Southern Asia,28087871,..,1033.91243082634,1400 ,17 000 ,12 000 ,<100 ,<1000 ,<200 
+2018,Netherlands,NLD,Europe,Western Europe,17231017,..,53024.0592130531,... ,... ,... ,... ,... ,... 
+2018,New Caledonia,NCL,Oceania,Melanesia,284060,..,,,,,,,
+2018,New Zealand,NZL,Oceania,Australia and New Zealand,4885500,..,41945.3316690932,... ,3000 ,<1000 ,... ,<100 ,<100 
+2018,Nicaragua,NIC,Americas,Central America,6465513,..,2028.89475539369,<500 ,6100 ,3000 ,<100 ,<200 ,<100 
+2018,Niger,NER,Africa,Western Africa,22442948,..,413.980304962089,2500 ,16 000 ,17 000 ,<500 ,<1000 ,<500 
+2018,Nigeria,NGA,Africa,Western Africa,195874740,..,2028.18197017598,140 000 ,770 000 ,1 000 000 ,14 000 ,26 000 ,14 000 
+2018,North Macedonia,MKD,Europe,Southern Europe,2082958,..,6083.71894832148,... ,<500 ,<100 ,... ,<100 ,<100 
+2018,Northern Mariana Islands,MNP,Oceania,Micronesia,56882,..,23258.6758552794,,,,,,
+2018,Norway,NOR,Europe,Northern Europe,5314336,..,81697.2459836768,... ,4100 ,1600 ,... ,<100 ,<100 
+2018,Oman,OMN,Asia,Western Asia,4829483,..,16415.1572780989,... ,2200 ,<1000 ,... ,<100 ,<100 
+2018,Pakistan,PAK,Asia,Southern Asia,212215030,..,1482.40306306798,5500 ,110 000 ,48 000 ,<1000 ,3800 ,1800 
+2018,Palau,PLW,Oceania,Micronesia,17907,..,15859.4348578768,,,,,,
+2018,Panama,PAN,Americas,Central America,4176873,..,15575.0725482915,<500 ,18 000 ,8000 ,<100 ,<500 ,<200 
+2018,Papua New Guinea,PNG,Oceania,Melanesia,8606316,..,2730.27479935873,2900 ,18 000 ,25 000 ,... ,... ,... 
+2018,Paraguay,PRY,Americas,South America,6956071,..,5821.81432292324,<500 ,14 000 ,6400 ,<100 ,<500 ,<200 
+2018,Peru,PER,Americas,South America,31989256,..,6941.23584763012,1600 ,59 000 ,18 000 ,<100 ,<1000 ,<200 
+2018,Philippines,PHL,Asia,South-Eastern Asia,106651922,..,3102.71336329931,<500 ,72 000 ,4600 ,<100 ,1000 ,<200 
+2018,Poland,POL,Europe,Eastern Europe,37978548,..,15420.9111634295,... ,... ,... ,... ,... ,... 
+2018,Portugal,PRT,Europe,Southern Europe,10281762,..,23407.9065887968,<100 ,29 000 ,12 000 ,<100 ,<500 ,<100 
+2018,Puerto Rico,PRI,Americas,Caribbean,3195153,..,31651.3481514031,,,,,,
+2018,Qatar,QAT,Asia,Western Asia,2781677,..,68793.7844372614,... ,... ,... ,... ,... ,... 
+2018,Romania,ROU,Europe,Eastern Europe,19473936,..,12301.1864034302,<100 ,11 000 ,6500 ,<100 ,<200 ,<100 
+2018,Russian Federation,RUS,Europe,Eastern Europe,144478050,..,11288.8724435206,... ,... ,... ,... ,... ,... 
+2018,Rwanda,RWA,Africa,Eastern Africa,12301939,..,772.944459929187,12 000 ,81 000 ,130 000 ,<500 ,1200 ,1300 
+2018,Samoa,WSM,Oceania,Polynesia,196130,..,4183.40793504696,,,,,,
+2018,San Marino,SMR,Europe,Southern Europe,33785,..,..,,,,,,
+2018,Sao Tome and Principe,STP,Africa,Middle Africa,211028,..,2001.14090226164,<100 ,<1000 ,<500 ,<100 ,<100 ,<100 
+2018,Saudi Arabia,SAU,Asia,Western Asia,33699947,..,23338.9634580718,... ,... ,... ,... ,... ,... 
+2018,Senegal,SEN,Africa,Western Africa,15854360,..,1521.95355421391,4500 ,12 000 ,25 000 ,<500 ,<500 ,<500 
+2018,Serbia,SRB,Europe,Southern Europe,6982084,..,7246.73165586437,... ,2600 ,<500 ,... ,<100 ,<100 
+2018,Seychelles,SYC,Africa,Eastern Africa,96762,..,16433.9352865158,,,,,,
+2018,Sierra Leone,SLE,Africa,Western Africa,7650154,..,533.991184258936,6600 ,25 000 ,38 000 ,<1000 ,<1000 ,<1000 
+2018,Singapore,SGP,Asia,South-Eastern Asia,5638676,..,64581.9440183954,... ,7200 ,<1000 ,... ,<100 ,<100 
+2018,Sint Maarten (Dutch part),SXM,Americas,Caribbean,40654,..,..,,,,,,
+2018,Slovak Republic,SVK,Europe,Eastern Europe,5447011,..,19442.7057620693,,,,,,
+2018,Slovenia,SVN,Europe,Southern Europe,2067372,..,26123.9738694646,... ,... ,... ,... ,<100 ,<100 
+2018,Solomon Islands,SLB,Oceania,Melanesia,652858,..,2137.69069539357,,,,,,
+2018,Somalia,SOM,Africa,Eastern Africa,15008154,..,314.544165670763,1300 ,3900 ,5600 ,<200 ,<500 ,<500 
+2018,South Africa,ZAF,Africa,Southern Africa,57779622,..,6374.02819575944,260 000 ,2 800 000 ,4 700 000 ,4400 ,33 000 ,33 000 
+2018,South Sudan,SSD,Africa,Eastern Africa,10975920,..,..,16 000 ,73 000 ,100 000 ,1900 ,3500 ,4400 
+2018,Spain,ESP,Europe,Southern Europe,46723749,..,30370.8923252247,<100 ,120 000 ,27 000 ,... ,... ,... 
+2018,Sri Lanka,LKA,Asia,Southern Asia,21670000,..,4102.48135014467,... ,2400 ,1000 ,... ,<200 ,<100 
+2018,St. Kitts and Nevis,KNA,Americas,Caribbean,52441,..,19275.4185126566,,,,,,
+2018,St. Lucia,LCA,Americas,Caribbean,181889,..,10566.0497458462,,,,,,
+2018,St. Martin (French part),MAF,Americas,Caribbean,37264,..,..,,,,,,
+2018,St. Vincent and the Grenadines,VCT,Americas,Caribbean,110210,..,7361.4009618002,,,,,,
+2018,Sudan,SDN,Africa,Northern Africa,41801533,..,977.273635724417,4200 ,29 000 ,26 000 ,<1000 ,1300 ,1100 
+2018,Suriname,SUR,Americas,South America,575991,..,6234.04492230646,<100 ,3100 ,2400 ,<100 ,<100 ,<100 
+2018,Sweden,SWE,Europe,Northern Europe,10183175,..,54608.3602546906,... ,... ,... ,... ,... ,... 
+2018,Switzerland,CHE,Europe,Western Europe,8516543,..,82796.5471631285,... ,... ,... ,... ,... ,... 
+2018,Syrian Arab Republic,SYR,Asia,Western Asia,16906283,..,..,... ,<500 ,<200 ,... ,<100 ,<100 
+2018,Tajikistan,TJK,Asia,Central Asia,9100837,..,826.621530538704,<1000 ,8900 ,3500 ,<100 ,<500 ,<100 
+2018,Tanzania,TZA,Africa,Eastern Africa,56318348,..,1050.67525379846,,,,,,
+2018,Thailand,THA,Asia,South-Eastern Asia,69428524,..,7273.56320732092,3200 ,270 000 ,210 000 ,<100 ,11 000 ,7600 
+2018,Timor-Leste,TLS,Asia,South-Eastern Asia,1267972,..,2035.53390768881,... ,... ,... ,... ,... ,... 
+2018,Togo,TGO,Africa,Western Africa,7889094,..,679.257083602874,12 000 ,35 000 ,60 000 ,<1000 ,1600 ,1200 
+2018,Tonga,TON,Oceania,Polynesia,103197,..,4364.01556134949,,,,,,
+2018,Trinidad and Tobago,TTO,Americas,Caribbean,1389858,..,17129.9130902577,... ,... ,... ,... ,... ,... 
+2018,Tunisia,TUN,Africa,Northern Africa,11565204,..,3447.50790975551,... ,1900 ,<1000 ,... ,<100 ,<100 
+2018,Turkey,TUR,Asia,Western Asia,82319724,..,9370.1763438282,... ,... ,... ,... ,... ,... 
+2018,Turkmenistan,TKM,Asia,Central Asia,5850908,..,6966.63541063077,... ,... ,... ,... ,... ,... 
+2018,Turks and Caicos Islands,TCA,Americas,Caribbean,37665,..,27142.2277976902,,,,,,
+2018,Tuvalu,TUV,Oceania,Polynesia,11508,..,3700.71067713471,,,,,,
+2018,Uganda,UGA,Africa,Eastern Africa,42723139,..,642.776744292007,100 000 ,510 000 ,770 000 ,5500 ,11 000 ,7000 
+2018,Ukraine,UKR,Europe,Eastern Europe,44622516,..,3095.17358053586,<1000 ,150 000 ,86 000 ,<100 ,5000 ,1000 
+2018,United Arab Emirates,ARE,Asia,Western Asia,9630959,..,43004.9533584848,... ,... ,... ,... ,... ,... 
+2018,United Kingdom,GBR,Europe,Northern Europe,66488991,..,42943.9022698053,... ,... ,... ,... ,... ,... 
+2018,United States,USA,Americas,Northern America,327167434,..,62794.5856522398,... ,... ,... ,... ,... ,... 
+2018,Uruguay,URY,Americas,South America,3449299,..,17277.9701105496,<200 ,9900 ,4000 ,<100 ,<200 ,<100 
+2018,Uzbekistan,UZB,Asia,Central Asia,32955400,..,1532.37167679684,6000 ,30 000 ,16 000 ,<500 ,<1000 ,<100 
+2018,Vanuatu,VUT,Oceania,Melanesia,292680,..,3123.89339649956,,,,,,
+2018,"Venezuela, RB",VEN,Americas,South America,28870195,..,,,,,,,
+2018,Vietnam,VNM,Asia,South-Eastern Asia,95540395,..,2566.59694958511,,,,,,
+2018,Virgin Islands (U.S.),VIR,Americas,Caribbean,106977,..,..,,,,,,
+2018,West Bank and Gaza,PSE,Asia,Western Asia,4569087,..,3198.86664447405,,,,,,
+2018,"Yemen, Rep.",YEM,Asia,Western Asia,28498687,..,,,,,,,
+2018,Zambia,ZMB,Africa,Eastern Africa,17351822,..,1539.90015779907,62 000 ,480 000 ,700 000 ,3000 ,6600 ,7000 
+2018,Zimbabwe,ZWE,Africa,Eastern Africa,14439018,..,2146.99638487707,84 000 ,490 000 ,730 000 ,3300 ,9000 ,9700 
